@@ -57,16 +57,16 @@ def sort_data():
     read_file = get_excel()
     cols = get_columns()
 
-    data = {"LEO" : {},
-            "GEO" : {},
-            "MEO" : {},
-            "Elliptical" : {}
+    data = {'LEO' : {},
+            'GEO' : {},
+            'MEO' : {},
+            'Elliptical' : {}
             }
     mission_types_all = []
 
     for i in range(len(read_file[cols[0]])):
         # make the message
-        msg = ""
+        msg = ''
         for j in range(len(cols)):
             # getting rid of , in apogee and perigee height
             if j != 5 or j != 6:
@@ -90,33 +90,48 @@ def sort_data():
 
     with open("sorted.txt", 'w') as dat:
         for key in data.keys():
-            dat.write("?{}:{}?\n\n\n".format(key, str(data[key])))
+            dat.write('?{}:{}?\n\n\n'.format(key, str(data[key])))
     del (dat)
 
     with open("mission_types.txt", "w") as mt:
         for mis in mission_types_all:
-            mt.write("{}\n".format(str(mis)))
+            mt.write('{}\n'.format(str(mis)))
+    del (mt)
 
     return None
-sort_data()
+#sort_data()
+
 
 def retreive_data(orb):
     with open("sorted.txt", "r") as dat:
         msg = dat.read()
+    del (dat)
 
     msg = msg.split("?")
     dat = []
     for i in range(len(msg)):
-        if len(msg[i]) >8 :
+        if len(msg[i]) > 8:
             dat.append(msg[i])
+    del(msg)
     data = {}
     for i in range(len(dat)):
-        msg = dat[i].split(":")
-        data[msg[0]] = msg[1]
+        msg = dat[i].split("{")
+        orbit = msg[0].replace(":","")
+        msg[1] = msg[1].replace("}","")
+        missions = {}
+        missions_n_SC = msg[1].split(":")
+        missions[str(missions_n_SC[0].replace("'",""))] = (str(missions_n_SC[1][:missions_n_SC[1].rfind(",")])).replace("'","")
+        for j in range(1, len(missions_n_SC)-2):
+            type_index = missions_n_SC[j].rfind(",")
+            SC_index = missions_n_SC[j+1].rfind(",")
+            missions[str(missions_n_SC[j][type_index:].replace("'","")).replace(", ", "")] = (str(missions_n_SC[j+1][:SC_index])).replace("'","")
+        missions[str(missions_n_SC[-2][missions_n_SC[-2].rfind(","):].replace("'","")).replace(", ", "")] = (str(missions_n_SC[-1])).replace("'","")
+        data[orbit] = missions
+
+    return data
 
 
-
-#retreive_data(2)
+a = retreive_data(2)
 def plot_bit(n):
     read_file = get_excel()
     cols = get_columns()
