@@ -1,0 +1,1420 @@
+AAUSat-4!Earth Observation!LEO!Sun-Synchronous!0.0!442.0!687.0!0.0176652967049!98.2!95.9!1!nan!
+ABS-2 (Koreasat-8, ST-3)!Communications!GEO!nan!75.0!35778.0!35793.0!0.000177912727877!0.08!1436.03!6330!16000!
+ABS-2A!Communications!GEO!nan!-75.0!35700.0!35700.0!0.0!0.0!1436.1!1800!nan!
+ABS-3 (Agila 2, Mabuhay 1)!Communications!GEO!nan!146.06!35769.0!35802.0!0.000391408001328!0.05!1436.07!3775!9000!
+ABS-3A !Communications!GEO!nan!-3.0!35788.0!35803.0!0.000177870533967!0.1!1436!2000!nan!
+ABS-4 (ABS-2i, MBSat, Mobile Broadcasting Satellite, Han Byul)!Communications!GEO!nan!75.0!35780.0!35793.0!0.00015418737324!0.01!1436.1!4143!7400!
+ABS-6 (ABS-1, LMI-1, Lockheed Martin-Intersputnik-1)!Communications!GEO!nan!159.0!35777.0!35794.0!0.000201634424927!0.01!1436.08!2894!6,800 (EOL)!
+ABS-7 (Koreasat 3, Mugungwha 3)!Communications!GEO!nan!116.18!35780.0!35791.0!0.000130469333776!0.01!1436.06!3500!4800!
+Advanced Orion 2 (NROL 6, USA 139)!Earth Observation!GEO!nan!-14.5!35560.0!36013.0!0.00537283692906!7.72!1436.14!4500!nan!
+Advanced Orion 3 (NROL 19, USA 171)!Earth Observation!GEO!nan!95.4!35589.0!35984.0!0.00468492403307!3.2!1436.1!4500!nan!
+Advanced Orion 4 (NRO L-26, USA 202)!Earth Observation!GEO!nan!44.0!35714.0!35937.0!0.0026424618739!2.89!1438.8!5000!nan!
+Advanced Orion 5 (NRO L-32, USA 223)!Earth Observation!GEO!nan!100.9!35500.0!35500.0!0.0!0.0!nan!5000!nan!
+Advanced Orion 6 (NRO L-15, USA 237)!Earth Observation!GEO!nan!60.0!35771.0!35805.0!0.000403244935718!0.0!23.94!5000!nan!
+Advanced Orion 7 (NRO L-37, USA 268)!Earth Observation!GEO!nan!103.0!35613.0!35903.0!0.00344189137866!7.51!1437.19!5000!nan!
+AEHF-2 (Advanced Extremely High Frequency satellite-2, USA 235)!Communications!GEO!nan!-120.0!35772.0!35801.0!0.000343956447997!2.34!1436.1!6169!nan!
+AEHF-3 (Advanced Extremely High Frequency satellite-3, USA 246)!Communications!GEO!nan!nan!35700.0!35803.0!0.00122265351424!4.2!1436.1!6169!nan!
+Aeneas!Technology Development!LEO!Equatorial!0.0!480.0!790.0!0.0221270521056!0.02!97.4!3!nan!
+Aerocube 4.5A!Technology Development!LEO!Non-Polar Inclined!0.0!495.0!791.0!0.0211036646228!64.6!97.5!4.5!nan!
+Aerocube 4.5B!Technology Development!LEO!Non-Polar Inclined!0.0!499.0!792.0!0.0208823319792!64.6!97.6!4.5!nan!
+Aerocube 5A!Technology Development!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!5!nan!
+Aerocube 5B!Technology Development!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!5!nan!
+Aerocube 5C!Technology Development!LEO!Non-Polar Inclined!0.0!500.0!802.0!0.0215069078479!64.78!97.74!1.5!nan!
+Aerocube 6A!Technology Development!LEO!Sun-Synchronous!0.0!614.0!700.0!0.00611925430482!97.98!97.88!5!nan!
+Aerocube 6B!Technology Development!LEO!Sun-Synchronous!0.0!614.0!700.0!0.00611925430482!97.98!97.88!5!nan!
+Aerocube 7A!Technology Development!LEO!Non-Polar Inclined!0.0!500.0!802.0!0.0215069078479!64.6!97.4!2!nan!
+Aerocube 8A!Technology Development!LEO!Non-Polar Inclined!0.0!356.0!700.0!0.0249347636996!55.0!95.19!5!nan!
+Aerocube 8B!Technology Development!LEO!Non-Polar Inclined!0.0!356.0!700.0!0.0249347636996!55.0!95.19!5!nan!
+Afghansat-1 (Eutelsat 28B, Eutelsat 48B, Eutelsat W2M, Eutelsat 48D)!Communications!GEO!nan!48.0!35764.0!35808.0!0.00052187114527!0.12!1436.08!3460!7000!
+Afristar !Communications!GEO!nan!20.97!35770.0!35802.0!0.000379542651105!0.03!1436.09!2704!5500!
+AIM (Aeronomy of Ice in Mesosphere)!Earth Observation!LEO!Sun-Synchronous!0.0!544.0!552.0!0.000578201792426!97.9!96.2!215!216!
+AISat-1!Communications!LEO!Sun-Synchronous!0.0!643.0!660.0!0.00121056754255!98.25!97.76!14!nan!
+AISSat-1 (Automatic Identification System Satellite-1)!Communications!LEO!Sun-Synchronous!0.0!615.0!632.0!0.00121541431329!98.0!97.2!6!nan!
+AISSat-2 (Automatic Identification System Satellite-2)!Communications!LEO!Sun-Synchronous!0.0!625.0!631.0!0.000428693912546!98.4!97.27!6!nan!
+AIST-1!Technology Development!LEO!Polar!0.0!599.0!626.0!0.00193340494092!82.4!96.9!nan!nan!
+AIST-2!Technology Development!LEO!Non-Polar Inclined!0.0!558.0!582.0!0.00172910662824!64.88!96.06!53!nan!
+AIST-2D!Technology Development!LEO!Sun-Synchronous!0.0!471.0!486.0!0.00109513032051!97.28!94.18!531!nan!
+ALiCE  (AFIT LEO iMESA CNT E)!Technology Development!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!5!nan!
+Alphasat I-XL  (Inmarsat IV-A F4)!Communications/Technology Development!GEO!nan!25.0!35786.0!35787.0!1.18605671723e-05!0.02!1436.09!6650!12000!
+Alsat-2A (Algeria Satellite 2A)!Earth Observation!LEO!Sun-Synchronous!0.0!672.0!674.0!0.000141984949595!98.1!98.2!130!nan!
+Amazonas-1 !Communications!GEO!nan!-61.02!35776.0!35797.0!0.000249071910619!0.04!1436.1!4545!9,500 (EOL)!
+Amazonas-2!Communications!GEO!nan!-61.0!35767.0!35805.0!0.000450706898188!0.03!1436.08!5465!15300!
+Amazonas-3!Communications!GEO!nan!-61.0!35781.0!35791.0!0.00011860707847!0.03!1436.05!6265!14000!
+Amazonas-4A!Communications!GEO!nan!-61.0!35784.0!35795.0!0.000130456955135!0.08!1436.24!2938!nan!
+AMC-1 (Americom 1, GE-1)!Communications!GEO!nan!-103.02!35772.0!35800.0!0.000332099819717!0.03!1436.1!2783!6,500 (EOL)!
+AMC-10 (Americom-10, GE 10)!Communications!GEO!nan!-134.97!35775.0!35797.0!0.000260935572635!0.01!1436.09!2315!6,500 (EOL)!
+AMC-11 (Americom-11, GE 11)!Communications!GEO!nan!-130.93!35774.0!35797.0!0.000272799516077!0.04!1436.07!2340!6,500 (EOL)!
+AMC-15 (Americom-15)!Communications!GEO!nan!-105.04!35777.0!35795.0!0.000213492741247!0.04!1436.08!4200!nan!
+AMC-16 (Americom-16)!Communications!GEO!nan!-84.98!35780.0!35793.0!0.00015418737324!0.02!1436.1!4312!nan!
+AMC-18 (Americom 18)!Communications!GEO!nan!-104.97!35773.0!35800.0!0.000320235313653!0.06!1436.1!2081!nan!
+AMC-2 (Americom 2, GE-2)!Communications!GEO!nan!-100.98!35774.0!35798.0!0.000284656988329!0.05!1436.1!2648!6,500 (EOL)!
+AMC-21 (Americom 21)!Communications!GEO!nan!-124.86!35778.0!35793.0!0.000177912727877!3.0!1436.1!2500!5000!
+AMC-3 (Americom 3, GE-3)!Communications!GEO!nan!-86.96!35777.0!35795.0!0.000213492741247!0.02!1436.08!2845!6,500 (EOL)!
+AMC-4 (Americom-4, GE-4)!Communications!GEO!nan!-100.99!35781.0!35791.0!0.00011860707847!0.01!1436.1!3909!nan!
+AMC-6 (Americom-6, GE-6)!Communications!GEO!nan!-71.98!35778.0!35795.0!0.000201629641929!0.05!1436.12!3901!nan!
+AMC-7 (Americom-7, GE-7)!Communications!GEO!nan!-136.94!35773.0!35798.0!0.000296521213128!0.01!1436.08!1935!6,500 (EOL)!
+AMC-8 (Americom-8, GE-8, Aurora 3)!Communications!GEO!nan!-139.0!35773.0!35798.0!0.000296521213128!0.03!1436.07!2015!3300!
+AMC-9 (Americom 9, GE-12)!Communications!GEO!nan!-82.95!35773.0!35798.0!0.000296521213128!0.05!1436.08!4100!10000!
+Amos 2 !Communications!GEO!nan!-3.98!35778.0!35794.0!0.000189771325553!0.05!1436.08!1400!1,900 (EOL)!
+Amos 3!Communications!GEO!nan!-3.99!35783.0!35789.0!7.11642470823e-05!0.04!1436.1!nan!nan!
+Amos 4!Communications!GEO!nan!65.0!35633.0!35796.0!0.001936579976!0.01!1432!nan!nan!
+Amos 5!Communications!GEO!nan!17.0!35595.0!36007.0!0.00488487349126!0.09!1436.08!1600!nan!
+Amsat-Oscar 7 (AO-7)!Communications!LEO!Polar!0.0!1440.0!1459.0!0.00121491143935!101.4!114.9!29!nan!
+Anik F1 !Communications!GEO!nan!-107.27!35778.0!35793.0!0.000177912727877!0.02!1436.08!4710!15,500 (EOL)!
+Anik F1R!Communications!GEO!nan!-107.3!35777.0!35795.0!0.000213492741247!0.02!1436.1!4500!10000!
+Anik F2 !Communications!GEO!nan!-111.07!35781.0!35790.0!0.000106747636726!0.01!1436.08!5910!16000!
+Anik F3!Communications!GEO!nan!-118.69!35778.0!35794.0!0.000189771325553!0.01!1436.1!4715!17500!
+Anik G1!Communications!GEO!nan!-107.3!35773.0!35799.0!0.000308378404023!0.01!1436.08!4905!17500!
+AntelSat!Technology Development!LEO!Sun-Synchronous!0.0!612.0!696.0!0.00597949886105!97.96!96.99!2!nan!
+AprizeSat 1 (LatinSat-C)!Communications/Technology Development!LEO!Sun-Synchronous!0.0!696.0!764.0!0.00478873239437!98.0!99.4!12!nan!
+AprizeSat 10 (exactView-13)!Communications/Maritime Tracking!LEO!Sun-Synchronous!0.0!613.0!733.0!0.00851909697572!97.9!98!12!nan!
+AprizeSat 2 (LatinSat-D)!Communications/Technology Development!LEO!Sun-Synchronous!0.0!694.0!850.0!0.0109213105573!98.2!100.3!12!nan!
+AprizeSat 3 !Communications/Maritime Tracking!LEO!Sun-Synchronous!0.0!559.0!662.0!0.00737769500752!98.18!97!12!nan!
+AprizeSat 4 !Communications/Maritime Tracking!LEO!Sun-Synchronous!0.0!604.0!674.0!0.00499357968326!98.1!97.5!12!nan!
+AprizeSat 5!Communications!LEO!Sun-Synchronous!0.0!610.0!694.0!0.00598120193677!98.2!97.8!12!nan!
+AprizeSat 7!Communications!LEO!Sun-Synchronous!0.0!594.0!653.0!0.00421820261672!97.8!97.17!12!nan!
+AprizeSat 8 (exactView-12)!Communications/Maritime Tracking!LEO!Sun-Synchronous!0.0!594.0!669.0!0.0053559951439!97.8!97.99!12!nan!
+AprizeSat 9 (exactView-11)!Communications/Maritime Tracking!LEO!Sun-Synchronous!0.0!613.0!715.0!0.00725049758317!97.9!98!12!nan!
+Apstar 1A!Communications!GEO!nan!51.47!35779.0!35790.0!0.000130472428804!5.89!1436.03!1383!nan!
+Apstar 6!Communications!GEO!nan!134.04!35778.0!35794.0!0.000189771325553!0.01!1436.08!4680!nan!
+Apstar 7!Communications!GEO!nan!76.5!35864.0!35874.0!0.000118374014536!0.03!1440.31!5054!nan!
+Apstar 9!Communications!GEO!nan!142.0!35782.0!35788.0!7.1165935239e-05!0.12!1436.01!5200!10500!
+Apstar 9A (Chinastar-1, ChinaSat-10, Zhongwei 1, Chinasat 5A)!Communications!GEO!nan!87.68!35778.0!35795.0!0.000201629641929!0.02!1436.12!3000!6,797 (EOL)!
+Arabsat 5C!Communications!GEO!nan!19.99!35766.0!35805.0!0.000462573092479!0.06!1436.06!4630!nan!
+Arabsat 7F (Nimiq 1) !Communications!GEO!nan!44.5!35778.0!35794.0!0.000189771325553!0.01!1436.09!3600!8600!
+ARC-1 (Alaska Research Satellite-1)!Technology Development!LEO!Non-Polar Inclined!0.0!497.0!801.0!0.0216555064824!64.78!97.71!1!nan!
+ArSat 1!Communications!GEO!nan!-71.8!35778.0!35795.0!0.000201629641929!0.01!1436.07!3000!nan!
+ArSat 2!Communications!GEO!nan!-81.0!35786.0!35801.0!0.000177878971148!0.01!1436.06!2977!4600!
+Artemis (Advanced Data Relay and Technology Mission Satellite) !Communications/Technology Development!GEO!nan!21.36!35771.0!35803.0!0.00037953364803!7.03!1436.12!3105!4600!
+AsiaSat-3S (Asiasat 3SA)!Communications!GEO!nan!105.55!35780.0!35792.0!0.000142328494165!0.02!1436.07!3480!10000!
+AsiaSat-4 !Communications!GEO!nan!122.24!35784.0!35789.0!5.93028358616e-05!0.0!1436.1!4137!9500!
+AsiaSat-5!Communications!GEO!nan!100.5!35778.0!35795.0!0.000201629641929!0.0!1436.11!3760!nan!
+AsiaSat-6 (Thaicom-7)!Communications!GEO!nan!120.0!35783.0!35793.0!0.000118601451682!0.07!1436.17!3700!nan!
+AsiaSat-7!Communications!GEO!nan!105.5!35782.0!35793.0!0.000130463144162!0.02!1436.17!3813!nan!
+AsiaSat-8!Communications!GEO!nan!105.5!35781.0!35793.0!0.000142325118011!0.07!1436.1!4500!8500!
+AsiaStar !Communications!GEO!nan!104.97!35773.0!35801.0!0.000332091942026!0.02!1436.15!2775!5600!
+ASNARO 1 (Advanced Satellite with New system Architecture for Observation)!Earth Observation!LEO!Sun-Synchronous!0.0!506.0!507.0!7.271140842e-05!97.48!94.75!500!nan!
+Astra 1D !Communications!GEO!nan!-67.6!35776.0!35795.0!0.000225356121977!1.15!1436.08!2924!3300!
+Astra 1F !Communications!GEO!nan!19.22!35778.0!35797.0!0.000225345430825!0.03!1436.15!3010!4400!
+Astra 1G !Communications!GEO!nan!19.24!35780.0!35791.0!0.000130469333776!0.04!1436.08!3379!6600!
+Astra 1H !Communications!GEO!nan!-67.6!35776.0!35794.0!0.000213497805717!0.06!1436.04!3690!6600!
+Astra 1KR!Communications!GEO!nan!19.16!35766.0!35807.0!0.000486283254065!0.08!1436.1!4332!12000!
+Astra 1L!Communications!GEO!nan!19.3!35772.0!35798.0!0.000308385719369!0.05!1436.03!4500!13000!
+Astra 1M!Communications!GEO!nan!19.2!35804.0!35852.0!0.000568747333997!0.14!1438.2!5345!9900!
+Astra 1N!Communications!GEO!nan!28.2!35715.0!35780.0!0.000771650739004!0.12!1434.1!5350!nan!
+Astra 2A !Communications!GEO!nan!28.16!35776.0!35797.0!0.000249071910619!0.08!1436.12!3635!7000!
+Astra 2B !Communications!GEO!nan!31.33!35772.0!35801.0!0.000343956447997!0.07!1436.11!3315!7800!
+Astra 2C !Communications!GEO!nan!28.21!35768.0!35804.0!0.000426985482494!0.07!1436.12!3643!7000!
+Astra 2D!Communications!GEO!nan!28.14!35770.0!35802.0!0.000379542651105!0.07!1436.1!1420!1500!
+Astra 2E!Communications!GEO!nan!28.2!35781.0!35793.0!0.000142325118011!0.11!1436.12!6052!13000!
+Astra 2F!Communications!GEO!nan!28.2!35777.0!35795.0!0.000213492741247!0.06!1436.07!6000!nan!
+Astra 2G!Communications!GEO!nan!28.2!35785.0!35789.0!4.74417060037e-05!0.09!1436.11!6000!13000!
+Astra 3A !Communications!GEO!nan!23.48!35770.0!35804.0!0.000403254501032!0.06!1436.07!1500!1500!
+Astra 3B!Communications!GEO!nan!23.5!35768.0!35806.0!0.000450696207036!0.08!1436.11!5471!10000!
+Astra 5B!Communications!GEO!nan!31.55!35787.0!35793.0!7.11574952562e-05!0.05!1436.26!5724!nan!
+Astrosat!Space Science!LEO!Equatorial!0.0!632.0!649.0!0.00121246701377!5.99!97.54!230!nan!
+Athena-Fidus  (Access on THeatres for European Nations Allied forces - French Italian Dual Use Satellite)!Communications!GEO!nan!25.0!35784.0!35788.0!4.74428313882e-05!0.05!1436.06!3080!nan!
+Athenoxat-1 ((Athene Noctua Experimental Satellite) !Technology Development!LEO!Equatorial!0.0!532.0!550.0!0.0013022717407!14.98!95.46!6!nan!
+Aurora  (Tabletsat-2U-EO)!Technology Development!LEO!Sun-Synchronous!0.0!583.0!618.0!0.0025105803027!97.99!96.7!25!nan!
+Azerspace/Africasat-1a (Azersat-1)!Communications!GEO!nan!46.0!35778.0!35794.0!0.000189771325553!0.04!1436.08!3250!nan!
+Badr 4 (Arabsat 4B)!Communications!GEO!nan!26.02!35780.0!35791.0!0.000130469333776!0.07!1436.06!3304!nan!
+Badr 5 (Arabsat 5B)!Communications!GEO!nan!26.0!35834.0!35883.0!0.000580176894751!0.06!1439.76!5420!nan!
+Badr 5A (Arabsat 5A)!Communications!GEO!nan!30.5!35605.0!35623.0!0.000214367378049!0.03!1427.27!4940!nan!
+Badr 6 (Arabsat 4AR)!Communications!GEO!nan!26.08!35768.0!35805.0!0.000438840985376!0.05!1436.1!3400!6000!
+Badr 7 (Arabsat 6B)!Communications!GEO!nan!26.0!35768.0!35817.0!0.000581085087459!0.1!1436!5500!nan!
+BARS-M (Cosmos 2503)!Earth Observation!LEO!Sun-Synchronous!0.0!570.0!586.0!0.00115141047784!97.7!96.1!4000!nan!
+BARS-M (Cosmos 2515)!Earth Observation!LEO!Sun-Synchronous!0.0!549.0!594.0!0.00324137434272!97.62!96.1!4000!nan!
+BeeSat-1 (Berlin Experimental and Educational Satellite 1)!Technology Development!LEO!Sun-Synchronous!0.0!709.0!718.0!0.000635279169902!98.3!99!1!nan!
+BeeSat-2 (Berlin Experimental and Educational Satellite 2)!Technology Development!LEO!Non-Polar Inclined!0.0!555.0!579.0!0.00172985440392!64.8!96.01!1!nan!
+BeeSat-3 (Berlin Experimental and Educational Satellite 3)!Technology Development!LEO!Non-Polar Inclined!0.0!554.0!581.0!0.00194594594595!64.8!96.01!1!nan!
+Beidou 2-12 (Compass M3)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!21460.0!21595.0!0.0024195716462!55.16!773.19!2200!nan!
+Beidou 2-13 (Compass M4)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!21452.0!21603.0!0.00270633569316!55.1!773.21!2200!nan!
+Beidou 2-14 (Compass M5)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!21462.0!21591.0!0.00231211800764!55.0!773.1!3800!nan!
+Beidou 2-15 (Compass M6)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!21477.0!21574.0!0.00173863167894!55.0!773.1!3800!nan!
+Beidou 2-16 (Compass G-6)!Navigation/Global Positioning!GEO!nan!80.0!35775.0!35799.0!0.000284650236022!1.84!1436.11!3800!nan!
+Beidou 2-23 (Compass G-7)!Navigation/Global Positioning!GEO!nan!144.0!35776.0!35794.0!0.000213497805717!1.84!1436.1!3800!nan!
+Beidou 3I-1S!Navigation/Global Positioning!GEO!nan!107.48!35796.0!36781.0!0.0115451785693!54.9!1461.81!4200!nan!
+Beidou 3I-2S!Navigation/Global Positioning!GEO!nan!89.5!35606.0!35953.0!0.00411630031198!55.0!1435.73!4200!nan!
+Beidou 3M-1S!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!21520.0!21549.0!0.000519629450447!55.0!773.2!800!nan!
+Beidou 3M-2S!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!21521.0!21550.0!0.000519610829406!55.0!773.3!800!nan!
+Beidou 3M-3S!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!21524.0!21532.0!0.000143379453724!55.0!773.2!800!nan!
+Beidou G1 (Compass G-1)!Navigation/Global Positioning!GEO!nan!144.5!35768.0!35803.0!0.000415129698379!1.78!1436.05!2200!nan!
+Beidou G3 (Compass G-3)!Navigation/Global Positioning!GEO!nan!84.7!35774.0!35797.0!0.000272799516077!1.83!1436.05!2200!nan!
+Beidou G4 (Compass G-4)!Navigation/Global Positioning!GEO!nan!160.0!35764.0!35809.0!0.000533725522754!1.43!1436.1!6000!nan!
+Beidou G5 (Compass G-11)!Navigation/Global Positioning!GEO!nan!59.0!35776.0!35799.0!0.000272786574156!1.87!1436.15!2300!nan!
+Beidou IGSO-1 (Compass G-5)!Navigation/Global Positioning!GEO!nan!118.0!35670.0!35893.0!0.00264522021755!55.09!1435.82!4200!nan!
+Beidou IGSO-2 (Compass G-7)!Navigation/Global Positioning!GEO!nan!118.0!35717.0!35817.0!0.00118660559603!55.23!1436.12!4200!nan!
+Beidou IGSO-3 (Compass G-8)!Navigation/Global Positioning!GEO!nan!118.0!35693.0!37872.0!0.0252476681536!96.4!1435.93!4200!nan!
+Beidou IGSO-4 (Compass G-9)!Navigation/Global Positioning!GEO!nan!0.0!35708.0!35879.0!0.00202782027109!55.2!1435.1!4200!nan!
+Beidou IGSO-5 (Compass G-10)!Navigation/Global Positioning!GEO!nan!104.21!35708.0!35864.0!0.00185027042414!55.16!1436.08!4200!nan!
+Beidou IGSO-6 !Navigation/Global Positioning!GEO!nan!100.3!35676.0!35890.0!0.00253837212061!54.97!1435.92!4200!nan!
+Beidou M1 (Compass M1)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!21519.0!21545.0!0.000465916421762!55.26!773.39!2200!nan!
+BeijinGalaxy-1 (Beijing 1 [Tsinghua], Tsinghau-2, China DMC+4)!Earth Observation!LEO!Sun-Synchronous!0.0!681.0!703.0!0.00155763239875!97.9!98.6!166!50!
+Belintersat-1!Communications!GEO!nan!51.5!35779.0!35792.0!0.000154191030826!0.46!1436.06!5223!nan!
+BermudaSat-1 (Echostar 6) !Communications!GEO!nan!-96.2!35775.0!35798.0!0.000272793044963!0.07!1436.12!3700!11000!
+Bird 2 (Bispectral InfraRed Detector 2)!Earth Observation/Technology Development!LEO!Sun-Synchronous!0.0!500.0!521.0!0.00152605188576!97.9!94.8!92!120!
+BIROS (Bispectral Infrared Optical System)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!517.0!0.00123573453515!97.5!94.7!130!nan!
+BisonSat (Nwist Qwiqway)!Earth Observation/Technology Development!LEO!Non-Polar Inclined!0.0!497.0!801.0!0.0216555064824!64.78!97.7!1!nan!
+BKA 2 (BelKA 2)!Earth Observation!LEO!Sun-Synchronous!0.0!503.0!507.0!0.000290909090909!97.5!94.7!400!300!
+Brazilsat B-2 (Brasilsat B-2)!Communications!GEO!nan!-68.0!35776.0!35797.0!0.000249071910619!0.84!1436.11!1780!1,800 (BOL)!
+Brazilsat B-3 (Brasilsat B-3)!Communications!GEO!nan!-74.96!35769.0!35803.0!0.0004032640668!0.04!1436.07!1780!1,800 (BOL)!
+Brazilsat B-4 (Brasilsat B-4)!Communications!GEO!nan!-84.03!35772.0!35800.0!0.000332099819717!0.07!1436.09!2495!1,800 (BOL)!
+BRISat!Communications!GEO!nan!150.5!35702.0!35876.0!0.00206361630968!0.07!1436.2!3540!nan!
+BRITE-CA-1 (BRITE Toronto)!Space Science!LEO!Sun-Synchronous!0.0!613.0!739.0!0.00894124325859!97.97!98.27!10!nan!
+BRITE-PL-1 (BRIght-star Target Explorer - Poland, Lem)!Space Science!LEO!Sun-Synchronous!0.0!594.0!886.0!0.0205344585091!97.7!99.6!10!nan!
+BRITE-PL-2 (BRIght-star Target Explorer - Poland, Hevelius)!Space Science!LEO!Sun-Synchronous!0.0!610.0!633.0!0.00164485446614!98.02!97.1!10!nan!
+BSAT-3A!Communications!GEO!nan!109.91!35778.0!35794.0!0.000189771325553!0.03!1436.1!1980!nan!
+BSAT-3B!Communications!GEO!nan!110.0!33066.0!35725.0!0.0326133617888!0.07!1365.61!2060!nan!
+BSAT-3C/JCSat 110-R!Communications!GEO!nan!110.0!35784.0!35787.0!3.55825455753e-05!0.05!1436.04!2910!nan!
+Bugsat-1 (Tita)!Technology Development!LEO!Sun-Synchronous!0.0!570.0!617.0!0.00337473971422!97.99!96.55!25!nan!
+Calipso (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation)!Earth Science!LEO!Sun-Synchronous!0.0!702.0!703.0!7.06963591375e-05!98.2!98.8!587!550!
+Canopus-B (Kanopus Vulcan 1) !Earth Observation!LEO!Sun-Synchronous!0.0!501.0!505.0!0.000290993743635!97.5!94.7!400!300!
+CartoSat 1 (IRS P5)!Earth Observation!LEO!Sun-Synchronous!0.0!618.0!619.0!7.15461114688e-05!97.9!97.1!1560!1100!
+CartoSat 2 (IRS P7, CartoSat 2AT)!Earth Observation!LEO!Sun-Synchronous!0.0!632.0!635.0!0.000214178624973!97.0!97.4!680!nan!
+CartoSat 2A!Earth Observation!LEO!Sun-Synchronous!0.0!624.0!643.0!0.00135646462483!97.9!97.4!680!nan!
+CartoSat 2B!Earth Observation!LEO!Sun-Synchronous!0.0!622.0!645.0!0.00164203612479!97.9!97.4!694!nan!
+CartoSat 2C!Earth Observation!LEO!Sun-Synchronous!0.0!501.0!519.0!0.00130813953488!97.5!94.8!727!nan!
+Cassiope (CAScade SmallSat and Ionospheric Polar Explorer)!Earth Science!LEO!Elliptical!0.0!325.0!1486.0!0.0797883306989!81.0!103.11!490!600!
+CBERS 4 (China-Brazil Earth Resources Satellite 4)!Earth Observation!LEO!Sun-Synchronous!0.0!738.0!748.0!0.000702938282019!98.55!99.67!1980!2300!
+CBNT-1 (Carbonite 1)!Technology Development!LEO!Sun-Synchronous!0.0!636.0!658.0!0.00156762149067!98.0!97.66!91!nan!
+CFESat (Cibola Flight Experiment Satellite)!Technology Development!LEO!Non-Polar Inclined!0.0!538.0!544.0!0.000434090580234!35.4!95.5!159!110!
+Chandra X-Ray Observatory (CXO)!Space Science!Elliptical!Deep Highly Eccentric!0.0!9999.0!138825.0!0.797368225595!28.5!3808.92!4742!2500!
+ChinaSat 11 (Zhong Xing 11)!Communications!GEO!nan!98.0!35781.0!35793.0!0.000142325118011!0.02!1436.14!5100!nan!
+ChinaSat 1C (Zhong Xing 1C)!Communications!GEO!nan!81.0!35778.0!35796.0!0.000213487677017!0.01!1436.12!5200!8000!
+ChinaSat 2C (Zhong Xing 2C)!Communications!GEO!nan!nan!35787.0!35801.0!0.000166018404326!0.5!1436.1!5200!nan!
+ChinaSat 6B (Zhong Xing 6B)!Communications!GEO!nan!115.58!35777.0!35797.0!0.000237208530019!0.05!1436.1!4600!9500!
+Chuangxin 1-1 (Innovation 1-1, Chuang Xin 1, CX-1-1)!Communications!LEO!Sun-Synchronous!0.0!729.0!748.0!0.00133642821974!98.5!99.6!100!nan!
+Chuangxin 1-2 (Innovation 1-2)!Earth Observation!LEO!Sun-Synchronous!0.0!785.0!804.0!0.00132598227371!98.5!98.5!100.8!nan!
+Chuangxin 1-3 (Innovation 1-3)!Earth Observation!LEO!Sun-Synchronous!0.0!784.0!804.0!0.00139586823004!98.5!100.7!100!nan!
+Chuangxin 1-4 (Innovation 1-4)!Earth Observation!LEO!Sun-Synchronous!0.0!778.0!809.0!0.00216374677183!98.46!100.74!100!nan!
+Chuangxin-3!Technology Development!LEO!Sun-Synchronous!0.0!665.0!672.0!0.000497265042268!98.03!96.43!200!nan!
+ChubuSat 1 (Kinshachi-1)!Technology Development!LEO!Sun-Synchronous!0.0!506.0!538.0!0.00232153221126!97.48!95.07!50!nan!
+ChubuSat 2 (Kinshachi-2)!Technology Development!LEO!Sun-Synchronous!0.0!560.0!579.0!0.00136897470999!31.0!96.05!50!nan!
+ChubuSat 3 (Kinshachi-3)!Technology Development!LEO!Sun-Synchronous!0.0!558.0!579.0!0.00151329538085!31.0!96!50!nan!
+Ciel-2!Communications!GEO!nan!-129.0!35782.0!35788.0!7.1165935239e-05!0.05!1436.05!5585!nan!
+CINEMA-1 (Cubesat for Ion, Neutral, Electron, Magnetic fields)!Space Science!LEO!Non-Polar Inclined!0.0!484.0!791.0!0.0219051016768!64.6!97.4!3.15!nan!
+CLIO (USA 257)!Communications!GEO!nan!106.0!35736.0!35854.0!0.00139926479307!0.04!1436.5!nan!nan!
+Cloudsat!Earth Observation!LEO!Sun-Synchronous!0.0!702.0!703.0!7.06963591375e-05!98.2!98.8!848!570!
+COMS-1 (Communication, Ocean and Meteorological Satellite; Cheollian)!Earth Observation/Communications!GEO!nan!128.0!35783.0!35791.0!9.48834120075e-05!0.01!1436.1!2460!nan!
+COMSATBw-1 (COmmunications SATellite für BundesWehr)!Communications!GEO!nan!63.0!35773.0!35799.0!0.000308378404023!0.05!1436.1!2440!3500!
+COMSATBw-2 (COmmunications SATellite für BundesWehr)!Communications!GEO!nan!13.2!35780.0!35794.0!0.000166045971013!0.08!1436.11!2440!3500!
+Condor E2 !Earth Observation!LEO!Polar!0.0!499.0!501.0!0.000145560407569!74.75!94.62!nan!nan!
+Coriolis (Windsat)!Earth/Space Science!LEO!Sun-Synchronous!0.0!820.0!841.0!0.00145823206722!98.8!101.5!817!1174!
+COSMIC-A (Formosat-3A, Constellation Observing System for Meteorology, Ionosphere and Climate)!Earth Observation!LEO!Polar!0.0!764.0!836.0!0.00502092050209!72.0!100.9!70!46!
+COSMIC-B (Formosat-3B, Constellation Observing System for Meteorology, Ionosphere and Climate)!Earth Observation!LEO!Polar!0.0!769.0!831.0!0.00432357043236!72.0!100.9!70!46!
+COSMIC-D (Formosat-3D, Constellation Observing System for Meteorology, Ionosphere and Climate)!Earth Observation!LEO!Polar!0.0!669.0!746.0!0.00543977393147!72.0!98.9!70!46!
+COSMIC-E (Formosat-3E, Constellation Observing System for Meteorology, Ionosphere and Climate)!Earth Observation!LEO!Polar!0.0!751.0!849.0!0.0068340306834!72.0!100.9!70!46!
+COSMIC-F (Formosat-3F, Constellation Observing System for Meteorology, Ionosphere and Climate)!Earth Observation!LEO!Polar!0.0!772.0!828.0!0.00390516039052!72.0!100.9!70!46!
+Cosmos 2504!Technology Development!LEO!Polar!0.0!1171.0!1504.0!0.0216023353876!82.4!112.41!nan!nan!
+COSMO-Skymed 1 (Constellation of small Satellites for Mediterranean basin Observation)!Earth Observation!LEO!Sun-Synchronous!0.0!622.0!623.0!7.15051841258e-05!97.9!97.2!1700!3600!
+COSMO-Skymed 2 (Constellation of small Satellites for Mediterranean basin Observation)!Earth Observation!LEO!Sun-Synchronous!0.0!622.0!623.0!7.15051841258e-05!97.9!97.2!1700!nan!
+COSMO-Skymed 3 (Constellation of small Satellites for Mediterranean basin Observation)!Earth Observation!LEO!Sun-Synchronous!0.0!622.0!623.0!7.15051841258e-05!97.9!97.2!1700!nan!
+COSMO-Skymed 4 (Constellation of small Satellites for Mediterranean basin Observation)!Earth Observation!LEO!Sun-Synchronous!0.0!622.0!623.0!7.15051841258e-05!97.9!97.2!1700!nan!
+CP-10 (Exocube)!Earth Observation!LEO!Elliptical!0.0!441.0!657.0!0.0156091920798!99.1!95.6!4!nan!
+Cryosat-2 !Earth Observation!LEO!Polar!0.0!713.0!724.0!0.000775904634267!92.0!99.2!720!nan!
+CSSWE (Colorado Student Space Weather Experiment)!Earth Science!LEO!Non-Polar Inclined!0.0!479.0!791.0!0.0222698072805!64.6!97.4!3!nan!
+Cubebug 1  (Capitán Beto)!Technology Development!LEO!Sun-Synchronous!0.0!630.0!653.0!0.00164016259003!98.05!97.55!2!nan!
+Cubebug 2 (Manolito, LO-74)!Technology Development!LEO!Sun-Synchronous!0.0!594.0!715.0!0.00861271264859!97.8!97.8!2!nan!
+Cubesat XI-IV (Oscar 57, CO-57)!Technology Development!LEO!Sun-Synchronous!0.0!815.0!830.0!0.00104275286757!98.7!101.3!nan!nan!
+CUSat-1 (Cornell University Satellite 1)!Technology Development!LEO!Polar!0.0!326.0!1465.0!0.0783841442433!80.99!102.89!nan!2.2!
+Daichi-2 (Advanced Land Observing Satellite-2, ALOS 2 2)!Earth Observation!LEO!Sun-Synchronous!0.0!630.0!635.0!0.00035701535166!97.88!97.36!2120!5200!
+DAMPE (Dark Matter Particle Explorer)!Space Science!LEO!Sun-Synchronous!0.0!488.0!505.0!0.00123789412364!97.3!94.54!1850!nan!
+DCBB (Kaituo-1B, CAS-3G)!Technology Development!LEO!Sun-Synchronous!0.0!514.0!536.0!0.00159535895577!97.46!95.13!3!nan!
+Deimos 1!Earth Observation!LEO!Sun-Synchronous!0.0!661.0!662.0!7.11085828059e-05!98.0!98!90!nan!
+Deimos 2 !Earth Observation!LEO!Sun-Synchronous!0.0!597.0!619.0!0.00157638291774!97.99!96.85!310!450!
+Delfi-C3 (DO-64)!Technology Development!LEO!Sun-Synchronous!0.0!598.0!616.0!0.00128995270173!97.8!96.8!6.5!nan!
+DirecTV-10!Communications!GEO!nan!-102.74!35785.0!35788.0!3.5581701517e-05!0.04!1436.1!5900!18000!
+DirecTV-11!Communications!GEO!nan!-99.21!35786.0!35786.0!0.0!0.03!1436.1!5900!nan!
+DirecTV-12!Communications!GEO!nan!-102.8!35785.0!35786.0!1.18608485251e-05!0.09!1436.04!5900!8,700 (BOL)!
+DirecTV-14!Communications!GEO!nan!-99.0!35930.0!35933.0!3.54597354704e-05!0.02!1443.51!5900!20000!
+DirecTV-15!Communications!GEO!nan!-103.0!35685.0!35809.0!0.00147208965501!0.1!1434.07!5500!nan!
+DirecTV-1R !Communications!GEO!nan!55.9!35778.0!35795.0!0.000201629641929!0.03!1436.1!3420!8,700 (BOL)!
+DirecTV-4S !Communications!GEO!nan!-101.15!35780.0!35792.0!0.000142328494165!0.05!1436.09!4300!8,100 (EOL)!
+DirecTV-5 (Tempo 1)!Communications!GEO!nan!-110.05!35773.0!35799.0!0.000308378404023!0.07!1436.08!4300!nan!
+DirecTV-7S !Communications!GEO!nan!-119.04!35774.0!35797.0!0.000272799516077!0.01!1436.1!5483!13000!
+DirecTV-8!Communications!GEO!nan!-100.81!35777.0!35796.0!0.000225350776274!0.02!1436.1!3800!8200!
+DirecTV-9S!Communications!GEO!nan!-101.08!35774.0!35798.0!0.000284656988329!0.03!1436.1!5500!13900!
+DLR Tubsat !Earth Science!LEO!Sun-Synchronous!0.0!712.0!732.0!0.00141003948111!98.6!99.2!45!120!
+DMC 3-1 (Disaster Monitoring Constellation)!Earth Observation!LEO!Sun-Synchronous!0.0!636.0!663.0!0.00192321390412!98.0!97.71!447!nan!
+DMC 3-2 (Disaster Monitoring Constellation)!Earth Observation!LEO!Sun-Synchronous!0.0!636.0!663.0!0.00192321390412!98.0!97.71!447!nan!
+DMC 3-3 (Disaster Monitoring Constellation)!Earth Observation!LEO!Sun-Synchronous!0.0!636.0!661.0!0.00178100733775!98.0!97.69!447!nan!
+DMSP 5D-2 F14 (Defense Meteorological Satellites Program, USA 131)!Earth Observation!LEO!Sun-Synchronous!0.0!842.0!855.0!0.000900464085336!98.9!101.9!1134!900!
+DMSP 5D-3 F15 (Defense Meteorological Satellites Program, USA 147)!Earth Observation!LEO!Sun-Synchronous!0.0!837.0!851.0!0.00097033545883!98.9!101.8!1152!900!
+DMSP 5D-3 F16 (Defense Meteorological Satellites Program, USA 172)!Earth Observation!LEO!Sun-Synchronous!0.0!843.0!852.0!0.000623484586076!98.9!101.87!1154!900!
+DMSP 5D-3 F17 (Defense Meteorological Satellites Program, USA 173)!Earth Observation!LEO!Sun-Synchronous!0.0!842.0!855.0!0.000900464085336!98.79!101.89!1154!900!
+DMSP 5D-3 F18 (Defense Meteorological Satellites Program, USA 210)!Earth Observation!LEO!Sun-Synchronous!0.0!842.0!859.0!0.00117720379475!98.93!101.94!1155!900!
+Dove 1c-1  (0 Flock 1C-1 0903)!Earth Observation!LEO!Sun-Synchronous!0.0!605.0!621.0!0.00114563941!97.99!96.96!4!nan!
+Dove 1c-10  (0 Flock 1C-10 090C)!Earth Observation!LEO!Sun-Synchronous!0.0!604.0!621.0!0.00121732903688!97.99!96.95!4!nan!
+Dove 1c-11 (0 Flock 1C-11 090D)!Earth Observation!LEO!Sun-Synchronous!0.0!606.0!622.0!0.00114547537228!97.99!96.98!4!nan!
+Dove 1c-2  (0 Flock 1C-2 0904)!Earth Observation!LEO!Sun-Synchronous!0.0!605.0!623.0!0.00128865979381!97.99!96.98!4!nan!
+Dove 1c-3  (0 Flock 1C-3 0905)!Earth Observation!LEO!Sun-Synchronous!0.0!608.0!624.0!0.00114514743773!97.99!97.02!4!nan!
+Dove 1c-4  (0 Flock 1C-4 0906)!Earth Observation!LEO!Sun-Synchronous!0.0!607.0!622.0!0.00107380628535!97.99!96.98!4!nan!
+Dove 1c-5  (0 Flock 1C-5 0907)!Earth Observation!LEO!Sun-Synchronous!0.0!606.0!625.0!0.00135995991697!97.99!97.01!4!nan!
+Dove 1c-6  (0 Flock 1C-6 0908)!Earth Observation!LEO!Sun-Synchronous!0.0!607.0!622.0!0.00107380628535!97.99!96.99!4!nan!
+Dove 1c-7  90 Flock 1C-7 0909)!Earth Observation!LEO!Sun-Synchronous!0.0!606.0!620.0!0.00100243448375!97.99!96.96!4!nan!
+Dove 1c-8  (0 Flock 1C-8 090A)!Earth Observation!LEO!Sun-Synchronous!0.0!607.0!625.0!0.00128829086745!97.99!97.02!4!nan!
+Dove 1c-9  (0 Flock 1C-9 090B)!Earth Observation!LEO!Sun-Synchronous!0.0!607.0!623.0!0.00114531138153!97.99!96.99!4!nan!
+Dove 1e-10  (0 Flock 1E-10 0B09)!Earth Observation!LEO!Non-Polar Inclined!0.0!398.0!401.0!0.000221582096167!51.6!92.55!4!nan!
+Dove 1e-11  (0 Flock 1E-11 0B1E)!Earth Observation!LEO!Non-Polar Inclined!0.0!396.0!402.0!0.000443196927168!51.6!92.54!4!nan!
+Dove 1e-12  (0 Flock 1E-12 0B0A)!Earth Observation!LEO!Non-Polar Inclined!0.0!396.0!402.0!0.000443196927168!51.6!92.54!4!nan!
+Dove 1e-13  (0 Flock 1E-13 0C07)!Earth Observation!LEO!Non-Polar Inclined!0.0!395.0!401.0!0.000443262411348!51.6!92.55!4!nan!
+Dove 1e-14  (0 Flock 1E-14 0B0F)!Earth Observation!LEO!Non-Polar Inclined!0.0!395.0!403.0!0.000590929236224!51.6!92.53!4!nan!
+Dove 1e-6  (0 Flock 1E-6 0B0B)!Earth Observation!LEO!Non-Polar Inclined!0.0!396.0!403.0!0.000517024891055!51.6!92.55!4!nan!
+Dove 1e-7  (0 Flock 1E-7 0B0E)!Earth Observation!LEO!Non-Polar Inclined!0.0!396.0!402.0!0.000443196927168!51.6!92.54!4!nan!
+Dove 2b-1 (0 Flock 2B-1 0C70)!Earth Observation!LEO!Non-Polar Inclined!0.0!400.0!403.0!0.000221516650668!51.65!92.6!4!nan!
+Dove 2b-10 (0 Flock 2B-10 0C64)!Earth Observation!LEO!Non-Polar Inclined!0.0!395.0!408.0!0.000959905486229!51.64!92.6!4!nan!
+Dove 2b-13 (0 Flock 2B-13 0C74)!Earth Observation!LEO!Non-Polar Inclined!0.0!397.0!407.0!0.000738334317779!51.64!92.6!4!nan!
+Dove 2b-14 (0 Flock 2B-14 0C47)!Earth Observation!LEO!Non-Polar Inclined!0.0!398.0!406.0!0.000590667454223!51.64!92.6!4!nan!
+Dove 2b-2 (0 Flock 2B-2 0C18)!Earth Observation!LEO!Non-Polar Inclined!0.0!398.0!406.0!0.000590667454223!51.64!92.6!4!nan!
+Dove 2b-3 (0 Flock 2B-3 0C53)!Earth Observation!LEO!Non-Polar Inclined!0.0!399.0!405.0!0.000443000590667!51.64!92.6!4!nan!
+Dove 2b-4 (0 Flock 2B-4 0C72)!Earth Observation!LEO!Non-Polar Inclined!0.0!401.0!403.0!0.000147666863556!51.63!92.6!4!nan!
+Dove 2b-5 (0 Flock 2B-5 0C73)!Earth Observation!LEO!Non-Polar Inclined!0.0!396.0!409.0!0.000959763750461!51.65!92.61!4!nan!
+Dove 2b-6 (0 Flock 2B-6 0C69)!Earth Observation!LEO!Non-Polar Inclined!0.0!396.0!409.0!0.000959763750461!51.65!92.61!4!nan!
+Dove 2b-7 (0 Flock 2B-7 0C66)!Earth Observation!LEO!Non-Polar Inclined!0.0!396.0!408.0!0.000886001181335!51.64!92.6!4!nan!
+Dove 2b-9 (0 Flock 2B-9 0C68)!Earth Observation!LEO!Non-Polar Inclined!0.0!396.0!408.0!0.000886001181335!51.64!92.6!4!nan!
+Dove 2e-1 (0 Flock 2E-1 0C37)!Earth Observation!LEO!Non-Polar Inclined!0.0!404.0!407.0!0.000221385875581!51.6!92.6!4!nan!
+Dove 2e-2 (0 Flock 2E-2 0C78)!Earth Observation!LEO!Non-Polar Inclined!0.0!403.0!406.0!0.000221418554875!51.6!92.6!4!nan!
+Dove 2e-3 (0 Flock 2E-3 0C60)!Earth Observation!LEO!Non-Polar Inclined!0.0!404.0!408.0!0.000295159386068!51.6!92.5!4!nan!
+Dove 2e-4 (0 Flock 2E-4 0C41)!Earth Observation!LEO!Non-Polar Inclined!0.0!402.0!407.0!0.000369030924791!51.6!92.5!4!nan!
+Dove 2ep-1 (0 Flock 2EP-1 0D05)!Earth Observation!LEO!Non-Polar Inclined!0.0!399.0!402.0!0.000221549368584!51.6!92.5!4!nan!
+Dove 2ep-2 (0 Flock 2EP-2 0C1B)!Earth Observation!LEO!Non-Polar Inclined!0.0!400.0!401.0!7.38497895281e-05!51.6!92.5!4!nan!
+Dove 2ep-3 (0 Flock 2EP-3 0D06)!Earth Observation!LEO!Non-Polar Inclined!0.0!398.0!402.0!0.000295420974889!51.6!92.5!4!nan!
+Dove 2ep-4 (0 Flock 2EP-4 0C22)!Earth Observation!LEO!Non-Polar Inclined!0.0!399.0!402.0!0.000221549368584!51.6!92.5!4!nan!
+Dove 2p-1 ( (0 Flock 2P-1 0E0D)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!513.0!0.00094524830946!97.51!94.75!4!nan!
+Dove 2p-2 (0 Flock 2P-2 (0e0E)!Earth Observation!LEO!Sun-Synchronous!0.0!499.0!516.0!0.00123591421301!97.51!94.77!4!nan!
+Dove 2p-3 (0 Flock 2P-3 (0E0F)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!514.0!0.00101788570598!97.51!94.75!4!nan!
+Dove 2p-4 (0 Flock 2P-4 0E14)!Earth Observation!LEO!Sun-Synchronous!0.0!499.0!514.0!0.0010906711263!97.51!94.76!4!nan!
+Dove 2p-5 (0 Flock 2P-5 0E16)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!514.0!0.00101788570598!97.51!94.75!4!nan!
+Dove 2p-6 (0 Flock 2P-6 0E19)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!514.0!0.00101788570598!97.51!94.75!4!nan!
+Dove 2p-7 (0 Flock 2P-7 0E1F)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!514.0!0.00101788570598!97.51!94.75!4!nan!
+Dove 2p-8 (0 Flock 2P-8 0E20)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!514.0!0.00101788570598!97.51!94.76!4!nan!
+Dove 2p-9 (0 Flock 2P-9 0E26)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!514.0!0.00101788570598!97.51!94.77!4!nan!
+Dove 2p-10 (0 Flock 2P-10 0E2F)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!513.0!0.00094524830946!97.51!94.76!4!nan!
+Dove 2p-11 (0 Flock 2P-11 0E30)!Earth Observation!LEO!Sun-Synchronous!0.0!496.0!518.0!0.00159953468082!97.51!94.77!4!nan!
+Dove 2p-12 (0 Flock 2P-12 0E3A)!Earth Observation!LEO!Sun-Synchronous!0.0!499.0!514.0!0.0010906711263!97.51!94.75!4!nan!
+Dove-3!Technology Development!LEO!Sun-Synchronous!0.0!594.0!815.0!0.0156194784084!97.7!98.8!4!nan!
+DRTS (Data Relay Test Satellite, Kodama)!Technology Development!GEO!nan!90.77!35775.0!35799.0!0.000284650236022!0.02!1436.12!2650!2100!
+DSCS III-A3 (USA 167, DSCS III-A3) (Defense Satellite Communications System)!Communications!GEO!nan!60.01!35771.0!35802.0!0.000367677582342!0.03!1436.12!1156!1240!
+DSCS III-B6 (USA 170, DSCS III B-6) (Defense Satellite Communications System)!Communications!GEO!nan!-52.51!35760.0!35814.0!0.000640463031051!0.05!1436.1!1156!1240!
+DSCS III-F10 (USA 135, DSCS III B-13) (Defense Satellite Communications System)!Communications!GEO!nan!-130.05!35757.0!35817.0!0.000711625590056!2.54!1436.1!1156!1240!
+DSCS III-F11 (USA 148, DSCS III B-8) (Defense Satellite Communications System)!Communications!GEO!nan!-135.11!35706.0!35868.0!0.00192138909315!0.01!1436.13!1156!1240!
+DSCS III-F12 (USA 153, DSCS III B-11) (Defense Satellite Communications System)!Communications!GEO!nan!-12.15!35774.0!35799.0!0.000296514179308!0.04!1436.12!1156!1240!
+DSCS III-F9 (USA 113, DSCS III B-7) (Defense Satellite Communications System)!Communications!GEO!nan!-52.4!35784.0!35784.0!0.0!0.0!1436.1!1156!1240!
+DSP 18 (USA 130) (Defense Support Program)!Earth Observation!GEO!nan!0.0!35780.0!35800.0!0.000237191650854!0.1!1436.27!2380!1485!
+DSP 20 (USA 149) (Defense Support Program)!Earth Observation!GEO!nan!-36.25!35897.0!35909.0!0.000141934568164!4.08!142.08!2380!1485!
+DSP 21 (USA 159) (Defense Support Program)!Earth Observation!GEO!nan!69.48!35765.0!35810.0!0.00053371286248!3.68!1436.14!2380!1485!
+DSP 22 (USA 176) (Defense Support Program)!Earth Observation!GEO!nan!103.84!35741.0!35832.0!0.00107931161268!1.41!1436.12!2380!1485!
+DubaiSat-1!Earth Observation!LEO!Sun-Synchronous!0.0!662.0!680.0!0.0012782275245!98.0!98.2!200!360!
+DubaiSat-2!Earth Observation!LEO!Sun-Synchronous!0.0!585.0!603.0!0.00129236071223!97.8!96.56!300!360!
+Duchifat-1!Communications!LEO!Sun-Synchronous!0.0!601.0!623.0!0.00157547980521!97.97!96.93!1!nan!
+DX-1 (Dauria Experimental 1)!Communications!LEO!Sun-Synchronous!0.0!626.0!636.0!0.000714183688045!98.4!97.33!27!nan!
+Echostar 1 !Communications!GEO!nan!77.15!35776.0!35795.0!0.000225356121977!0.01!1436.07!3287!7000!
+Echostar 10!Communications!GEO!nan!-110.07!35780.0!35792.0!0.000142328494165!0.06!1436!4333!10000!
+Echostar 11!Communications!GEO!nan!-109.97!35778.0!35793.0!0.000177912727877!0.03!1436.1!5500!20000!
+Echostar 12 (Rainbow-1) !Communications!GEO!nan!-61.63!35782.0!35791.0!0.000106745104551!0.06!1436.11!4328!nan!
+Echostar 14!Communications!GEO!nan!-119.0!35785.0!35789.0!4.74417060037e-05!0.05!1436.11!6384!20000!
+Echostar 15!Communications!GEO!nan!-61.5!35789.0!35803.0!0.000166010529811!0.07!1436.57!5521!20000!
+Echostar 16!Communications!GEO!nan!-61.5!35776.0!35796.0!0.000237214156941!0.05!1436.06!6658!nan!
+Echostar 17!Communications!GEO!nan!-107.1!35781.0!35794.0!0.000154183715828!0.01!1436.13!6100!16100!
+Echostar 18!Communications!GEO!nan!-109.9!35692.0!35788.0!0.00113987176443!0.08!1436.3!6300!nan!
+Echostar 3 !Communications!GEO!nan!-61.46!35783.0!35790.0!8.30239702063e-05!0.02!1436.11!3674!10000!
+Echostar 7 !Communications!GEO!nan!-118.85!35782.0!35789.0!8.30259396757e-05!0.01!1436.07!4027!13000!
+Echostar 8 !Communications!GEO!nan!-76.97!35783.0!35789.0!7.11642470823e-05!0.01!1436.1!4660!10000!
+Echostar 9/Galaxy 23 (G-23, Intelsat 1A-13, Telstar 13)!Communications!GEO!nan!-121.02!35775.0!35797.0!0.000260935572635!0.01!1436.08!4000!nan!
+Echostar G1 (ICO G1, DBSD G1)!Communications!GEO!nan!-92.92!35773.0!35799.0!0.000308378404023!5.73!1436.1!6600!16000!
+EKS-1 (Integrated Space System, Cosmos 2510, Tundra 11L)!Earth Observation!Elliptical!Molniya!0.0!1606.0!38662.0!0.699064292182!63.0!715!nan!nan!
+Electro-L1 (GOMS 2 [Geostationary Operational Meteorological Satellite 2]!Earth Observation!GEO!nan!76.0!35323.0!35750.0!0.00509467505041!0.46!1423.35!1766!nan!
+Electro-L2 !Earth Observation!GEO!nan!77.8!35694.0!35815.0!0.00143621882752!0.45!1434.47!1800!nan!
+ELISA-E12 (ELectronic Intelligence by SAtellite)!Earth Observation!LEO!Sun-Synchronous!0.0!675.0!692.0!0.00120507549444!98.21!98.43!120!nan!
+ELISA-E24 (ELectronic Intelligence by SAtellite)!Earth Observation!LEO!Sun-Synchronous!0.0!675.0!692.0!0.00120507549444!98.21!98.43!120!nan!
+ELISA-W11 (ELectronic Intelligence by SAtellite)!Earth Observation!LEO!Sun-Synchronous!0.0!677.0!692.0!0.0010631511801!98.21!98.45!120!nan!
+ELISA-W23 (ELectronic Intelligence by SAtellite)!Earth Observation!LEO!Sun-Synchronous!0.0!677.0!692.0!0.0010631511801!98.21!98.46!120!nan!
+EO-1 (Earth Observing 1)!Earth Observation/Research!LEO!Sun-Synchronous!0.0!678.0!690.0!0.000850581230508!98.1!98.4!572!600!
+EOS-AM Terra !Earth Observation!LEO!Sun-Synchronous!0.0!702.0!703.0!7.06963591375e-05!98.2!98.8!4854!2530!
+EOS-CHEM Aura !Earth Observation!LEO!Sun-Synchronous!0.0!702.0!703.0!7.06963591375e-05!98.2!98.8!2967!4,600 (EOL)!
+EOS-PM Aqua (Advanced Microwave Scanning Radiometer for EOS, EOS PM-1)!Earth Observation!LEO!Sun-Synchronous!0.0!701.0!704.0!0.000212089077413!98.2!98.8!2934!4,860 (EOL)!
+EROS A1 (Earth Resources Observation Satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!466.0!477.0!0.000803917269605!97.56!95.4!240!nan!
+EROS B1 (Earth Resources Observation Satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!508.0!514.0!0.000435983141985!97.4!94.8!350!800!
+e-st@r-2!Technology Development!LEO!Elliptical!0.0!442.0!687.0!0.0176652967049!98.2!95.9!1!nan!
+Eurasiasat 1 (Turksat 2A)!Communications!GEO!nan!42.08!35761.0!35810.0!0.00058118157773!0.02!1436.06!3535!9,000 (EOL)!
+Eutelsat 10A (Eutelsat W-2A)!Communications!GEO!nan!10.0!35781.0!35822.0!0.000486110287754!0.03!1436.09!5900!nan!
+Eutelsat 113 West-A (Satmex 6)!Communications!GEO!nan!-113.0!35776.0!35796.0!0.000237214156941!0.03!1436.1!5456!12,690 (EOL)!
+Eutelsat 115 West-B!Communications!GEO!nan!-114.9!35789.0!35789.0!0.0!0.0!1436!nan!nan!
+Eutelsat 117 West A (Eutelsat 8 West C, Satmex 8)!Communications!GEO!nan!-116.8!35779.0!35795.0!0.000189766824015!0.02!1436.1!5474!12,690 (EOL)!
+Eutelsat 117 West B!Communications!GEO!nan!-116.8!35779.0!35795.0!0.000189766824015!0.02!1436.1!5500!13000!
+Eutelsat 12 West-A (Atlantic Bird 1) !Communications!GEO!nan!-12.43!35768.0!35805.0!0.000438840985376!0.11!1436.1!2700!5100!
+Eutelsat 16A (Eutelsat W3C)!Communications!GEO!nan!16.0!35779.0!35795.0!0.000189766824015!0.2!1436.12!5400!nan!
+Eutelsat 16C (SESAT-1, Siberia-Europe Satellite)!Communications!GEO!nan!35.96!35754.0!35817.0!0.000747233457082!0.07!1436.06!2500!5600!
+Eutelsat 172A (GE-23, AMC-23, Worldsat 3, Americom 23)!Communications!GEO!nan!172.06!35772.0!35799.0!0.000320242910178!0.01!1436.1!5000!13000!
+Eutelsat 25B (Es’hail 1)!Communications!GEO!nan!25.5!35725.0!35767.0!0.000498622851173!0.08!1434.03!nan!nan!
+Eutelsat 33A (Eurobird 3, E-bird) !Communications!GEO!nan!33.14!35781.0!35790.0!0.000106747636726!0.05!1436.06!1525!1600!
+Eutelsat 33B (Eutelsat 25C, Eutelsat 70A, Eutelsat W-5) !Communications!GEO!nan!25.5!35780.0!35790.0!0.000118609892065!0.02!1436.04!3170!5900!
+Eutelsat 33C (Eutelsat 28A, Eurobird 1, Eurosat 1)!Communications!GEO!nan!33.0!35788.0!35794.0!7.11558074998e-05!0.07!1436.1!2950!5900!
+Eutelsat 36A (Eutelsat W-4) !Communications!GEO!nan!36.09!35766.0!35806.0!0.000474428313882!0.07!1436.08!3190!6000!
+Eutelsat 36B (Eutelsat W-7)!Communications!GEO!nan!36.0!35786.0!35787.0!1.18605671723e-05!0.07!1436.09!5600!13200!
+Eutelsat 3B!Communications!GEO!nan!3.0!35782.0!35791.0!0.000106745104551!0.07!1436.1!5967!nan!
+Eutelsat 48A (Eutelsat W-48, Eurobird 9, Hot Bird 2, Eutelsat 2-F8, Eutelsat HB2)!Communications!GEO!nan!9.08!35757.0!35815.0!0.000687921055129!0.08!1436.07!2915!nan!
+Eutelsat 48B (Eutelsat 21B, Eutelsat W-6A)!Communications!GEO!nan!48.0!35777.0!35797.0!0.000237208530019!0.09!1436.12!5102!nan!
+Eutelsat 5 West-A (Atlantic Bird 3, Stellat 5)!Communications!GEO!nan!-4.93!35769.0!35805.0!0.000426975354034!0.04!1436.08!4050!11000!
+Eutelsat 65 West-A!Communications!GEO!nan!-65.0!35776.0!35796.0!0.000237214156941!0.08!1436.07!6654!16000!
+Eutelsat 7 West-A (Atlantic Bird 7)!Communications!GEO!nan!-7.0!35774.0!35799.0!0.000296514179308!0.06!1436.09!4600!12000!
+Eutelsat 70B (Eutelsat W5A)!Communications!GEO!nan!70.0!35780.0!35800.0!0.000237191650854!0.06!1436.28!5250!nan!
+Eutelsat 7A (Eutelsat W3A) !Communications!GEO!nan!7.06!35769.0!35802.0!0.000391408001328!0.06!1436.07!4300!nan!
+Eutelsat 7B !Communications!GEO!nan!7.0!35784.0!35794.0!0.000118598638488!0.03!1436.21!5404!nan!
+Eutelsat 8 West A (Atlantic Bird 2) !Communications!GEO!nan!-12.5!35766.0!35806.0!0.000474428313882!0.06!1436.1!3150!7400!
+Eutelsat 8 West B!Communications!GEO!nan!-8.0!35773.0!35814.0!0.000486202521138!0.1!1436.1!5800!nan!
+Eutelsat 8 West C (Eutelsat Hot Bird 13A, Hot Bird 6)!Communications!GEO!nan!33.0!35756.0!35815.0!0.000699790062981!0.09!1436.06!3800!9000!
+Eutelsat 9A (Eurobird 9A, Hot Bird 7A)!Communications!GEO!nan!-30.01!35775.0!35799.0!0.000284650236022!0.07!1436.1!4100!10000!
+Eutelsat Hot Bird 13E (Eutelsat 9B)!Communications!GEO!nan!9.0!35780.0!35792.0!0.000142328494165!0.08!1436.06!5200!nan!
+Eutelsat Hot Bird  13D (Eutelsat 3C, Hot Bird 10, Atlantic Bird 4A)!Communications!GEO!nan!-0.07!35766.0!35806.0!0.000474428313882!0.06!1436.07!4892!11000!
+Eutelsat Hot Bird 13B (Hot Bird 8)!Communications!GEO!nan!13.08!35759.0!35812.0!0.00062862497183!0.02!1436.06!4900!14000!
+Eutelsat Hot Bird 13C (Hot Bird 9)!Communications!GEO!nan!0.99!35786.0!35787.0!1.18605671723e-05!0.06!1436.09!4880!14500!
+Eutelsat KA-SAT 9A (KA-SAT)!Communications!GEO!nan!9.0!35714.0!35856.0!0.00168426046732!0.13!1436.01!6150!11000!
+exactView 1!Communications!LEO!Sun-Synchronous!0.0!806.0!821.0!0.00104405930257!99.0!101.2!100!nan!
+exactView 6 (AprizeSat 6)!Communications!LEO!Sun-Synchronous!0.0!627.0!694.0!0.00476495270607!98.2!98!12!nan!
+exactView 9!Communications!LEO!Equatorial!0.0!630.0!649.0!0.00135530351666!6.0!97.5!6!nan!
+Express AM22 (Sesat 2)!Communications!GEO!nan!53.04!35781.0!35790.0!0.000106747636726!0.02!1436.06!2600!6000!
+Express AMU1 (Eutelsat 36C)!Communications!GEO!nan!36.0!35792.0!35795.0!3.55757942296e-05!0.1!1436.1!2700!nan!
+Express-A1R (Express 4A, Ekspress-A No. 4)!Communications!GEO!nan!13.97!35774.0!35798.0!0.000284656988329!0.02!1436.1!2600!6000!
+Express-AM2!Communications!GEO!nan!145.0!35785.0!35788.0!3.5581701517e-05!0.04!1436.1!2542!6000!
+Express-AM3!Communications!GEO!nan!103.0!35777.0!35795.0!0.000213492741247!0.09!1436.1!2600!4200!
+Express-AM33!Communications!GEO!nan!96.53!35782.0!35791.0!0.000106745104551!0.05!1436.1!2600!nan!
+Express-AM44!Communications!GEO!nan!-11.0!35987.0!35995.0!9.44264771842e-05!0.11!1446.57!2532!nan!
+Express-AM5!Communications!GEO!nan!140.0!35420.0!35940.0!0.00618311533888!0.08!1430.6!3400!nan!
+Express-AM6!Communications!GEO!nan!53.0!34094.0!37636.0!0.0419320468805!0.53!1440.09!3358!14000!
+Express-AM7!Communications!GEO!nan!40.0!35777.0!35796.0!0.000225350776274!0.01!1436.1!5720!18000!
+Express-AM8!Communications!GEO!nan!-14.0!35784.0!35788.0!4.74428313882e-05!0.03!1436.09!2100!nan!
+Express-AT1!Communications!GEO!nan!56.0!35781.0!35804.0!0.000272754224726!0.06!1436.4!1726!nan!
+Express-AT2!Communications!GEO!nan!140.0!35609.0!35715.0!0.00126094404263!0.1!1429.75!1427!nan!
+Falconsat-3!Technology Development!LEO!Non-Polar Inclined!0.0!538.0!540.0!0.000144738746562!35.4!95.4!46!nan!
+FAST 1 (Sara Lilly and Emma, USA 222)!Technology Development!LEO!Polar!0.0!627.0!654.0!0.00192568290422!71.97!97.54!55!nan!
+Fengniao 1A (Hummingbird 1A)!Technology Development!LEO!Sun-Synchronous!0.0!488.0!500.0!0.000874125874126!97.35!94.49!160!nan!
+Fengyun 2D (FY-2D)!Earth Observation!GEO!nan!86.51!35777.0!35791.0!0.00016605778811!0.77!1436!1390!nan!
+Fengyun 2E (FY-2E)!Earth Observation!GEO!nan!123.59!35767.0!35803.0!0.000426995611434!2.61!1436.04!1390!nan!
+Fengyun 2F (FY-2F)!Earth Observation!GEO!nan!105.0!35760.0!35816.0!0.000664168129418!2.19!1436.19!1390!nan!
+Fengyun 2G (FY 2G)!Earth Observation!GEO!nan!0.0!35770.0!35800.0!0.000355829676195!2.27!1436.02!1390!nan!
+Fengyun 3A (FY-3A)!Earth Observation!LEO!Sun-Synchronous!0.0!820.0!835.0!0.00104202848211!98.6!101.5!2300!nan!
+Fengyun 3B (FY-3B)!Earth Observation!LEO!Sun-Synchronous!0.0!827.0!828.0!6.94685654741e-05!98.8!101.5!2300!nan!
+Fengyun 3C (FY-3C)!Earth Observation!LEO!Sun-Synchronous!0.0!827.0!828.0!6.94685654741e-05!98.81!101.45!2300!nan!
+Fermi Gamma-Ray Space Telescope (formerly GLAST)!Space Science!LEO!Non-Polar Inclined!0.0!537.0!556.0!0.00137352707294!25.6!95.6!4303!nan!
+FIA Radar 1 (Future Imagery Architecture (FIA) Radar 1, NROL-41, USA 215, Topaz)!Earth Observation!LEO!Non-Polar Inclined!0.0!1101.0!1107.0!0.0004013914905!122.99!107.35!nan!nan!
+FIA Radar 2 (Future Imagery Architecture (FIA) Radar 2, NROL-25, USA 234, Topaz)!Earth Observation!LEO!Non-Polar Inclined!0.0!1068.0!1107.0!0.00261481729802!123.0!107!nan!nan!
+FIA Radar 3 (Future Imagery Architecture (FIA) Radar 3, NROL-39 , USA 247, Topaz)!Earth Observation!LEO!Non-Polar Inclined!0.0!1066.0!1081.0!0.00100759051521!123.0!106.7!nan!nan!
+FIA Radar 4 (Future Imagery Architecture (FIA) Radar 4, NROL-45, USA 267, Topax)!Earth Observation!LEO!Non-Polar Inclined!0.0!1086.0!1087.0!6.70555890834e-05!123.0!106.7!nan!nan!
+Firebird-A (Focused Investigations of Relativistic Electron Burst, Intensity, Range, and Dynamics)!Space Science!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!2!nan!
+Firebird-B (Focused Investigations of Relativistic Electron Burst, Intensity, Range, and Dynamics)!Space Science!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!2!nan!
+Firebird-C (Focused Investigations of Relativistic Electron Burst, Intensity, Range, and Dynamics)!Space Science!LEO!Elliptical!0.0!437.0!667.0!0.0166136954637!99.1!95.7!2!nan!
+Firebird-D (Focused Investigations of Relativistic Electron Burst, Intensity, Range, and Dynamics)!Space Science!LEO!Elliptical!0.0!444.0!675.0!0.0166678692546!99.1!97.7!2!nan!
+Firefly!Earth Science!LEO!Non-Polar Inclined!0.0!437.0!449.0!0.000880669308675!40.5!94.68!3!nan!
+FLTSATCOM-8 (USA 46)!Communications!GEO!nan!-14.74!35745.0!35829.0!0.000996275826079!8.97!1436.13!2310!nan!
+Formosat-2 (ROCSAT-2, Republic of China Satellite 2) !Earth Observation!LEO!Sun-Synchronous!0.0!890.0!893.0!0.000206568890725!99.0!102.8!764!500-700!
+FORTÉ (Fast On-orbit Recording of Transient Events)!Earth Observation!LEO!Polar!0.0!790.0!823.0!0.00229917090504!70.0!101!215!55!
+Fox-1A (AO-85)!Communications/Technology Development!LEO!Non-Polar Inclined!0.0!496.0!802.0!0.0217979769198!64.78!97.7!1.33!nan!
+FUNCube-1 (AO-73)!Communications!LEO!Sun-Synchronous!0.0!594.0!683.0!0.00634943283156!97.8!97.4!1!nan!
+Galassia!Earth Science!LEO!Equatorial!0.0!529.0!549.0!0.00144738746562!14.98!95.43!3.4!nan!
+Galaxy-11!Communications!GEO!nan!-55.5!35785.0!35795.0!0.000118595825427!0.05!1436.11!4488!10400!
+Galaxy-12!Communications!GEO!nan!-122.9!35775.0!35796.0!0.000249077819027!0.05!1436.07!1760!nan!
+Galaxy-13 (Horizons 1, Galaxy 13L)!Communications!GEO!nan!-126.97!35781.0!35790.0!0.000106747636726!0.01!1436.07!4060!8600!
+Galaxy-14!Communications!GEO!nan!-124.96!35776.0!35795.0!0.000225356121977!0.01!1436.07!2086!4700!
+Galaxy-15!Communications!GEO!nan!-132.97!35776.0!35795.0!0.000225356121977!0.06!1436.07!2033!4700!
+Galaxy-16 !Communications!GEO!nan!-99.02!35775.0!35798.0!0.000272793044963!0.01!1436.1!4640!10000!
+Galaxy-17!Communications!GEO!nan!-91.01!35774.0!35799.0!0.000296514179308!0.02!1436.1!4100!9500!
+Galaxy-18!Communications!GEO!nan!-123.02!35774.0!35798.0!0.000284656988329!0.02!1436.1!4642!nan!
+Galaxy-19!Communications!GEO!nan!-97.08!35776.0!35796.0!0.000237214156941!0.05!1436.1!4690!nan!
+Galaxy-25 (G-25, Intelsat 1A-5, Telstar 5)!Communications!GEO!nan!-93.09!35771.0!35801.0!0.000355821235411!0.03!1436.08!3515!nan!
+Galaxy-28 (G-28, Intelsat IA-8, Telstar 8)!Communications!GEO!nan!-88.96!35775.0!35798.0!0.000272793044963!0.01!1436.1!5493!16000!
+Galaxy-3C!Communications!GEO!nan!-95.02!35784.0!35788.0!4.74428313882e-05!0.01!1436.11!4860!18000!
+Galileo FOC FM1 (Galileo 5)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!17231.0!25971.0!0.156233241572!49.78!776.25!733!nan!
+Galileo FOC FM10 (Galileo 13)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23272.0!23280.0!0.000134925453687!57.4!847.01!723!nan!
+Galileo FOC FM11 (Galileo 14)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23483.0!23530.0!0.000786571385537!57.4!856.9!723!nan!
+Galileo FOC FM2 (Galileo 6)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!13810.0!25918.0!0.230769230769!49.77!705.11!733!nan!
+Galileo FOC FM3 (Galileo 7)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23516.0!23574.0!0.00096941333779!55.0!858.55!723!nan!
+Galileo FOC FM4 (Galileo 8)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23353.0!23382.0!0.000487599831862!55.1!850.5!723!nan!
+Galileo FOC FM5 (Galileo 9)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23218.0!23240.0!0.00037163417683!57.1!845!723!nan!
+Galileo FOC FM6 (Galileo 10)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23220.0!23239.0!0.000320951367422!57.1!844!723!nan!
+Galileo FOC FM8 (Galileo 11)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23550.0!23618.0!0.0011350737798!54.96!860.51!723!nan!
+Galileo FOC FM9 (Galileo 12)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23551.0!23568.0!0.000284000735061!54.95!858.34!723!nan!
+Galileo IOV-1 FM2!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23242.0!23307.0!0.001096324782!54.67!846.98!700!1420!
+Galileo IOV-1 PFM!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23240.0!23306.0!0.001113247647!54.68!846.88!700!1420!
+Galileo IOV-2 FM3!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23214.0!23233.0!0.000321016439421!55.34!844.76!700!1420!
+Galileo IOV-2 FM4!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!23217.0!23227.0!0.000168964585023!55.3!844.69!700!1420!
+Gaofen 1!Earth Observation!LEO!Sun-Synchronous!0.0!630.0!654.0!0.00171135196805!98.07!97.56!1000!nan!
+Gaofen 2!Earth Observation!LEO!Sun-Synchronous!0.0!620.0!636.0!0.00114318376679!98.02!97.06!1000!nan!
+Gaofen 4!Earth Observation!GEO!nan!nan!35792.0!35796.0!4.74338298074e-05!0.6!1436.1!4600!nan!
+Gaofen 8!Earth Observation!LEO!Sun-Synchronous!0.0!484.0!492.0!0.00058326042578!97.3!94.36!1000!nan!
+Gaofen 9!Earth Observation!LEO!Sun-Synchronous!0.0!618.0!664.0!0.00328055912138!98.01!97.54!1000!nan!
+Garpun-1 (Cosmos 2473)!Communications!GEO!nan!79.9!35782.0!35790.0!9.48856627764e-05!0.09!1436.1!5000!nan!
+Garpun-12L (Cosmos 2513)!Communications!GEO!nan!nan!35783.0!35805.0!0.000260886063941!0.0!1436.1!5000!nan!
+Garuda-1 (Aces 1)!Communications!GEO!nan!123.03!35774.0!35801.0!0.000320227717488!1.22!1436.16!4291!14000!
+GATOSS (Global Air Traffic Awareness and Optimizing through Spaceborne Surveillance)!Technology Development!LEO!Sun-Synchronous!0.0!593.0!819.0!0.0159694742793!97.7!98.9!5!nan!
+GEARRSAT-2 (Globalstar Experiment And Risk Reduction Satellite)!Technology Development!LEO!Non-Polar Inclined!0.0!356.0!700.0!0.0249347636996!55.0!95!10!nan!
+Genesis-1!Technology Development!LEO!Non-Polar Inclined!0.0!522.0!569.0!0.00339816354566!64.5!95.6!1360!nan!
+Genesis-2!Technology Development!LEO!Non-Polar Inclined!0.0!508.0!586.0!0.00563828249241!64.5!95.6!1360!nan!
+GEO IK2 (Cosmos 2517)!Earth Science!LEO!Sun-Synchronous!0.0!935.0!963.0!0.00191282962153!99.27!104.03!900!nan!
+GeoEye-1 (Orbview 5)!Earth Observation!LEO!Sun-Synchronous!0.0!671.0!686.0!0.00106405618217!98.1!98.3!1955!nan!
+Geotail (Geomagnetic Tail Laboratory)!Space Science!Elliptical!Deep Highly Eccentric!0.0!49551.0!191451.0!0.559229453539!9.39!2474.83!980!273!
+GHGSat-D (Greenhouse Gas Satellite - Demonstrator, Claire)!Earth Science!LEO!Sun-Synchronous!0.0!500.0!512.0!0.00087260034904!97.5!94.7!15!nan!
+Global Change Observation Mission - 1 Water (GCOM-1, Shikuzu)!Earth Observation!LEO!Sun-Synchronous!0.0!701.0!704.0!0.000212089077413!98.2!98.8!1900!4.05!
+Globalstar M004 (Globalstar 4)!Communications!LEO!Non-Polar Inclined!0.0!1407.0!1412.0!0.000321357413716!52.0!114!450!1500!
+Globalstar M006 (Globalstar 6)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1415.0!0.000128468653649!52.0!114.1!450!1500!
+Globalstar M023 (Globalstar 9)!Communications!LEO!Non-Polar Inclined!0.0!1406.0!1422.0!0.00102774922919!52.0!114.1!450!1500!
+Globalstar M026 (Globalstar 28)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1416.0!0.000256937307297!52.0!114.1!450!1500!
+Globalstar M027 (Globalstar 34)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!52.0!114.1!450!1500!
+Globalstar M028 (Globalstar 26)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!450!1500!
+Globalstar M029 (Globalstar 47)!Communications!LEO!Non-Polar Inclined!0.0!900.0!1413.0!0.0340795854647!52.0!114.1!450!1500!
+Globalstar M031 (Globalstar 44)!Communications!LEO!Non-Polar Inclined!0.0!1477.0!1478.0!6.37145587767e-05!52.0!114.1!450!1500!
+Globalstar M037 (Globalstar 16)!Communications!LEO!Non-Polar Inclined!0.0!1411.0!1417.0!0.000385405960946!52.0!114.1!450!1500!
+Globalstar M039 (Globalstar 45)!Communications!LEO!Non-Polar Inclined!0.0!1411.0!1416.0!0.00032119226569!52.0!114.1!450!1500!
+Globalstar M040 (Globalstar 10)!Communications!LEO!Non-Polar Inclined!0.0!1415.0!1416.0!6.42219510629e-05!52.0!114.1!450!1500!
+Globalstar M056 (Globalstar 43)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!450!1500!
+Globalstar M059 (Globalstar 42)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1415.0!0.000128468653649!52.0!114.1!450!1500!
+Globalstar M063 (Globalstar 49)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!450!1500!
+Globalstar M065 (Globalstar 65)!Communications!LEO!Non-Polar Inclined!0.0!1411.0!1416.0!0.00032119226569!52.0!114.1!450!1500!
+Globalstar M066 (Globalstar 66)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!52.0!114.1!450!1500!
+Globalstar M067 (Globalstar 67)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!450!1500!
+Globalstar M068 (Globalstar 68)!Communications!LEO!Non-Polar Inclined!0.0!1411.0!1414.0!0.000192740122069!52.0!114!450!1500!
+Globalstar M069 (Globalstar 69)!Communications!LEO!Non-Polar Inclined!0.0!1411.0!1416.0!0.00032119226569!52.0!114.1!450!1500!
+Globalstar M070 (Globalstar 70)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!52.0!114.1!450!1500!
+Globalstar M071 (Globalstar 71)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!52.0!114.1!450!1500!
+Globalstar M072 (Globalstar 72)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1416.0!0.000256937307297!52.0!114.1!450!1500!
+Globalstar M073 (Globalstar 73, Globalstar 2-6)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M074 (Globalstar 74, Globalstar 2-2)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1415.0!0.000128468653649!52.0!114.1!700!1700!
+Globalstar M075 (Globalstar 75, Globalstar 2-5)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1415.0!0.000128468653649!52.0!114.1!700!1700!
+Globalstar M076 (Globalstar 76, Globalstar 2-3)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!52.0!114.1!700!1700!
+Globalstar M077 (Globalstar 77, Globalstar 2-4)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M078 (Globalstar 95, Globalstar 2-23)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!51.99!114.08!700!1700!
+Globalstar M079 (Globalstar 79, Globalstar 2-1)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M080 (Globalstar 80, Globalstar 2-14)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M081 (Globalstar 81, Globalstar 2-11)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!52.0!114.1!700!1700!
+Globalstar M082 (Globalstar 82, Globalstar 2-15)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M083 (Globalstar 83, Globalstar 2-7)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M084 (Globalstar 84, Globalstar 2-13) !Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M085 (Globalstar 85, Globalstar 2-10)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1415.0!0.000128468653649!52.0!114.1!700!1700!
+Globalstar M086 (Globalstar 86, Globalstar 2-18)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M088 (Globalstar 88, Globalstar 2-8)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!52.0!114.1!700!1700!
+Globalstar M089 (Globalstar 89, Globalstar 2-12)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1415.0!0.000128468653649!51.99!118.2!700!1700!
+Globalstar M090 (Globalstar 90, Globalstar 2-17)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M091 (Globalstar 91, Globalstar 2-9)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1415.0!0.000128468653649!52.0!114.1!700!1700!
+Globalstar M092 (Globalstar 92, Globalstar 2-16)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.0!114.1!700!1700!
+Globalstar M093 (Globalstar 87, Globalstar 2-20)!Communications!LEO!Non-Polar Inclined!0.0!1412.0!1415.0!0.000192715359414!51.98!113.35!700!1700!
+Globalstar M094 (Globalstar 93, Globalstar 2-21)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!51.99!103.44!700!1700!
+Globalstar M095 (Globalstar 96, Globalstar 2-24)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!51.98!114.08!700!1700!
+Globalstar M096 (Globalstar 94, Globalstar 2-22)!Communications!LEO!Non-Polar Inclined!0.0!1413.0!1414.0!6.4238453138e-05!52.01!103.48!700!1700!
+Globalstar M097 (Globalstar 78, Globalstar 2-19)!Communications!LEO!Non-Polar Inclined!0.0!1370.0!1391.0!0.00135475130637!52.01!113.96!700!1700!
+Glonass 701 (Glonass-K, Cosmos 2471)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19116.0!19146.0!0.000588212226971!64.77!675.78!935!1700!
+Glonass 702 (Glonass K, Cosmos 2501)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19103.0!19178.0!0.0014699829482!64.83!676.15!935!1700!
+Glonass 714 (Cosmos 2419)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19118.0!19125.0!0.00013730066885!64.8!675.39!1480!1600!
+Glonass 715 (Glonass 35-1, Cosmos 2424)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19130.0!19130.0!0.0!64.8!675.75!1480!1600!
+Glonass 716 (Glonass 35-2, Cosmos 2425)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19130.0!19130.0!0.0!64.8!675.75!1480!1600!
+Glonass 717 (Glonass 35-3, Cosmos 2426)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19130.0!19130.0!0.0!64.8!675.75!1480!1600!
+Glonass 719 (Glonass 36-2, Cosmos 2432)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19094.0!19171.0!0.00150965591609!64.9!675.83!1480!1600!
+Glonass 720 (Glonass 36-3, Cosmos 2433)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19124.0!19133.0!0.000176480969469!64.9!675.67!1480!1600!
+Glonass 721 (Glonass 37-1, Cosmos 2435)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19142.0!19378.0!0.00460397971128!64.66!680.91!1480!1600!
+Glonass 723 (Glonass 37-3, Cosmos 2436)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19147.0!19365.0!0.00425349254663!64.67!680.75!1480!1600!
+Glonass 725 (Glonass 38-2, Cosmos 2443)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19134.0!19145.0!0.000215605950724!64.79!676.1!1480!1600!
+Glonass 730 (Glonass 41-1, Cosmos 2456)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19132.0!19419.0!0.00559552358114!64.81!681.53!1415!1000!
+Glonass 731 (Glonass 42-1, Cosmos 2459)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19119.0!19146.0!0.00052935986668!64.76!675.85!1415!1000!
+Glonass 732 (Glonass 42-3, Cosmos 2460)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19131.0!19133.0!3.92126107756e-05!64.77!675.81!1415!1000!
+Glonass 733 (Glonass 41-2, Cosmos 2457)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!18864.0!19130.0!0.00524303228604!64.78!670.47!1415!1000!
+Glonass 734 (Glonass 41-3, Cosmos 2458)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19098.0!19129.0!0.00060823670218!64.8!675.08!1415!1000!
+Glonass 735 (Glonass 42-2, Cosmos 2461)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19128.0!19135.0!0.000137246828618!64.77!675.81!1415!1000!
+Glonass 736 (Glonass 43-1, Cosmos 2464)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!18909.0!19123.0!0.00421492161034!64.82!671.2!1415!1000!
+Glonass 737 (Glonass 43-2, Cosmos 2465)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19116.0!19380.0!0.0051526270591!64.84!680.43!1415!1000!
+Glonass 738 (Glonass 43-3, Cosmos 2466)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19079.0!19175.0!0.00188257442052!64.84!675.61!1415!1000!
+Glonass 742 (Glonass-M, Cosmos 2474)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19126.0!19158.0!0.000627155848228!64.82!676.2!1415!1000!
+Glonass 743 (Glonass 44-2, Cosmos 2476)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19142.0!19204.0!0.00121363974474!64.8!677.46!1415!1000!
+Glonass 744 (Glonass 44-3, Cosmos 2477)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19150.0!19199.0!0.000959110571747!64.8!677.5!1415!1000!
+Glonass 745 (Glonass 44-1, Cosmos 2475)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19139.0!19212.0!0.00142882308039!64.78!677.54!1415!1000!
+Glonass 746 (Glonass-M, Cosmos 2478)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19130.0!19162.0!0.000627057532529!64.82!676.38!1415!1000!
+Glonass 747 (Glonass-M, Cosmos 2485)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19087.0!19173.0!0.0016862745098!64.77!675.73!1415!1000!
+Glonass 751 (Glonass-M, Cosmos 2514)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19106.0!19154.0!0.000941176470588!64.8!675.75!1415!1000!
+Glonass 753 (Glonass-M, Cosmos 2516)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19094.0!19153.0!0.00115715770687!64.8!675.49!1415!1000!
+Glonass 754 (Glonass-M, Cosmos 2491, RS-46)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19084.0!19177.0!0.00182349365699!64.81!675.74!1415!1000!
+Glonass 755 (Glonass-M, Cosmos 2500)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19114.0!19146.0!0.000627450980392!64.77!675.73!1415!1000!
+GOES 13 (Geostationary Operational Environmental Satellite, GOES-N)!Earth Observation!GEO!nan!-104.77!35768.0!35801.0!0.000391417286411!0.28!1436!3200!2300!
+GOES 14 (Geostationary Operational Environmental Satellite, GOES-O)!Earth Observation!GEO!nan!-89.5!35170.0!35170.0!0.0!0.0!1436!3200!2300!
+GOES 15 (Geostationary Operational Ennvironmental Satellite, GOES-P)!Earth Observation!GEO!nan!-89.43!35786.0!35788.0!2.37208530019e-05!0.42!1436.14!3175!nan!
+GOES 3 (Geostationary Operational Environmental Satellite, GOES-C)!Communications!GEO!nan!-101.44!35772.0!35800.0!0.000332099819717!14.3!1436.08!627!nan!
+Göktürk 2!Earth Observation!LEO!Sun-Synchronous!0.0!669.0!690.0!0.00148946733811!98.16!98.35!409!nan!
+GOMX-3!Technology Development!LEO!Non-Polar Inclined!0.0!394.0!409.0!0.00110758325334!51.64!92.6!3!nan!
+Gonets D1-14 !Communications!LEO!Polar!0.0!1407.0!1413.0!0.000385604113111!82.5!114!240!120!
+Gonets M-03!Communications!LEO!Polar!0.0!1478.0!1510.0!0.00203458799593!82.5!115.9!270!120!
+Gonets M-04!Communications!LEO!Polar!0.0!1480.0!1511.0!0.00197063123768!82.5!115.9!270!120!
+Gonets M-05!Communications!LEO!Polar!0.0!1497.0!1510.0!0.000825554073792!82.5!116.1!270!120!
+Gonets M-11 (Gonets M21)!Communications!LEO!Polar!0.0!1497.0!1508.0!0.000698634487139!82.4!116!280!120!
+Gonets M-12 (Gonets M22)!Communications!LEO!Polar!0.0!1494.0!1506.0!0.000762388818297!82.4!116!280!120!
+Gonets M-13 (Gonets M23)!Communications!LEO!Polar!0.0!1171.0!1504.0!0.0216023353876!82.4!116!280!120!
+Gonets M-14!Communications!LEO!Polar!0.0!1482.0!1507.0!0.00158942081505!82.49!115.86!270!120!
+Gonets M-16!Communications!LEO!Polar!0.0!1493.0!1508.0!0.000952925481227!82.49!116!270!120!
+Gonets M-17!Communications!LEO!Polar!0.0!1494.0!1509.0!0.000952804421013!92.49!116.02!270!120!
+Gonets M-18!Communications!LEO!Polar!0.0!1479.0!1510.0!0.00197088181067!82.52!115.87!280!120!
+Gonets M-19!Communications!LEO!Polar!0.0!1480.0!1512.0!0.00203407068396!82.51!115.89!280!120!
+Gonets M-20!Communications!LEO!Polar!0.0!1478.0!1509.0!0.00197113244738!82.51!115.84!280!120!
+GPM Core Observatory (Global Precipitation Measurement)!Earth Observation!LEO!Non-Polar Inclined!0.0!392.0!409.0!0.00125544642198!65.02!92.57!3850!nan!
+Grace 1 (Gravity Recovery and Climate Experiment, "Tom and Jerry")!Earth Observation!LEO!Polar!0.0!396.0!404.0!0.000590841949778!89.0!93.4!480!150!
+Grace 2 (Gravity Recovery and Climate Experiment, "Tom and Jerry")!Earth Observation!LEO!Polar!0.0!396.0!404.0!0.000590841949778!89.0!93.4!480!150!
+Greenhouse Gases Observing Satellite (Ibuki, GoSAT)!Earth Observation!LEO!Sun-Synchronous!0.0!668.0!670.0!0.000142065634323!98.1!98.1!1750!3800!
+GRIFEX (GEO-CAPE ROIC In-Flight Performance Experiment)!Technology Development!LEO!Elliptical!0.0!441.0!659.0!0.0157514450867!99.1!95.5!4!nan!
+GSAT-10!Communications!GEO!nan!83.0!35777.0!35795.0!0.000213492741247!0.06!1436.07!3400!nan!
+GSAT-12!Communications!GEO!nan!82.94!35761.0!35811.0!0.000593035392352!0.09!1436.1!1410!1430!
+GSAT-14!Communications!GEO!nan!74.0!35763.0!35810.0!0.000557446657099!0.23!1436.1!1982!nan!
+GSAT-15!Communications!GEO!nan!93.5!35782.0!35805.0!0.00027274775576!0.1!1436.1!3164!nan!
+GSAT-16!Communications!GEO!nan!55.0!35776.0!35798.0!0.000260929383021!0.18!1436.1!3181!nan!
+GSAT-2!Communications/Technology Development!GEO!nan!48.04!35776.0!35796.0!0.000237214156941!0.04!1436.07!1825!nan!
+GSAT-6 (Insat 4-E)!Communications!GEO!nan!83.0!35775.0!35775.0!0.0!0.0!1436.1!2110!3100!
+GSAT-7!Communications!GEO!nan!74.0!35757.0!35814.0!0.000676068365931!0.19!1436!2650!nan!
+GSAT-8!Communications/Navigation!GEO!nan!55.0!35782.0!35796.0!0.000166038093883!0.09!1436.23!3093!6250!
+GSSAP 1 (Geosynchronous Space Situational Awareness Program, USA 253)!Space Observation!GEO!nan!nan!35749.0!35757.0!9.49599981008e-05!0.03!1434!nan!nan!
+GSSAP 2 (Geosynchronous Space Situational Awareness Program, USA 254)!Space Observation!GEO!nan!nan!35800.0!35900.0!0.00118427285647!0.03!nan!nan!nan!
+Haiyang 2A (HY 2A)!Earth Observation!LEO!Sun-Synchronous!0.0!965.0!967.0!0.000136314067612!99.4!104.4!1500!nan!
+Helios 2A !Earth Observation!LEO!Sun-Synchronous!0.0!681.0!683.0!0.000141803743619!98.1!98!4200!2900!
+Helios 2B!Earth Observation!LEO!Sun-Synchronous!0.0!679.0!682.0!0.000212750868733!98.1!98.37!4200!2900!
+HellasSat 2 (Intelsat K-TV, NSS K-TV)!Communications!GEO!nan!39.06!35769.0!35803.0!0.0004032640668!0.01!1436.08!3300!7600!
+HESSI (RHESSI, Reuven Ramaty High Energy Solar Spectroscopic Imager)!Space Science!LEO!Non-Polar Inclined!0.0!535.0!551.0!0.00115723998264!38.0!95.5!293!414!
+Himawari 8!Earth Observation!GEO!nan!140.0!35774.0!35797.0!0.000272799516077!0.08!1436.06!3500!2600!
+Hinode (Solar B)!Space Science!LEO!Sun-Synchronous!0.0!670.0!696.0!0.00184318729619!98.1!98.4!700!1000!
+Hisaki (Sprint A, Spectroscopic Planet Observatory for Recognition of Interaction of Atmosphere)!Space Science!Elliptical!nan!0.0!952.0!1155.0!0.013672795851!31.0!106.27!348!900!
+Hispasat 1C !Communications!GEO!nan!-29.93!35764.0!35808.0!0.00052187114527!0.03!1436.08!3112!6000!
+Hispasat 1D !Communications!GEO!nan!-29.95!35764.0!35809.0!0.000533725522754!0.02!1436.11!3288!6200!
+Hispasat 1E!Communications!GEO!nan!-30.0!35782.0!35786.0!4.74450823172e-05!0.07!1435.95!5320!14000!
+HJ-1A (Huan Jing 1A)!Earth Observation!LEO!Sun-Synchronous!0.0!628.0!665.0!0.00263664220053!97.8!97.7!470!nan!
+HJ-1B (Huan Jing 1B)!Earth Observation!LEO!Sun-Synchronous!0.0!621.0!673.0!0.00370528715975!97.8!97.7!470!nan!
+HJ-1C (Huan Jing 1C)!Earth Observation!LEO!Sun-Synchronous!0.0!420.0!438.0!0.00132372407707!97.33!94.53!890!nan!
+Hodoyoshi-1 !Earth Observation!LEO!Sun-Synchronous!0.0!506.0!525.0!0.00137971098686!97.48!94.93!65!50!
+Hodoyoshi-3!Technology Development!LEO!Sun-Synchronous!0.0!613.0!666.0!0.00378058349383!97.98!97.51!60!50!
+Hodoyoshi-4!Technology Development!LEO!Sun-Synchronous!0.0!613.0!650.0!0.00264229093766!97.99!97.35!60!50!
+Horizons 2!Communications!GEO!nan!85.0!35777.0!35796.0!0.000225350776274!0.0!1436.1!2300!4700!
+Horyu-2 (High Voltage Technology Demonstration Satellite-2)!Technology Development!LEO!Sun-Synchronous!0.0!650.0!669.0!0.00135144747137!98.2!97.9!7.1!nan!
+Horyu-4 (Arc Event Generator and Investigation Satellite - AEGIS)!Technology Development!LEO!Sun-Synchronous!0.0!557.0!579.0!0.00158547131738!31.0!96!10!5!
+Hubble Space Telescope (HST, Space Telescope)!Space Science!LEO!Non-Polar Inclined!0.0!555.0!559.0!0.000288725277898!28.5!95.8!11110!2400!
+HumSat-D!Technology Development!LEO!Sun-Synchronous!0.0!590.0!640.0!0.00357909806729!97.8!96.9!1!nan!
+HYLAS 1 (Highly Adaptable Satellite)!Communications!GEO!nan!-33.5!35770.0!35803.0!0.000391398716687!0.01!1436.07!2242!nan!
+HYLAS 2 (Highly Adaptable Satellite)!Communications!GEO!nan!33.5!35775.0!35799.0!0.000284650236022!0.06!1436.14!3311!nan!
+IGS-3A (Information Gathering Satellite 3A, IGS Optical 2)!Earth Observation!LEO!Sun-Synchronous!0.0!484.0!492.0!0.00058326042578!97.3!94.37!850!nan!
+IGS-5A (Information Gathering Satellite 5A, IGS Optical 3)!Earth Observation!LEO!Sun-Synchronous!0.0!484.0!492.0!0.00058326042578!97.31!94.37!1600!nan!
+IGS-6A (Information Gathering Satellite 6A, IGS Optical 4)!Earth Observation!LEO!Sun-Synchronous!0.0!588.0!591.0!0.000215532725052!97.69!96.47!1600!nan!
+IGS-7A (Information Gathering Satellite 7A, IGS Radar 3)!Earth Observation!LEO!Sun-Synchronous!0.0!512.0!514.0!0.00014528548598!97.46!94.89!1600!nan!
+IGS-8A (Information Gathering Satellite 8A, IGS Radar 4)!Earth Observation!LEO!Sun-Synchronous!0.0!509.0!514.0!0.000363292886725!97.5!94.85!1600!nan!
+IGS-8B (Information Gathering Satellite 8B, IGS Optical Demonstrator)!Earth Observation!LEO!Sun-Synchronous!0.0!512.0!523.0!0.000798548094374!97.5!94.85!1600!nan!
+IGS-9A (Information Gathering Satellite 9A, IGS Radar 5)!Earth Observation!LEO!Sun-Synchronous!0.0!510.0!510.0!0.0!97.5!94.85!1600!nan!
+IGS-9B (Information Gathering Satellite 9B, IGS Optical 5)!Earth Observation!LEO!Sun-Synchronous!0.0!511.0!515.0!0.00029057097196!97.5!95.2!1600!nan!
+Improved Trumpet 4 (NROL-22, National Reconnaissance Office Launch-22, SBIRS HEO-1, Twins 1, USA 184)!Earth Observation!Elliptical!Molniya!0.0!1111.0!37564.0!0.708995429349!63.0!684!4000!nan!
+Improved Trumpet 5 (NROL-28, National Reconnaissance Office Launch-28, SBIRS HEO-2, Twins 2, USA 200)!Earth Observation!Elliptical!Molniya!0.0!1112.0!37580.0!0.709052729818!63.56!684!4200!nan!
+Improved Trumpet 6 (NROL-35, National Reconnaissance Office Launch-35, SBIRS HEO-3, USA 259)!Earth Observation!Elliptical!Molniya!0.0!2103.0!37746.0!0.677765312138!62.85!707.55!4200!nan!
+INMARSAT 3 F1 !Communications!GEO!nan!64.56!35764.0!35808.0!0.00052187114527!0.08!1436.08!2064!nan!
+INMARSAT 3 F2 !Communications!GEO!nan!-15.52!35763.0!35809.0!0.000545592560964!0.08!1436.1!2070!nan!
+INMARSAT 3 F3 !Communications!GEO!nan!178.2!35761.0!35810.0!0.00058118157773!0.09!1436.07!2074!nan!
+INMARSAT 3 F4 !Communications!GEO!nan!-125.39!35609.0!35642.0!0.000392899239204!0.06!1427.91!2066!nan!
+INMARSAT 3 F5 !Communications!GEO!nan!25.07!35769.0!35803.0!0.0004032640668!0.04!1436.07!2000!2800!
+INMARSAT 4 F1!Communications!GEO!nan!63.96!35772.0!35799.0!0.000320242910178!2.3!1436.08!5959!13000!
+INMARSAT 4 F2!Communications!GEO!nan!-52.76!35773.0!35800.0!0.000320235313653!2.33!1436.11!5458!13000!
+INMARSAT 4 F3!Communications!GEO!nan!-97.65!35775.0!35798.0!0.000272793044963!3.01!1436.1!5960!13000!
+INMARSAT 5 F1!Communications!GEO!nan!60.3!35784.0!35790.0!7.11625590056e-05!0.06!1436.13!6070!13000!
+INMARSAT 5 F2!Communications!GEO!nan!-55.0!35784.0!35789.0!5.93028358616e-05!0.03!1436!6105!13000!
+INMARSAT 5 F3!Communications!GEO!nan!180.0!35780.0!35780.0!0.0!0.0!1436.1!6100!15000!
+INSAT 3A (Indian National Satellite)!Earth Observation!GEO!nan!93.53!35780.0!35793.0!0.00015418737324!0.0!1436.1!2950!3100!
+INSAT 3C (Indian National Satellite)!Communications!GEO!nan!74.08!35764.0!35809.0!0.000533725522754!0.04!1436.1!2750!3200!
+INSAT 3D (Indian National Satellite)!Earth Observation!GEO!nan!82.0!35782.0!35791.0!0.000106745104551!0.24!1436.09!2090!nan!
+INSAT 4A (Indian National Satellite)!Communications!GEO!nan!83.08!35777.0!35796.0!0.000225350776274!0.03!1436.1!3100!5500!
+INSAT 4B (Indian National Satellite)!Communications!GEO!nan!93.48!35760.0!35811.0!0.00060490327478!0.04!1436.08!3028!nan!
+INSAT 4CR (Indian National Satellite)!Communications!GEO!nan!73.97!37782.0!37791.0!0.000101910251039!0.03!1436.11!2130!3000!
+Integral (INTErnational Gamma-Ray Astrophysics Laboratory)!Space Science!Elliptical!Deep Highly Eccentric!0.0!6292.0!156833.0!0.856003184261!53.95!4032.86!4000!2000!
+Intelsat 10 (PAS-10)!Communications!GEO!nan!68.52!35776.0!35796.0!0.000237214156941!0.04!1436.08!3739!9600!
+Intelsat 10-02 (Thor 4)!Communications!GEO!nan!-0.95!35783.0!35789.0!7.11642470823e-05!0.02!1436.08!5576!11000!
+Intelsat 11 (PAS 11)!Communications!GEO!nan!-43.06!35778.0!35795.0!0.000201629641929!0.03!1436.1!2491!nan!
+Intelsat 12 (Europe*Star 1, Europe*Star FM1, IS-12, PAS-12)!Communications!GEO!nan!45.04!35776.0!35796.0!0.000237214156941!0.0!1436.09!4167!12000!
+Intelsat 14 (IS-14)!Communications!GEO!nan!-45.0!35771.0!35800.0!0.000343964607228!0.02!1436.05!5613!nan!
+Intelsat 15 (IS-15, JCSat 85)!Communications!GEO!nan!85.0!35776.0!35798.0!0.000260929383021!0.05!1436.12!2550!4600!
+Intelsat 16 (IS-16)!Communications!GEO!nan!-58.12!35783.0!35791.0!9.48834120075e-05!0.07!1436.19!2450!4500!
+Intelsat 17 (IS-17)!Communications!GEO!nan!66.0!35770.0!35804.0!0.000403254501032!0.03!1436.12!5540!nan!
+Intelsat 18 (IS-18)!Communications!GEO!nan!180.0!35775.0!35797.0!0.000260935572635!0.01!1436.09!3200!nan!
+Intelsat 19 (IS-19)!Communications!GEO!nan!166.0!35768.0!35801.0!0.000391417286411!0.13!1436.01!5600!15000!
+Intelsat 1R (IS-1R, PAS-1R, PanAmSat 1R)!Communications!GEO!nan!-44.96!35785.0!35788.0!3.5581701517e-05!0.06!1436.11!4793!15000!
+Intelsat 20 (IS-20)!Communications!GEO!nan!68.5!35780.0!35790.0!0.000118609892065!0.02!1436.03!6094!19300!
+Intelsat 21 (IS-21)!Communications!GEO!nan!-58.0!35774.0!35811.0!0.000438778535428!0.06!1436.39!5984!nan!
+Intelsat 22!Communications!GEO!nan!72.0!35781.0!35792.0!0.000130466238896!0.03!1436.11!6199!nan!
+Intelsat 23!Communications!GEO!nan!307.0!35781.0!35797.0!0.00018975782158!0.03!1436.21!3200!nan!
+Intelsat 25 (IS-25, Protostar 1, Chinasat 8)!Communications!GEO!nan!328.5!35778.0!35793.0!0.000177912727877!0.02!1436.1!4100!11000!
+Intelsat 26 (JCSat R, JCSAT-4, Japan Communications Satellite 4)!Communications!GEO!nan!50.0!35779.0!35794.0!0.000177908507585!0.02!1436.1!3124!5200!
+Intelsat 29E!Communications!GEO!nan!-50.0!35785.0!35788.0!3.5581701517e-05!0.09!1436.11!6500!nan!
+Intelsat 30/DLA 1!Communications!GEO!nan!-95.0!35776.0!35793.0!0.000201639208151!0.03!1435.97!6220!nan!
+Intelsat 31/DLA 2!Communications!GEO!nan!-95.0!35580.0!35860.0!0.00332620574958!0.01!1435.1!6450!nan!
+Intelsat 34!Communications!GEO!nan!304.5!35777.0!35811.0!0.000403187553363!0.1!1436.1!3300!nan!
+Intelsat 5 (Arabsat 2C, Panamsat-5, PAS-5)!Communications!GEO!nan!26.11!35774.0!35798.0!0.000284656988329!0.03!1436.09!2730!9700!
+Intelsat 701 !Communications!GEO!nan!179.94!35775.0!35797.0!0.000260935572635!0.01!1436.08!3642!3900!
+Intelsat 702 !Communications!GEO!nan!47.5!35776.0!35796.0!0.000237214156941!0.02!1436.1!3642!3900!
+Intelsat 8 (IS-8, PAS-8) !Communications!GEO!nan!169.0!35774.0!35798.0!0.000284656988329!0.02!1436.08!3592!nan!
+Intelsat 805 !Communications!GEO!nan!-55.49!35775.0!35797.0!0.000260935572635!0.01!1436.08!3420!4900!
+Intelsat 9 (IS-9, PAS-9) !Communications!GEO!nan!-58.0!35782.0!35792.0!0.000118604265009!0.01!1436.14!3659!9900!
+Intelsat 901 !Communications!GEO!nan!-18.01!35775.0!35798.0!0.000272793044963!0.01!1436.12!4723!10000!
+Intelsat 902 !Communications!GEO!nan!62.05!35775.0!35797.0!0.000260935572635!0.02!1436.1!4723!8500!
+Intelsat 903 !Communications!GEO!nan!-34.55!35773.0!35802.0!0.000343948289154!0.02!1436.16!4723!8600!
+Intelsat 904 !Communications!GEO!nan!60.05!35782.0!35789.0!8.30259396757e-05!0.01!1436.07!4680!8500!
+Intelsat 905 !Communications!GEO!nan!-24.52!35768.0!35805.0!0.000438840985376!0.01!1436.12!4723!10000!
+Intelsat 906 !Communications!GEO!nan!64.19!35775.0!35796.0!0.000249077819027!0.01!1436.07!4723!7000!
+Intelsat 907 !Communications!GEO!nan!-27.45!35770.0!35803.0!0.000391398716687!0.02!1436.1!4685!10000!
+Intelsat APR-2 (INSAT 2E)!Communications!GEO!nan!83.03!35769.0!35804.0!0.000415119851031!0.18!1436.11!2550!2000!
+Intelsat New Dawn (Intelsat 28)!Communications!GEO!nan!32.8!35800.0!35892.0!0.00108963426189!0.05!1439.15!3000!4800!
+International Space Station (ISS [first element Zarya])!Space Science!LEO!Non-Polar Inclined!0.0!401.0!422.0!0.00154833001548!51.6!92.8!nan!nan!
+Interstellar Boundary EXplorer (IBEX)!Space Science!Elliptical!Deep Highly Eccentric!0.0!62200.0!268679.0!0.600895177508!15.2!8 days!462!nan!
+Iridium 10 (Iridium SV010)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 11A (Iridium SV088)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 12 (Iridium SV012)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 13 (Iridium SV013)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 14A (Iridium SV092)!Communications!LEO!Polar!0.0!708.0!711.0!0.000211879370012!86.5!99!689!1,400 (EOL)!
+Iridium 15 (Iridium SV015)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 18 (Iridium SV018)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 19 (Iridium SV019)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 20A (Iridium SVO89)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 21A (Iridium SVO93)!Communications!LEO!Polar!0.0!775.0!780.0!0.000349772647779!86.4!100.4!689!1,400 (EOL)!
+Iridium 22 (Iridium SV022)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 23 (Iridium SV023)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 25 (Iridium SV025)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 3 (Iridium SV078)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 30 (Iridium SV030)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 31 (Iridium SVO31)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 32 (Iridium  SV032)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 34 (Iridium SV034)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 35 (Iridium SV035)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 37 (Iridium SV037)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 39 (Iridium SV039)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 40 (Iridium SV040)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 41 (Iridium SV041)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 42 (Iridium SV042)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 43 (Iridium SV043)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 45 (Iridium SV045)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 46 (Iridium SV046)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 47 (Iridium SV047)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 49 (Iridium SV049)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 5 (Iridium SV005)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 50 (Iridium SV050)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 51 (Iridium SV 051)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 52 (Iridium SV052)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 53 (Iridium SV053)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 54 (Iridium SV054)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!nan!1,400 (EOL)!
+Iridium 55 (Iridium SV055)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 56 (Iridium SV056)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 57 (Iridium SV057)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 58 (Iridium SV058)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 59 (Iridium SV059)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 6 (Iridium SV006)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 60 (Iridium SV060)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 61 (Iridium SV061)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 62 (Iridium SV062)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 64 (Iridium SV064)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 65 (Iridium SV065)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 66 (Iridium SV066)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 67 (Iridium SV067)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 68 (Iridium SV068)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 7 (Iridium SV007)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 70 (Iridium SV070)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.3!100.4!689!1,400 (EOL)!
+Iridium 72 (Iridium SV072)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 74 (Iridium SV074)!Communications!LEO!Polar!0.0!747.0!751.0!0.000280938334036!86.5!99.8!689!1,400 (EOL)!
+Iridium 75 (Iridium SV075)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 76 (Iridium SV076)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 77 (Iridium SV077)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 8 (Iridium SV008)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 80 (Iridium SV080)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 81 (Iridium SV081)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 82 (Iridium SV082)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 83 (Iridium SV083)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 84 (Iridium SV084)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 86 (Iridium SV086)!Communications!LEO!Polar!0.0!776.0!780.0!0.000279798545048!86.4!100.4!689!1,400 (EOL)!
+Iridium 90 (Iridium SV090)!Communications!LEO!Polar!0.0!777.0!778.0!6.99545295558e-05!86.4!100.4!689!1,400 (EOL)!
+Iridium 91 (Iridium SV091)!Communications!LEO!Polar!0.0!744.0!753.0!0.000632155650769!86.4!99.8!689!1,400 (EOL)!
+Iridium 94 (Iridium SV094)!Communications!LEO!Polar!0.0!773.0!782.0!0.000629590766002!86.4!100.4!689!1,400 (EOL)!
+Iridium 95 (Iridium SV095)!Communications!LEO!Polar!0.0!776.0!779.0!0.000209863588667!86.4!100.4!689!1,400 (EOL)!
+Iridium 96 (Iridium SV096)!Communications!LEO!Polar!0.0!745.0!754.0!0.000632066858628!87.2!99.8!689!1,400 (EOL)!
+Iridium 97 (Iridium SV097)!Communications!LEO!Polar!0.0!777.0!778.0!6.99545295558e-05!86.4!100.4!689!1,400 (EOL)!
+Iridium 98 (Iridium SV098)!Communications!LEO!Polar!0.0!748.0!750.0!0.000140469167018!86.4!99.8!689!1,400 (EOL)!
+IRIS (Interface Region Imaging Spectrometer)!Space Science!LEO!Sun-Synchronous!0.0!620.0!664.0!0.0031374786081!97.9!97.5!236!nan!
+IRNSS-1A (Indian Regional Navigation Satellite System)!Navigation/Regional Positioning!GEO!nan!55.0!35712.0!35872.0!0.00189744319529!27.1!1436!1425!1660!
+IRNSS-1B (Indian Regional Navigation Satellite System)!Navigation/Regional Positioning!GEO!nan!55.0!35695.0!35880.0!0.00219415287908!30.97!1436.14!1432!1660!
+IRNSS-1C (Indian Regional Navigation Satellite System)!Navigation/Regional Positioning!GEO!nan!83.0!35690.0!35871.0!0.00214706824356!4.96!1435.8!1425!1660!
+IRNSS-1D (Indian Regional Navigation Satellite System)!Navigation/Regional Positioning!GEO!nan!111.7!35699.0!35834.0!0.00160193656331!30.04!1435.06!1425!1600!
+IRNSS-1E (Indian Regional Navigation Satellite System)!Navigation/Regional Positioning!GEO!nan!111.7!35695.0!35874.0!0.00212314225053!28.09!1436.01!1425!1600!
+IRNSS-1F (Indian Regional Navigation Satellite System)!Navigation/Regional Positioning!GEO!nan!32.5!35700.0!35874.0!0.00206371421116!5.09!1436.13!1425!1600!
+IRNSS-1G (Indian Regional Navigation Satellite System)!Navigation/Regional Positioning!GEO!nan!129.5!35774.0!35797.0!0.000272799516077!5.06!1436.05!1425!1600!
+IRS-P6 (Resourcesat-1) !Earth Observation!LEO!Sun-Synchronous!0.0!817.0!823.0!0.000417246175243!98.8!101.3!1360!1200!
+ITU-pSAT1 (Istanbul Technical University Picosat-1)!Technology Development!LEO!Sun-Synchronous!0.0!710.0!721.0!0.000776233152212!98.4!99.1!1!nan!
+Jason 2 !Earth Observation!LEO!Non-Polar Inclined!0.0!1332.0!1344.0!0.00077841203944!66.0!112.4!553!500!
+Jason 3!Earth Observation!LEO!Non-Polar Inclined!0.0!1301.0!1324.0!0.00149690855841!66.0!111.8!553!500!
+JCSat 10 (Japan Communications Satellite 10, JCSat 3A)!Communications!GEO!nan!127.51!35772.0!35801.0!0.000343956447997!1.19!1436.1!4400!nan!
+JCSat 110 (N-Sat-110, Superbird-D, Superbird-5, N-Sat-110)!Communications!GEO!nan!110.1!35784.0!35789.0!5.93028358616e-05!0.01!1436.11!3531!7,200 (EOL)!
+JCSat 13 (Japan Communications Satellite 13)!Communications!GEO!nan!124.0!35780.0!35791.0!0.000130469333776!0.05!1436.03!4500!nan!
+JCSat 14 (JCSat 2B, Japan Communications Satellite 14)!Communications!GEO!nan!154.0!35861.0!35924.0!0.000745341614907!0.02!1441.5!4500!nan!
+JCSat 1B (JCSAT 5)!Communications!GEO!nan!128.03!35778.0!35794.0!0.000189771325553!0.01!1436.09!2982!5200!
+JCSat 2A (JCSAT 8, Japan Communications Satellite 8)!Communications!GEO!nan!154.0!35788.0!35794.0!7.11558074998e-05!0.01!1436.1!2500!3500!
+JCSat 4A (JCSAT 6, Japan Communications Satellite 6)!Communications!GEO!nan!123.85!33782.0!37768.0!0.0472891208922!0.07!1435.52!2900!5200!
+JCSat 9 (JCSat 5A, Japanese Communications Satellite 9)!Communications!GEO!nan!132.04!35776.0!35797.0!0.000249071910619!0.01!1436.1!4400!nan!
+JCSat RA (JCSat 12, Japan Communications Satellite 12)!Communications!GEO!nan!142.49!35780.0!35794.0!0.000166045971013!0.04!1436.12!4000!nan!
+Jilin-1!Earth Observation!LEO!Sun-Synchronous!0.0!638.0!662.0!0.0017094017094!98.05!97.73!400!nan!
+Jugnu!Earth Observation!LEO!Non-Polar Inclined!0.0!839.0!866.0!0.0018691588785!20.0!102!3!3!
+Kaituo-1A (Xinyan-2)!Technology Development!LEO!Sun-Synchronous!0.0!518.0!536.0!0.00130491518051!97.46!95.18!130!nan!
+Kalpana-1 (Metsat-1)!Earth Observation!GEO!nan!74.07!35783.0!35789.0!7.11642470823e-05!0.04!1436.08!1060!550!
+KazEOSat-1 (Kazcosmos Earth Observation Satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!751.0!754.0!0.0002106002106!98.53!99.87!830!1200!
+KazEOSat-2 (kazcosmos Earth Observation Satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!612.0!636.0!0.0017157563626!97.99!97.19!185!55!
+KazSat-2!Communications!GEO!nan!86.5!35786.0!35788.0!2.37208530019e-05!0.03!1436.13!1300!nan!
+KazSat-3!Communications!GEO!nan!58.5!35784.0!35789.0!5.93028358616e-05!0.12!1436.08!nan!5500!
+Kent Ridge 1!Earth Observation!LEO!Equatorial!0.0!534.0!551.0!0.00122965641953!14.98!95.49!78!nan!
+Keyhole 5 (Advanced KH-11, KH-12-5, Improved Crystal, EIS-3, USA 186)!Earth Observation!LEO!Elliptical!0.0!264.0!1050.0!0.0559271381813!97.9!97!18000!nan!
+Keyhole 6 (NRO L49, Advanced KH-11, KH-12-6, Improved Crystal, USA 224)!Earth Observation!LEO!Elliptical!0.0!200.0!1000.0!0.0573888091822!97.8!97!18000!nan!
+Keyhole 7 (NRO L65, Advanced KH-11, Improved Crystal, USA 245)!Earth Observation!LEO!Elliptical!0.0!257.0!997.0!0.052879805631!97.8!97.25!18000!nan!
+Kiku-8 (ETS-8, Engineering Test Satellite 8)!Technology Development!GEO!nan!146.06!35778.0!35792.0!0.000166053848891!0.03!1436.04!5800!nan!
+Kizuna (WINDS - Wideband InterNetworking engineering Demonstration Satellite)!Technology Development!GEO!nan!143.05!35776.0!35796.0!0.000237214156941!0.02!1436.1!4850!nan!
+KJSY-1 (Kongjian Shiyan-1)!Technology Development!LEO!Sun-Synchronous!0.0!520.0!540.0!0.00144927536232!97.46!95.23!1!nan!
+KKS-1 (Kouku Kousen Satellite One, Kiseki)!Technology Development!LEO!Sun-Synchronous!0.0!651.0!667.0!0.00113814198321!98.03!97.92!3!nan!
+Kompsat-2 (Arirang 2, Korean planned Multipurpose Satellite-2)!Earth Observation/Technology Development!LEO!Sun-Synchronous!0.0!676.0!698.0!0.0015587360068!98.2!98.5!800!955!
+Kompsat-3 (Arirang 3, Korean Multipurpose Satellite-3)!Earth Observation!LEO!Sun-Synchronous!0.0!679.0!696.0!0.00120439249026!98.2!98.5!980!1300!
+Kompsat-3A (Arirang 3A, Korean Multipurpose Satellite-3A)!Earth Observation!LEO!Sun-Synchronous!0.0!522.0!540.0!0.00130415881756!97.5!95.25!980!1300!
+Kompsat-5 (Arirang 5, Korean Multipurpose Satellite-4)!Earth Observation!LEO!Sun-Synchronous!0.0!535.0!552.0!0.00122947855645!97.6!95.5!1400!1400!
+Kondor (Cosmos 2487)!Earth Observation!LEO!Polar!0.0!497.0!501.0!0.000291163196972!74.73!94.6!1150!nan!
+Koreasat 5 (Mugungwha 5)!Communications!GEO!nan!113.08!35780.0!35792.0!0.000142328494165!0.02!1436.1!4450!nan!
+Koreasat 6 (Mugungwha 6)!Communications!GEO!nan!116.0!35780.0!35794.0!0.000166045971013!0.05!1436.12!2850!nan!
+Kuaizhou-2 (KZ-2)!Earth Observation!LEO!Sun-Synchronous!0.0!295.0!328.0!0.00246950535059!96.54!90.76!nan!nan!
+Kukai (STARS-1)!Technology Development!LEO!Sun-Synchronous!0.0!647.0!667.0!0.00142308239647!98.03!97.88!7!nan!
+Lacrosse/Onyx 3 (Lacrosse-3, USA 133)!Earth Observation!LEO!Non-Polar Inclined!0.0!671.0!675.0!0.000283969899191!57.0!98.2!14500!nan!
+Lacrosse/Onyx 4 (Lacrosse-4, USA 152)!Earth Observation!LEO!Non-Polar Inclined!0.0!574.0!676.0!0.00729092208721!68.0!97.21!14500!nan!
+Lacrosse/Onyx 5 (Lacrosse-5, NROL 16, USA 182)!Earth Observation!LEO!Non-Polar Inclined!0.0!713.0!716.0!0.000211729832733!57.01!99.08!14500!nan!
+Landsat 7 !Earth Observation!LEO!Sun-Synchronous!0.0!702.0!703.0!7.06963591375e-05!98.2!98.8!2744!1500!
+Landsat 8!Earth Observation!LEO!Sun-Synchronous!0.0!700.0!705.0!0.000353481795688!98.2!98.8!2780!4300!
+LaoSat-1!Communications!GEO!nan!128.5!35788.0!35800.0!0.000142301489422!0.1!1436.1!3800!nan!
+LAPAN A2!Earth Observation!LEO!Equatorial!0.0!631.0!650.0!0.00135511019186!6.0!97.53!68!32!
+LAPAN A3!Earth Observation!LEO!Sun-Synchronous!0.0!501.0!517.0!0.00116295973252!97.5!94.8!115!37!
+LAPAN-Tubsat (LAPAN A1)!Earth Observation/Technology Development!LEO!Sun-Synchronous!0.0!617.0!637.0!0.00142918393597!97.7!97.2!60!14!
+LatinSat A!Communications!LEO!Non-Polar Inclined!0.0!610.0!668.0!0.00413753745185!64.6!97.5!nan!nan!
+LatinSat B !Communications!LEO!Non-Polar Inclined!0.0!603.0!717.0!0.00810810810811!64.6!97.9!nan!nan!
+Lemur-1!Technology Development!LEO!Sun-Synchronous!0.0!612.0!697.0!0.00605025268702!97.98!97.82!4!nan!
+Lemur-2 Chris (Lemur-2 F4)!Earth Observation!LEO!Equatorial!0.0!635.0!649.0!0.000998288648032!6.0!97.57!10!nan!
+Lemur-2 Jeroen (Lemur-2 F3)!Earth Observation!LEO!Equatorial!0.0!635.0!649.0!0.000998288648032!6.01!97.57!10!nan!
+Lemur-2 Joel (Lemur-2 F1)!Earth Observation!LEO!Equatorial!0.0!629.0!649.0!0.00142673705236!6.0!97.49!10!nan!
+Lemur-2 Peter (Lemur-2 F2)!Earth Observation!LEO!Equatorial!0.0!634.0!650.0!0.00114090131204!6.01!97.56!10!nan!
+LilacSat-2 (CAS-3H, Zidingxiang-2)!Technology Development!LEO!Sun-Synchronous!0.0!520.0!541.0!0.00152162886747!97.47!95.24!11!nan!
+Ling Qiao!Technology Development!LEO!Sun-Synchronous!0.0!779.0!808.0!0.0020241502059!98.47!100.73!100!nan!
+Lingqiao-A (Lingqiao Video A)!Earth Observation!LEO!Sun-Synchronous!0.0!639.0!664.0!0.0017802463861!98.04!97.75!95!nan!
+Lingqiao-B (Lingqiao Video B)!Earth Observation!LEO!Sun-Synchronous!0.0!639.0!663.0!0.00170915823957!98.04!97.74!95!nan!
+LMRSTSat (Low Mass Radio Science Transponder Satellite)!Technology Demonstration!LEO!Non-Polar Inclined!0.0!493.0!800.0!0.0218770042044!64.78!97.65!3!nan!
+Long Excursion 1!nan!nan!nan!nan!nan!nan!nan!nan!nan!nan!nan!
+Lotos-S1 (Cosmos 2455)!Earth Observation!LEO!Non-Polar Inclined!0.0!900.0!911.0!0.000755961789568!67.2!103.1!5000!nan!
+Lotos-S2 (Cosmos 2502)!Earth Observation!LEO!Non-Polar Inclined!0.0!901.0!910.0!0.000618514191465!67.15!103.11!5000!nan!
+LQSat (Lingqiao Satellite, Jilian 1A)!Earth Observation!LEO!Sun-Synchronous!0.0!640.0!663.0!0.00163782667521!98.04!97.77!55!nan!
+Luch 5A!Communications!GEO!nan!nan!35778.0!35793.0!0.000177912727877!4.85!1436.8!950!nan!
+Luch 5B!Communications!GEO!nan!-16.0!35772.0!35801.0!0.000343956447997!0.22!1436.09!1282!nan!
+Luch 5V!Communications!GEO!nan!95.0!35767.0!35802.0!0.000415139546193!4.76!1435.99!1148!2200!
+Luch/Olympus!Communications!GEO!nan!95.0!35781.0!35793.0!0.000142325118011!0.05!1436.12!nan!nan!
+M3MSat (Maritime Monitoring and Messaging Microsatellite)!Earth Observation!LEO!Sun-Synchronous!0.0!501.0!515.0!0.00101773771445!97.5!94.7!85!nan!
+Maroc Tubsat !Technology Development!LEO!Sun-Synchronous!0.0!984.0!1014.0!0.0020355543493!99.2!105.1!47!56!
+M-Cubed/E1P-U2 (Michigan Multipurpose Minisat; Explorer 1 Prime - Unit 2 -  HRBE [William A. Hiscock Radiation Belt Explorer])!Technology Development!LEO!Polar!0.0!442.0!724.0!0.020279016252!101.7!97.45!2!nan!
+Measat 2 (Malaysia East Asia Sat 2)!Communications!GEO!nan!148.0!35782.0!35791.0!0.000106745104551!1.09!1436.12!1450!1,200 (BOL)!
+Measat 3 (Malaysia East Asia Sat 3)!Communications!GEO!nan!91.54!35778.0!35794.0!0.000189771325553!0.0!1436.1!4900!10800!
+Measat 3A (Malaysia East Asia Sat 3A)!Communications!GEO!nan!91.5!35728.0!35788.0!0.000712115457653!0.04!1434.6!2417!nan!
+Measat 3B (Malaysia East Asia Sat 3B)!Communications!GEO!nan!91.5!35772.0!35802.0!0.000355812795028!0.05!1436.11!5800!16000!
+Megha-Tropiques!Earth Observation!LEO!Non-Polar Inclined!0.0!853.0!868.0!0.00103727266441!20.0!102.2!1000!nan!
+Mercury 1 (Advanced Vortex 1, USA 105)!Earth Observation!GEO!nan!-27.95!35598.0!35976.0!0.00448324121735!5.1!1436.13!8000!nan!
+Mercury 2 (Advanced Vortex 2, USA 118)!Earth Observation!GEO!nan!-23.51!33674.0!37900.0!0.050122162393!7.33!1436.12!8000!nan!
+Mercury 3 (NROL 67, USA 250)!Earth Observation!GEO!nan!0.0!35500.0!35500.0!0.0!7.0!1436!3900!nan!
+Meridian-3!Communications!Elliptical!Molniya!0.0!2253.0!38105.0!0.675204339146!62.85!645.98!2500!nan!
+Meridian-4!Communications!Elliptical!Molniya!0.0!1722.0!38637.0!0.695210832596!64.47!717.88!2500!nan!
+Meridian-6 (Meridian 16L)!Communications!Elliptical!Molniya!0.0!1494.0!38860.0!0.703770670886!63.77!718.04!2500!nan!
+Meridian-7 (Meridian 17L)!Communications!Elliptical!Molniya!0.0!962.0!39398.0!0.72384180791!62.82!717.88!2500!nan!
+Meteor-M N-2!Earth Observation!LEO!Sun-Synchronous!0.0!819.0!828.0!0.000625564745951!98.81!101.3!2778!nan!
+Meteosat 10 (MSGalaxy-3,MSG 3)!Earth Observation!GEO!nan!0.0!35784.0!35791.0!8.30220008302e-05!1.8!1436.15!2000!nan!
+Meteosat 11 (MSG 4)!Earth Observation!GEO!nan!0.0!35791.0!35795.0!4.74349548182e-05!3.1!1436.1!2000!nan!
+Meteosat 7 (MTP 1) !Earth Observation!GEO!nan!-57.85!35770.0!35797.0!0.000320258104309!4.71!1435.96!696!200!
+Meteosat 8 (MSGalaxy-1, MSG-1)!Earth Observation!GEO!nan!9.27!35781.0!35793.0!0.000142325118011!0.46!1436.1!2000!700!
+Meteosat 9 (MSGalaxy-2, MSG 2)!Earth Observation!GEO!nan!-0.02!35775.0!35795.0!0.00023721978413!0.29!1436!2000!700!
+MetOp-A (Meteorological Operational satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!820.0!821.0!6.95361935888e-05!98.7!101.3!4193!nan!
+MetOp-B (Meteorological Operational satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!819.0!822.0!0.000208608580766!98.7!101.3!4085!nan!
+Mexsat-3 (Mexsat Bicentenario)!Communications!GEO!nan!-114.9!35784.0!35791.0!8.30220008302e-05!0.07!1436.16!2900!3500!
+Mexsat3 (Morelos-3)!Communications!GEO!nan!-116.8!35767.0!35805.0!0.000450706898188!7.12!1436.06!5325!nan!
+MICROSCOPE (MICRO-Satellite à traînée Compensée pour l'Observation du Principe d'Equivalence)!Space Science!LEO!nan!0.0!711.0!715.0!0.000282366228999!98.23!99.05!300!nan!
+Mikhailo Lomonosov (MVL-300)!Space Science!LEO!Sun-Synchronous!0.0!469.0!487.0!0.00131425233645!97.27!94.1!645!nan!
+Milstar DFS-1 (USA 99, Milstar 1-F1) (Military Strategic and Tactical Relay)!Communications!GEO!nan!-38.9!35754.0!35819.0!0.000770936866201!5.99!1436.13!4536!8000!
+Milstar DFS-2 (USA 115, Milstar 1-F2) (Military Strategic and Tactical Relay)!Communications!GEO!nan!3.94!35765.0!35809.0!0.000521858766041!0.35!1436.13!4536!8000!
+Milstar DFS-4 (USA 157, Milstar 2-F2) (Military Strategic and Tactical Relay)!Communications!GEO!nan!-67.9!35764.0!35768.0!4.74653502943e-05!4.5!1435.04!4536!8000!
+Milstar DFS-5 (USA 164, Milstar 2-F3) (Military Strategic and Tactical Relay)!Communications!GEO!nan!3.92!35753.0!35820.0!0.000794658000546!3.45!1436.12!4536!8000!
+Milstar DFS-6 (USA 169) (Military Strategic and Tactical Relay)!Communications!GEO!nan!-89.98!35768.0!35806.0!0.000450696207036!0.82!1436.13!4536!8000!
+MKA-FKI-1 (Zond PP)!Earth Observation!LEO!Sun-Synchronous!0.0!805.0!821.0!0.00111374077683!98.9!101.2!110!220!
+MMS-1 (Magnetospheric Multiscale Mission)!Space Science!Elliptical!nan!0.0!1375.0!70009.0!0.815867053397!28.9!1433!1360!nan!
+MMS-2 (Magnetospheric Multiscale Mission)!Space Science!Elliptical!nan!0.0!1357.0!70117.0!0.816491319733!29.0!1433!1360!nan!
+MMS-3 (Magnetospheric Multiscale Mission)!Space Science!Elliptical!nan!0.0!1429.0!70045.0!0.814781390268!29.0!1433!1360!nan!
+MMS-4 (Magnetospheric Multiscale Mission)!Space Science!Elliptical!nan!0.0!1317.0!70157.0!0.817441280547!29.0!1433!1360!nan!
+MOST (Microvariability & Oscillations of STars)!Space Science!LEO!Sun-Synchronous!0.0!817.0!832.0!0.00104246299256!98.7!101.4!53!35!
+Mozhayets 4 (RS-22)!Technology Development!LEO!Sun-Synchronous!0.0!669.0!690.0!0.00148946733811!97.8!98.3!64!nan!
+MSAT 1 !Communications!GEO!nan!-106.43!35763.0!35809.0!0.000545592560964!1.37!1436.09!2850!3300!
+MSAT 2 (AMSC-1, ACTel-1)!Communications!GEO!nan!-101.21!35776.0!35796.0!0.000237214156941!4.02!1436.09!2850!3300!
+MTI (Multispectral Thermal Imager)!Technology Development!LEO!Sun-Synchronous!0.0!461.0!478.0!0.00124278090504!97.47!94.9!587!575!
+MTSAT-2 (Multi-Functional Transport Satellite)!Earth Observation!GEO!nan!145.06!35776.0!35797.0!0.000249071910619!0.01!1436.1!2900!2700!
+MUOS-1 (Mobile User Objective System 1)!Communications!GEO!nan!-176.96!35569.0!36006.0!0.00518294490897!3.73!1436.1!6804!nan!
+MUOS-2 (Mobile User Objective System 2)!Communications!GEO!nan!-100.1!35550.0!36023.0!0.00561004827251!4.11!1436.1!6804!nan!
+MUOS-3 (Mobile User Objective System 3)!Communications!GEO!nan!-15.48!35576.0!35998.0!0.0050050999834!4.57!1436.1!6804!nan!
+MUOS-4 (Mobile User Objective System 4)!Communications!GEO!nan!74.8!35576.0!35997.0!0.00499329877955!4.8!1436.1!6804!nan!
+MUOS-5 (Mobile User Objective System 5)!Communications!GEO!nan!nan!35576.0!35998.0!0.0050050999834!4.5!1436.1!6804!nan!
+Nanosat-1!Communications!LEO!Sun-Synchronous!0.0!654.0!659.0!0.000355795915463!98.4!97.9!20!20!
+Nanosat-1B!Communications/Technology Development!LEO!Sun-Synchronous!0.0!583.0!672.0!0.00635941407646!98.1!97.3!20!20!
+NATO 4B (USA 98)!Communications!GEO!nan!-35.05!35775.0!35795.0!0.00023721978413!7.33!1436.04!1430!1200!
+Navstar GPS IIF-1 (Navstar SVN 62, PRN 25, USA 213)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20188.0!20224.0!0.000677302829621!55.0!718.94!1630!nan!
+Navstar GPS IIF-10 (Navstar SVN 72, PRN 8, USA 262)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20446.0!20459.0!0.000242333861497!54.9!728.96!1630!1136!
+Navstar GPS IIF-11 (Navstar SVN 73, PRN 10, USA 265)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20426.0!20486.0!0.00111831804965!55.0!97.7!1630!nan!
+Navstar GPS IIF-12 (Navstar SVN 70, PRN 32, USA 266)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20175.0!20188.0!0.00024480726136!55.0!717.9!1630!nan!
+Navstar GPS IIF-2 (Navstar SVN 63, PRN 01, USA 232)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20451.0!20464.0!0.0002422886963!55.03!729.18!1630!nan!
+Navstar GPS IIF-3 (Navstar SVN 65, PRN 24, USA 239)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20174.0!20191.0!0.000320120515959!54.95!718!1630!1136!
+Navstar GPS IIF-4 (Navstar SVN 66, PRN 27, USA 242)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20184.0!20247.0!0.00118485640669!55.09!719.32!1630!1136!
+Navstar GPS IIF-5 (Navstar SVN 64, PRN 30, USA 248)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20457.0!20469.0!0.000223605262177!54.98!729.39!1630!1136!
+Navstar GPS IIF-6 (Navstar SVN 67, PRN 06, USA 251)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20174.0!20188.0!0.000263643553915!55.05!717.92!1630!1136!
+Navstar GPS IIF-7 (Navstar SVN 68, PRN 09, USA 256)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20471.0!20476.0!9.31324156686e-05!54.92!729!1630!1136!
+Navstar GPS IIF-8 (Navstar SVN 69, PRN 03, USA 258)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20155.0!20211.0!0.00105449478402!54.97!718.02!1630!1136!
+Navstar GPS IIF-9 (Navstar SVN 71, PRN 26, USA 260)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20445.0!20469.0!0.000447310545346!55.0!729.14!1630!1136!
+Navstar GPS IIR-10 (Navstar SVN 47, PRN 22, USA 175)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19963.0!20327.0!0.00686403922308!55.1!716.47!2217!1136!
+Navstar GPS IIR-11 (Navstar SVN 59, PRN 19, USA 177)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20089.0!20276.0!0.00352132567555!55.0!717.98!2217!1136!
+Navstar GPS IIR-12 (Navstar SVN 60, PRN 23, USA 178)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20072.0!20292.0!0.00414281410063!55.37!717.96!2217!1136!
+Navstar GPS IIR-13 (Navstar SVN 61, PRN 02, USA 180)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!19938.0!20426.0!0.00918951491413!54.8!718!2217!1136!
+Navstar GPS IIR-2 (Navstar SVN 43, PRN 13, USA 132)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20123.0!20247.0!0.00233477687818!54.9!718.09!2217!1136!
+Navstar GPS IIR-3 (Navstar SVN 46, PRN 11, USA 145)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20096.0!20268.0!0.00323892738777!53.0!717.97!2217!1136!
+Navstar GPS IIR-4 (Navstar SVN 51, PRN 20, USA 150)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20133.0!20234.0!0.00190182085224!54.9!718.03!2217!1136!
+Navstar GPS IIR-5 (Navstar SVN 44, PRN 28, USA 151)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20184.0!20427.0!0.00455474124196!55.0!722.98!2217!1136!
+Navstar GPS IIR-6 (Navstar SVN 41, PRN 14, USA 154)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20177.0!20498.0!0.00600954787981!55.0!724.28!2217!1136!
+Navstar GPS IIR-7 (Navstar SVN 54, PRN 18, USA 156)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20104.0!20266.0!0.00305027301826!55.0!718.09!2217!1136!
+Navstar GPS IIR-8 (Navstar SVN 56, PRN 16, USA 166)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20155.0!20344.0!0.003550029114!55.0!720.71!2217!1136!
+Navstar GPS IIR-9 (Navstar SVN 45, PRN 21, USA 168)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20063.0!20433.0!0.00695018408596!54.9!720.65!2217!1136!
+Navstar GPS IIR-M-1 (Navstar SVN 53, PRN 17, USA 183)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20142.0!20221.0!0.00148767489596!55.08!717.95!2217!1136!
+Navstar GPS IIR-M-2 (Navstar SVN 52, PRN 31, USA 190)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20020.0!20342.0!0.00606380174005!54.94!717.93!2060!nan!
+Navstar GPS IIR-M-3 (Navstar SVN 58, PRN 12, USA 192)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20206.0!20366.0!0.00300120048019!55.02!722.19!2060!nan!
+Navstar GPS IIR-M-4 (Navstar SVN 55, PRN 15, USA 196)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20149.0!20213.0!0.00120522767504!54.8!717.93!2217!1136!
+Navstar GPS IIR-M-5 (Navstar SVN 57, PRN 29, USA 199)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20150.0!20311.0!0.00302625890491!54.96!719.92!2060!nan!
+Navstar GPS IIR-M-6 (Navstar SVN 48, PRN 07, USA 201)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20135.0!20152.0!0.000320591396836!55.1!716.4!2217!1136!
+Navstar GPS IIR-M-8 (Navstar SVN 50, PRN 05, USA 206)!Navigation/Global Positioning!MEO!Non-Polar Inclined!0.0!20160.0!20209.0!0.000922630815869!55.12!718.07!2059!1136!
+Naxing 2!Technology Development!LEO!Sun-Synchronous!0.0!519.0!540.0!0.00152184940938!97.45!95.22!20!nan!
+NBN-1A (Sky Muster)!Communications!GEO!nan!150.0!35744.0!35777.0!0.000391640260619!0.07!1434.76!6440!16400!
+NEOSSat (Near Earth Object Surveillance Satellite)!Space Observation!LEO!Sun-Synchronous!0.0!772.0!786.0!0.000979157924185!98.6!100.4!74!nan!
+NigComSat-1R!Communications!GEO!nan!42.5!35793.0!35795.0!2.37169149037e-05!0.2!1436.1!5150!nan!
+NigeriaSat-2!Earth Observation!LEO!Sun-Synchronous!0.0!691.0!705.0!0.000990379173741!98.2!98.7!300!nan!
+Nigeriasat-X!Earth Observation/Technology Development!LEO!Sun-Synchronous!0.0!661.0!696.0!0.00248279775839!98.2!98.3!100!nan!
+Nilesat 102 !Communications!GEO!nan!-7.03!35764.0!35808.0!0.00052187114527!0.03!1436.08!1825!3,700 (EOL)!
+Nilesat 201!Communications!GEO!nan!-7.0!35795.0!35813.0!0.000213401621852!0.05!1436.23!3200!3,700 (EOL)!
+Nimiq 2 !Communications!GEO!nan!-91.25!35779.0!35793.0!0.000166049909859!0.01!1436.08!3600!8600!
+Nimiq 4!Communications!GEO!nan!-81.96!35779.0!35794.0!0.000177908507585!0.01!1436.1!4850!12000!
+Nimiq 5!Communications!GEO!nan!-72.7!35700.0!35700.0!0.0!0.01!1436.1!4745!nan!
+Nimiq 6!Communications!GEO!nan!-91.1!35764.0!35809.0!0.000533725522754!0.04!1436.09!4745!nan!
+NOAA-15 (NOAA-K)!Earth Observation!LEO!Sun-Synchronous!0.0!800.0!816.0!0.00111451657843!98.7!101!2223!830!
+NOAA-18 (NOAA-N, COSPAS-SARSAT)!Earth Observation!LEO!Sun-Synchronous!0.0!843.0!864.0!0.00145358898041!99.1!102!2223!830!
+NOAA-19 (NOAA-N Prime, COSPAS-SARSAT)!Earth Observation!LEO!Sun-Synchronous!0.0!845.0!864.0!0.00131496989411!98.9!102!1420!nan!
+NPP (National Polar-orbiting Operational Environmental Satellite System [NPOESS])!Earth Observation!LEO!Sun-Synchronous!0.0!827.0!827.0!0.0!98.7!101.4!2128!nan!
+NPS-SCAT (Naval Post-graduate School - Solar Cell Array Tester)!Technology Development!LEO!Non-Polar Inclined!0.0!426.0!441.0!0.0011023737782!40.49!94.63!1!nan!
+NSS-10 (Star One C-12, AMC-12, Americom 12, Worldsat 2)!Communications!GEO!nan!-37.37!35778.0!35795.0!0.000201629641929!0.02!1436.1!5396!nan!
+NSS-11 (Worldsat-1, AAP-1, GE-1A) !Communications!GEO!nan!108.21!35776.0!35798.0!0.000260929383021!0.07!1436.15!3582!nan!
+NSS-12!Communications!GEO!nan!57.0!35779.0!35793.0!0.000166049909859!0.06!1436.08!nan!nan!
+NSS-5 (Intelsat 803)!Communications!GEO!nan!-177.0!35776.0!35796.0!0.000237214156941!0.0!1436.08!3412!nan!
+NSS-6 !Communications!GEO!nan!95.04!35776.0!35797.0!0.000249071910619!0.02!1436.12!4575!10000!
+NSS-7 !Communications!GEO!nan!-21.0!35775.0!35798.0!0.000272793044963!0.08!1436.12!4500!3900!
+NSS-806 (Intelsat 806)!Communications!GEO!nan!-40.45!35779.0!35794.0!0.000177908507585!0.03!1436.11!3720!4900!
+NSS-9!Communications!GEO!nan!183.0!35784.0!35792.0!9.48811613454e-05!0.02!1436.17!2238!2300!
+N-Star C !Communications!GEO!nan!135.08!35772.0!35799.0!0.000320242910178!0.06!1436.08!1625!2,600 (BOL)!
+NUDT Phonesat (National University of Defense Technology Phone Satellite, CAS-3I)!Technology Demonstration!LEO!Sun-Synchronous!0.0!516.0!536.0!0.00145011600928!97.47!95.24!0!nan!
+ÑuSat-1 (Fresco)!Earth Observation!LEO!Non-Polar Inclined!0.0!481.0!499.0!0.00131195335277!97.5!94.41!35!nan!
+ÑuSat-2 (Batata)!Earth Observation!LEO!Non-Polar Inclined!0.0!482.0!500.0!0.0013117621338!97.5!94.41!35!nan!
+NuSTAR (Nuclear Spectroscopic Telescope Array)!Space Science!LEO!Equatorial!0.0!613.0!632.0!0.00135859849839!6.0!97.2!360!nan!
+O/OREOS (Organism/Organic Exposure to Orbital Stresses, USA 219)!Space Science!LEO!Polar!0.0!624.0!654.0!0.00214010557854!71.97!97.48!5.5!nan!
+O3b FM02!Communications!MEO!Equatorial!0.0!8063.0!8069.0!0.000207813798836!0.03!287.93!700!1500!
+O3b FM03!Communications!MEO!Equatorial!0.0!8060.0!8071.0!0.000381005160888!0.09!287.92!650!1500!
+O3b FM04!Communications!MEO!Equatorial!0.0!8062.0!8069.0!0.000242457829656!0.04!287.93!700!1500!
+O3b FM05 (Other 3 Billion)!Communications!MEO!Equatorial!0.0!8064.0!8068.0!0.000138542532557!0.03!287.94!700!1500!
+O3b FM06!Communications!MEO!Equatorial!0.0!7831.0!7845.0!0.00049268018018!0.12!281.15!650!1500!
+O3B FM07!Communications!MEO!Equatorial!0.0!7827.0!7844.0!0.000598359790222!0.12!281.08!650!1500!
+O3B FM08!Communications!MEO!Equatorial!0.0!7815.0!7842.0!0.000950804662464!0.12!280.87!650!1500!
+O3B FM09!Communications!MEO!Equatorial!0.0!8063.0!8068.0!0.00017318416404!0.04!287.93!650!1500!
+O3B FM10!Communications!MEO!Equatorial!0.0!8063.0!8069.0!0.000207813798836!0.04!287.93!650!1500!
+O3B FM11!Communications!MEO!Equatorial!0.0!8063.0!8069.0!0.000207813798836!0.04!287.93!650!1500!
+O3B FM12!Communications!MEO!Equatorial!0.0!8063.0!8069.0!0.000207813798836!0.04!287.93!650!1500!
+O3b PFM!Communications!MEO!Equatorial!0.0!8063.0!8069.0!0.000207813798836!0.03!287.93!700!1500!
+Oceansat-2!Earth Observation!LEO!Sun-Synchronous!0.0!722.0!724.0!0.0001409840688!98.3!99.2!960!1360!
+OCO 2  (Orbiting Carbon Observatory)!Earth Observation!LEO!Sun-Synchronous!0.0!701.0!704.0!0.000212089077413!98.2!98.83!454!nan!
+Odin !Earth Observation!LEO!Sun-Synchronous!0.0!569.0!573.0!0.000288142918888!97.6!96.1!250!340!
+Ofeq 10!Earth Observation!LEO!Non-Polar Inclined!0.0!385.0!601.0!0.0157365583564!140.94!94.47!300!nan!
+Ofeq 5 !Earth Observation!LEO!Non-Polar Inclined!0.0!367.0!764.0!0.0286208636724!143.4!95.97!300!nan!
+Ofeq 7!Earth Observation!LEO!Non-Polar Inclined!0.0!340.0!576.0!0.0172817809022!141.76!93.75!300!nan!
+Ofeq 9!Earth Observation!LEO!Non-Polar Inclined!0.0!343.0!589.0!0.0179929783499!141.78!93.91!300!nan!
+OPTOS!Technology Development!LEO!Sun-Synchronous!0.0!594.0!797.0!0.014365579223!97.8!98.7!3!nan!
+Optus 10!Communications!GEO!nan!164.0!35772.0!35802.0!0.000355812795028!0.05!1436.11!3270!nan!
+Optus and Defence C1 !Communications!GEO!nan!156.06!35773.0!35799.0!0.000308378404023!0.02!1436.08!4800!10600!
+Optus B3!Communications!GEO!nan!164.0!35778.0!35796.0!0.000213487677017!0.02!1436.12!2858!3000!
+Optus D1 !Communications!GEO!nan!160.06!35774.0!35797.0!0.000272799516077!0.02!1436.08!2300!4800!
+Optus D2!Communications!GEO!nan!152.05!35774.0!35799.0!0.000296514179308!0.03!1436.1!2400!3800!
+Optus D3!Communications!GEO!nan!155.98!35775.0!35795.0!0.00023721978413!0.04!1436.04!2501!5000!
+ORBCOMM FM-10 (ORBCOMM A2)!Communications!LEO!Non-Polar Inclined!0.0!770.0!776.0!0.000419991600168!45.0!100.3!45!160!
+ORBCOMM FM-11 (ORBCOMM A3)!Communications!LEO!Non-Polar Inclined!0.0!769.0!777.0!0.000559988800224!45.0!100.3!45!160!
+ORBCOMM FM-12 (ORBCOMM A4)!Communications!LEO!Non-Polar Inclined!0.0!770.0!776.0!0.000419991600168!45.0!100.3!45!160!
+ORBCOMM FM-13 (ORBCOMM B1)!Communications!LEO!Non-Polar Inclined!0.0!788.0!795.0!0.00048872442924!45.0!100.7!45!160!
+ORBCOMM FM-14 (ORBCOMM B2)!Communications!LEO!Non-Polar Inclined!0.0!789.0!794.0!0.000349088878028!45.0!100.7!45!160!
+ORBCOMM FM-15 (ORBCOMM B3)!Communications!LEO!Non-Polar Inclined!0.0!788.0!795.0!0.00048872442924!45.0!100.7!45!160!
+ORBCOMM FM-16 (ORBCOMM B4)!Communications!LEO!Non-Polar Inclined!0.0!789.0!794.0!0.000349088878028!45.0!100.7!45!160!
+ORBCOMM FM-18 (ORBCOMM B6)!Communications!LEO!Non-Polar Inclined!0.0!787.0!796.0!0.000628359980451!45.0!100.7!45!160!
+ORBCOMM FM-19 (ORBCOMM B7)!Communications!LEO!Non-Polar Inclined!0.0!788.0!795.0!0.00048872442924!45.0!100.7!45!160!
+ORBCOMM FM-20 (ORBCOMM B8)!Communications!LEO!Non-Polar Inclined!0.0!791.0!792.0!6.98177756057e-05!45.0!100.7!45!160!
+ORBCOMM FM-21 (ORBCOMM C1)!Communications!LEO!Non-Polar Inclined!nan!810.0!822.0!0.000834956860562!45.0!101.21!45!160!
+ORBCOMM FM-23 (ORBCOMM C3)!Communications!LEO!Non-Polar Inclined!0.0!788.0!794.0!0.000418935902807!45.0!100.7!45!160!
+ORBCOMM FM-27 (ORBCOMM C7)!Communications!LEO!Non-Polar Inclined!0.0!790.0!792.0!0.000139645300936!45.0!100.7!45!160!
+ORBCOMM FM-30 (ORBCOMM D2)!Communications!LEO!Non-Polar Inclined!0.0!788.0!796.0!0.000558503211393!45.0!100.7!45!160!
+ORBCOMM FM-31 (ORBCOMM D3)!Communications!LEO!Non-Polar Inclined!0.0!788.0!795.0!0.00048872442924!45.0!100.7!45!160!
+ORBCOMM FM-32 (ORBCOMM D4)!Communications!LEO!Non-Polar Inclined!0.0!786.0!796.0!0.000698226504678!45.0!100.7!45!160!
+ORBCOMM FM-34 (ORBCOMM D6)!Communications!LEO!Non-Polar Inclined!0.0!787.0!796.0!0.000628359980451!45.0!100.7!45!160!
+ORBCOMM FM-35 (ORBCOMM D7)!Communications!LEO!Non-Polar Inclined!0.0!788.0!795.0!0.00048872442924!45.0!100.7!45!160!
+ORBCOMM FM-36 (ORBCOMM D8)!Communications!LEO!Non-Polar Inclined!0.0!788.0!795.0!0.00048872442924!45.0!100.7!45!160!
+ORBCOMM FM-4 (ORBCOM G2)!Communications!LEO!Polar!0.0!768.0!838.0!0.00487940889447!108.0!100.9!45!160!
+ORBCOMM FM-5 (ORBCOMM A6)!Communications!LEO!Non-Polar Inclined!0.0!772.0!774.0!0.000139997200056!45.0!100.3!45!160!
+ORBCOMM FM-6 (ORBCOMM A7)!Communications!LEO!Non-Polar Inclined!0.0!772.0!774.0!0.000139997200056!45.0!100.3!45!160!
+ORBCOMM FM-7 (ORBCOMM A8)!Communications!LEO!Non-Polar Inclined!0.0!771.0!774.0!0.000210010500525!45.0!100.3!45!160!
+ORBCOMM FM-8 (ORBCOMM A1)!Communications!LEO!Non-Polar Inclined!0.0!768.0!778.0!0.00069998600028!45.0!100.3!45!160!
+ORBCOMM FM-9 (ORBCOMM A5)!Communications!LEO!Non-Polar Inclined!0.0!769.0!777.0!0.000559988800224!45.0!100.3!45!160!
+ORBCOMM OG2 FM-103!Communications!LEO!Non-Polar Inclined!0.0!620.0!741.0!0.00858095170555!47.0!98.36!172!400!
+ORBCOMM OG2 FM-104!Communications!LEO!Non-Polar Inclined!0.0!619.0!741.0!0.0086524822695!47.0!98.36!172!400!
+ORBCOMM OG2 FM-105!Communications!LEO!Non-Polar Inclined!0.0!614.0!658.0!0.00314016557237!47.0!97.44!172!400!
+ORBCOMM OG2 FM-106!Communications!LEO!Non-Polar Inclined!0.0!620.0!740.0!0.00851063829787!47.0!98.34!172!400!
+ORBCOMM OG2 FM-107!Communications!LEO!Non-Polar Inclined!0.0!620.0!739.0!0.00844031491595!47.0!98.34!172!400!
+ORBCOMM OG2 FM-108!Communications!LEO!Non-Polar Inclined!0.0!614.0!657.0!0.00306901720077!47.0!97.42!172!400!
+ORBCOMM OG2 FM-109!Communications!LEO!Non-Polar Inclined!0.0!620.0!739.0!0.00844031491595!47.0!98.34!172!400!
+ORBCOMM OG2 FM-110!Communications!LEO!Non-Polar Inclined!0.0!615.0!658.0!0.00306857917648!47.0!97.44!172!400!
+ORBCOMM OG2 FM-111!Communications!LEO!Non-Polar Inclined!0.0!619.0!740.0!0.00858216894815!47.0!98.35!172!400!
+ORBCOMM OG2 FM-112!Communications!LEO!Non-Polar Inclined!0.0!614.0!657.0!0.00306901720077!47.0!97.43!172!400!
+ORBCOMM OG2 FM-113!Communications!LEO!Non-Polar Inclined!0.0!614.0!656.0!0.00299785867238!47.0!97.41!172!400!
+ORBCOMM OG2 FM-114!Communications!LEO!Non-Polar Inclined!0.0!614.0!658.0!0.00314016557237!47.0!97.43!172!400!
+ORBCOMM OG2 FM-115!Communications!LEO!Non-Polar Inclined!0.0!613.0!655.0!0.00299828669332!47.0!97.39!172!400!
+ORBCOMM OG2 FM-116!Communications!LEO!Non-Polar Inclined!0.0!614.0!654.0!0.00285551113649!47.0!97.4!172!400!
+ORBCOMM OG2 FM-117!Communications!LEO!Non-Polar Inclined!0.0!614.0!656.0!0.00299785867238!47.0!97.42!172!400!
+ORBCOMM OG2 FM-118!Communications!LEO!Non-Polar Inclined!0.0!615.0!658.0!0.00306857917648!47.0!97.44!172!400!
+ORBCOMM OG2 FM-119!Communications!LEO!Non-Polar Inclined!0.0!614.0!658.0!0.00314016557237!47.0!97.43!172!400!
+OUFTI-1 (Orbital Utility For Telecommunication Innovation)!Technology Development!LEO!Elliptical!0.0!442.0!687.0!0.0176652967049!98.2!95.9!1!nan!
+Paksat-1R !Communications!GEO!nan!38.0!35786.0!35800.0!0.000166022341864!0.1!1436.1!5120!nan!
+Palapa C2 !Communications!GEO!nan!112.99!35784.0!35789.0!5.93028358616e-05!0.05!1436.13!3014!3700!
+Palapa D1!Communications!GEO!nan!150.97!35780.0!35792.0!0.000142328494165!0.07!1436.09!4100!6000!
+PAN-1 (Palladium at Night, P360, USA 207)!Communications!GEO!nan!47.5!35786.0!35787.0!1.18605671723e-05!0.03!1436.12!nan!nan!
+ParkinsonSat-1!Technology Development!LEO!Non-Polar Inclined!0.0!356.0!700.0!0.0249347636996!55.0!95.19!5!nan!
+Parus-95 (Cosmos 2407)!Communications!LEO!Polar!0.0!949.0!1008.0!0.00401442471253!83.0!104.7!825!nan!
+Parus-96 (Cosmos 2414)!Communications!LEO!Polar!0.0!907.0!968.0!0.00417379404721!83.0!103.8!825!nan!
+Parus-99 (Cosmos 2463)!Communications!LEO!Polar!0.0!968.0!1022.0!0.00366598778004!83.0!105!820!nan!
+PCSat (Prototype Communications SATellite, Navy-Oscar 44, NO-44)!Communications/Technology Development!LEO!Non-Polar Inclined!0.0!789.0!796.0!0.000488656195462!67.0!100.7!10!6!
+Perseus M1!Communications!LEO!Sun-Synchronous!0.0!607.0!625.0!0.00128829086745!97.99!7.01!6!nan!
+Perseus M2!Communications!LEO!Sun-Synchronous!0.0!606.0!624.0!0.00128847530422!97.99!96.99!6!nan!
+Persona-2 (Cosmos 2486)!Earth Observation!LEO!Sun-Synchronous!0.0!714.0!733.0!0.00133925424685!98.3!99.2!7000!nan!
+Persona-3 (Cosmos 2506)!Earth Observation!LEO!Sun-Synchronous!0.0!706.0!725.0!0.00134076635382!98.5!99!7000!nan!
+Phonesat 2.4!Technology Development!LEO!Non-Polar Inclined!0.0!499.0!507.0!0.000581987487269!40.51!94.68!1!nan!
+Pléiades HR1A!Earth Observation!LEO!Sun-Synchronous!0.0!697.0!699.0!0.000141482739106!98.2!98.7!1000!1500!
+Pléiades HR1B!Earth Observation!LEO!Sun-Synchronous!0.0!678.0!691.0!0.000921397689418!98.5!98.45!970!nan!
+PolyITAN-1!Technology Development!LEO!Sun-Synchronous!0.0!606.0!626.0!0.00143143429717!97.99!97.03!1!nan!
+Popsat-HIP!Technology Development!LEO!Sun-Synchronous!0.0!604.0!623.0!0.001360349395!97.99!96.97!3!nan!
+Prism (Pico-satellite for Remote-sensing and Innovative Space Missions, Hitomi)!Earth Observation!LEO!Sun-Synchronous!0.0!600.0!627.0!0.00193312808764!98.2!97!5!nan!
+Proba 1 (Project for On-Board Autonomy)!Technology Demonstration!LEO!Sun-Synchronous!0.0!553.0!676.0!0.00880521153984!97.9!96.98!100!100!
+Proba 2 (Project for On-Board Autonomy)!Technology Demonstration!LEO!Sun-Synchronous!0.0!708.0!728.0!0.00141083521445!98.3!99.2!130!86!
+Proba V (Project for On-Board Autonomy)!Earth Observation!LEO!Sun-Synchronous!0.0!813.0!820.0!0.000487024281639!98.73!101.21!140!nan!
+Prometheus 1A!Technology Development!LEO!Non-Polar Inclined!0.0!432.0!444.0!0.000881316098707!40.51!94.68!nan!nan!
+Prometheus 4A!Technology Development!LEO!Non-Polar Inclined!0.0!430.0!444.0!0.00102835316586!40.51!94.68!nan!nan!
+Prometheus 4B!Technology Development!LEO!Non-Polar Inclined!0.0!430.0!444.0!0.00102835316586!40.51!94.68!nan!nan!
+PropCube-1 (PropCube Merryweather)!Space Science!LEO!Non-Polar Inclined!0.0!494.0!800.0!0.0218041898247!64.78!97.66!1!nan!
+PropCube-3 (PropCube Flora)!Space Science!LEO!Non-Polar Inclined!0.0!493.0!800.0!0.0218770042044!64.78!97.65!1!nan!
+PUCPSat-1!Technology Development!LEO!Sun-Synchronous!0.0!589.0!640.0!0.00365094137018!97.8!96.9!1!nan!
+Pujiang-1!Technology Development!LEO!Sun-Synchronous!0.0!468.0!486.0!0.00131444428217!97.31!94.14!nan!nan!
+QB50P1 (EO 79)!Space Science!LEO!Sun-Synchronous!0.0!605.0!621.0!0.00114563941!97.98!96.96!2!nan!
+QB50P2 (EO 80)!Space Science!LEO!Sun-Synchronous!0.0!607.0!622.0!0.00107380628535!97.98!96.98!2!nan!
+Qsat-EOS (KYUshu SATellite - Earth Observation System)!Earth Observation!LEO!Sun-Synchronous!0.0!506.0!553.0!0.00340604391623!97.47!95.23!49!nan!
+QuetzSat-1!Communications!GEO!nan!nan!35774.0!35798.0!0.000284656988329!0.02!1436.09!5514!nan!
+QZS-1 (Quazi-Zenith Satellite System, Michibiki)!Navigation/Regional Positioning!GEO!nan!0.0!32618.0!38950.0!0.0751055653082!40.0!1436!4000!nan!
+Radarsat-2 !Earth Observation!LEO!Sun-Synchronous!0.0!791.0!793.0!0.000139625802848!98.6!100.7!2924!nan!
+Radio-ROSTO (RS-15, Radio Sputnik 15, Russian Defence, Sports and Technical Organization - ROSTO)!Communications!MEO!Non-Polar Inclined!0.0!1885.0!2165.0!0.0166765932102!64.59!127.45!nan!nan!
+Raduga 1-8 (Raduga 1-M1, Cosmos 2450)!Communications!GEO!nan!89.84!35612.0!35949.0!0.00399758009988!1.44!1435.79!2400!nan!
+Raduga 1-M2 (Raduga 1-9)!Communications!GEO!nan!70.0!35784.0!35788.0!4.74428313882e-05!0.01!1436.06!2500!nan!
+Raduga 1-M3 !Communications!GEO!nan!nan!35777.0!35797.0!0.000237208530019!0.1!1436.13!2400!nan!
+Rapid Pathfinder Program (NROL-66, USA 225)!Technology Development!LEO!Polar!0.0!1199.0!1202.0!0.00019813750743!90.0!109.42!350!nan!
+RapidEye-1 (RapidEye-C)!Earth Observation!LEO!Sun-Synchronous!0.0!613.0!646.0!0.00235731123652!97.9!97.3!175!nan!
+RapidEye-2 (RapidEye A)!Earth Observation!LEO!Sun-Synchronous!0.0!621.0!638.0!0.00121437245518!97.9!97.3!175!nan!
+RapidEye-3 (RapidEye D)!Earth Observation!LEO!Sun-Synchronous!0.0!621.0!637.0!0.00114302043149!97.9!97.3!175!nan!
+RapidEye-4 (RapidEye E)!Earth Observation!LEO!Sun-Synchronous!0.0!621.0!638.0!0.00121437245518!97.9!97.3!175!nan!
+RapidEye-5 (RapidEye B)!Earth Observation!LEO!Sun-Synchronous!0.0!617.0!642.0!0.00178584184585!97.9!97.3!175!nan!
+RASAT!Earth Observation!LEO!Sun-Synchronous!0.0!667.0!697.0!0.00212705615428!98.2!98.4!113!nan!
+Rascom-QAF 1R!Communications!GEO!nan!2.85!35786.0!35787.0!1.18605671723e-05!0.01!1436.1!3050!nan!
+Reimei (Innovative Technology Demonstration Experiment Satellite - INDEX)!Technology Development!LEO!Sun-Synchronous!0.0!595.0!638.0!0.00307736348672!98.0!97!70!nan!
+Relek (ICA-FC1)!Earth Observation!LEO!Sun-Synchronous!0.0!623.0!819.0!0.0138203356367!98.38!99.22!253!nan!
+Resourcesat 2 (exactView-2)!Earth Observation!LEO!Sun-Synchronous!0.0!817.0!823.0!0.000417246175243!98.7!101.3!1206!nan!
+Resurs-DK1 (Resurs - High Resolution 1)!Earth Observation!LEO!Non-Polar Inclined!0.0!564.0!571.0!0.000504504504505!69.9!96!6650!nan!
+Resurs-P1!Earth Observation!LEO!Sun-Synchronous!0.0!459.0!472.0!0.000950918001609!97.2!93.9!5900!nan!
+Resurs-P2!Earth Observation/Communications/Space Science!LEO!Sun-Synchronous!0.0!461.0!472.0!0.000804505229284!97.29!93.93!5900!nan!
+Resurs-P3!Earth Observation!LEO!Sun-Synchronous!nan!469.0!472.0!0.000219282216212!97.28!94.01!5900!nan!
+RISat-1 (Radar Imaging Satellite 1)!Earth Observation!LEO!Sun-Synchronous!0.0!538.0!541.0!0.000217092409002!97.6!95.4!1858!nan!
+RISat-2 (Radar Imaging Satellite 2)!Earth Observation!LEO!Non-Polar Inclined!0.0!415.0!427.0!0.000883522308938!41.22!41.2!93!nan!
+Rising-2!Earth Observation!LEO!Sun-Synchronous!0.0!625.0!630.0!0.000357270453733!97.88!97.27!41!42!
+Rodnik (Cosmos 2416, Strela 3M)!Communications!LEO!Polar!0.0!1436.0!1448.0!0.000768049155146!82.5!114.7!225!nan!
+Rodnik (Cosmos 2437, Strela 3M)!Communications!LEO!Polar!0.0!1480.0!1511.0!0.00197063123768!82.5!115.9!280!300!
+Rodnik (Cosmos 2438, Strela 3M)!Communications!LEO!Polar!0.0!1477.0!1509.0!0.0020348467506!82.5!115.8!280!300!
+Rodnik (Cosmos 2439, Strela 3M)!Communications!LEO!Polar!0.0!1478.0!1510.0!0.00203458799593!82.5!115.8!280!300!
+Rodnik (Cosmos 2451, Strela 3M)!Communications!LEO!Polar!0.0!1498.0!1509.0!0.000698545754747!82.5!116!280!300!
+Rodnik (Cosmos 2453, Strela 3M)!Communications!LEO!Polar!0.0!1495.0!1506.0!0.000698812019567!82.5!116!280!300!
+Rodnik (Cosmos 2467, Strela 3M)!Communications!LEO!Polar!0.0!1493.0!1496.0!0.000190730497807!82.5!115.9!225!nan!
+Rodnik (Cosmos 2468, Strela 3M)!Communications!LEO!Polar!0.0!1484.0!1505.0!0.00133511348465!82.5!115.9!225!nan!
+Rodnik (Cosmos 2481, Strela 3M)!Communications!LEO!Polar!0.0!1481.0!1512.0!0.00197038072841!82.5!115.9!280!300!
+Rodnik (Cosmos 2482, Strela 3M)!Communications!LEO!Polar!0.0!1473.0!1516.0!0.00273380380189!82.5!115.86!250!300!
+Rodnik (Cosmos 2483, Strela 3M)!Communications!LEO!Polar!0.0!1473.0!1516.0!0.00273380380189!82.5!115.86!250!300!
+Rodnik (Cosmos 2484, Strela 3M)!Communications!LEO!Polar!0.0!1475.0!1514.0!0.00247949647149!82.5!115.86!250!300!
+Rodnik (Cosmos 2488, Strela 3M)!Communications!LEO!Polar!0.0!1478.0!1509.0!0.00197113244738!82.5!115.9!280!300!
+Rodnik (Cosmos 2489, Strela 3M)!Communications!LEO!Polar!0.0!1477.0!1507.0!0.00190791147291!82.5!115.8!280!300!
+Rodnik (Cosmos 2490, Strela 3M)!Communications!LEO!Polar!0.0!1482.0!1511.0!0.00184325939109!82.5!115.8!280!300!
+Rodnik (Cosmos 2496, Strela 3M)!Communications!LEO!Polar!0.0!1480.0!1511.0!0.00197063123768!82.44!115.88!280!300!
+Rodnik (Cosmos 2497, Strela 3M)!Communications!LEO!Polar!0.0!1478.0!1510.0!0.00203458799593!82.45!115.85!280!300!
+Rodnik (Cosmos 2498, Strela 3M)!Communications!LEO!Polar!0.0!1477.0!1509.0!0.0020348467506!82.44!115.82!280!300!
+Rodnik (Cosmos 2507, Strela 3M)!Communications!LEO!Polar!0.0!1497.0!1506.0!0.000571682652608!82.5!116.01!280!300!
+Rodnik (Cosmos 2508, Strela 3M)!Communications!LEO!Polar!0.0!1496.0!1504.0!0.000508259212198!82.49!115.99!280!300!
+Rodnik (Cosmos 2509, Strela 3M)!Communications!LEO!Polar!0.0!1498.0!1508.0!0.000635081925568!82.49!116.04!280!300!
+RS-47 (Cosmos 2499)!Technology Development!LEO!Polar!0.0!1152.0!1503.0!0.0227996102631!82.46!112.19!nan!nan!
+Rumba (part of Cluster quartet, Cluster 2 FM5)!Space Science!Elliptical!Deep Highly Eccentric!0.0!17240.0!120715.0!0.686651846445!90.8!3431.1!1200!224!
+Salsa (part of Cluster quartet, Cluster 2 FM6)!Space Science!Elliptical!Deep Highly Eccentric!0.0!21998.0!110256.0!0.608701049699!90.7!3418.2!1200!220!
+Samba (part of Cluster quartet, Cluster 2 FM7)!Space Science!Elliptical!Deep Highly Eccentric!0.0!22017.0!110791.0!0.60992937038!132.98!3430.28!1200!220!
+SAMSAT 218D !Technology Development!LEO!Sun-Synchronous!0.0!467.0!486.0!0.00138757029139!97.27!94.13!2!nan!
+Sapphire (Space Surveillance Mission of Canada)!Space Observation!LEO!Non-Polar Inclined!0.0!772.0!787.0!0.0010490244073!132.98!100.4!148!nan!
+SARAL (Satellite with ARGOS and ALTIKA)!Earth Observation!LEO!Sun-Synchronous!0.0!782.0!785.0!0.000209687565527!98.5!100.53!407!906!
+SAR-Lupe 1!Earth Observation!LEO!Non-Polar Inclined!0.0!468.0!505.0!0.00269816962007!98.2!94.3!770!nan!
+SAR-Lupe 2!Earth Observation!LEO!Non-Polar Inclined!0.0!470.0!503.0!0.00240647560709!98.19!94.34!770!nan!
+SAR-Lupe 3!Earth Observation!LEO!Non-Polar Inclined!0.0!473.0!496.0!0.00167772995842!98.17!94.3!770!nan!
+SAR-Lupe 4!Earth Observation!LEO!Non-Polar Inclined!0.0!448.0!486.0!0.00277899663595!98.16!94.4!770!nan!
+SAR-Lupe 5!Earth Observation!LEO!Non-Polar Inclined!0.0!474.0!502.0!0.00204141149023!98.16!94.37!770!nan!
+Sathyabamasat!Earth Science!LEO!Sun-Synchronous!0.0!501.0!517.0!0.00116295973252!97.5!94.8!1.5!nan!
+Saudicomsat-1!Technology Development!LEO!Sun-Synchronous!0.0!697.0!747.0!0.00352509870276!98.0!99.2!12!nan!
+Saudicomsat-2 !Technology Development!LEO!Sun-Synchronous!0.0!696.0!780.0!0.00590883511536!98.1!99.6!12!nan!
+Saudicomsat-3!Communications!LEO!Sun-Synchronous!0.0!652.0!714.0!0.00439529278321!97.8!98.4!12!nan!
+Saudicomsat-4!Communications!LEO!Sun-Synchronous!0.0!649.0!746.0!0.00686239830209!97.8!98.7!12!nan!
+Saudicomsat-5!Communications!LEO!Sun-Synchronous!0.0!651.0!725.0!0.0052422782658!97.8!98.5!12!nan!
+Saudicomsat-6!Communications!LEO!Sun-Synchronous!0.0!648.0!758.0!0.00777604976672!97.8!98.8!12!nan!
+Saudicomsat-7!Communications!LEO!Sun-Synchronous!0.0!650.0!736.0!0.0060880645618!97.8!98.6!12!nan!
+Saudisat 1C (Oscar 50, SO 50)!Communications!LEO!Non-Polar Inclined!0.0!603.0!702.0!0.00704877180491!64.6!97.8!10!nan!
+Saudisat-2 !Earth Observation!LEO!Sun-Synchronous!0.0!696.0!734.0!0.00268172194778!97.9!99.1!35!nan!
+Saudisat-3 !Earth Observation!LEO!Sun-Synchronous!0.0!656.0!677.0!0.00149221914304!97.8!98.1!200!nan!
+Saudisat-4!Space Science!LEO!Sun-Synchronous!0.0!613.0!682.0!0.00491628072675!97.98!97.68!100!nan!
+SBIRS GEO 1 (Space Based Infrared System Geosynchronous 1, USA 230)!Earth Observation!GEO!nan!-96.84!35778.0!35795.0!0.000201629641929!6.45!1436.11!4500!nan!
+SBIRS GEO 2 (Space Based Infrared System Geosynchronous 2, USA 241)!Earth Observation!GEO!nan!nan!35770.0!35790.0!0.000237247924081!6.45!1436.11!4500!nan!
+SBSS-1 (Space Based Space Surveillance Satellite, SBSS Block 10 SV1, USA 216)!Space Observation!LEO!Sun-Synchronous!0.0!631.0!634.0!0.000214209210996!98.02!97.36!1031!nan!
+SB-WASS 3-3 (Space Based Wide Area Surveillance System) (NOSS 3-3, USA 181, NRO L23) !Earth Observation!LEO!Non-Polar Inclined!0.0!1017.0!1203.0!0.0124331550802!63.4!107.4!5,000+!nan!
+SB-WASS 3-3 (Space Based Wide Area Surveillance System) (NOSS 3-3, USA 181, NRO L23) !Earth Observation!LEO!Non-Polar Inclined!0.0!1016.0!1203.0!0.0125008356174!63.4!107.4!5,000+!nan!
+SB-WASS 3-4 (Space Based Wide Area Surveillance System) NOSS 3-4, USA 194, NRO L30)!Earth Observation!LEO!Non-Polar Inclined!0.0!1015.0!1200.0!0.0123704446673!63.4!107.4!5,000+!nan!
+SB-WASS 3-4 (Space Based Wide Area Surveillance System) NOSS 3-4, USA 194, NRO L30)!Earth Observation!LEO!Non-Polar Inclined!0.0!1016.0!1201.0!0.0123687905329!63.4!107.4!5,000+!nan!
+SB-WASS 3-5 (Space Based Wide Area Surveillance System) NOSS 3-5, USA 229, NRO L34)!Earth Observation!LEO!Non-Polar Inclined!0.0!1019.0!1205.0!0.0124298315958!63.4!107.5!nan!nan!
+SB-WASS 3-5 (Space Based Wide Area Surveillance System) NOSS 3-5, USA 229, NRO L34)!Earth Observation!LEO!Non-Polar Inclined!0.0!1014.0!1201.0!0.0125041792043!63.4!107.4!5,000+!nan!
+SB-WASS 3-6 (Space Based Wide Area Surveillance System) NOSS 3-6, USA 238, NRO L36)!Earth Observation!LEO!Non-Polar Inclined!0.0!1012.0!1203.0!0.0127716482782!63.4!107.4!6500!nan!
+SB-WASS 3-6 (Space Based Wide Area Surveillance System) NOSS 3-6, USA 238, NRO L36)!Earth Observation!LEO!Non-Polar Inclined!0.0!1012.0!1203.0!0.0127716482782!63.4!107.4!6500!nan!
+SB-WASS 3-7 (Space Based Wide Area Surveillance System) NOSS 3-7, USA 264, NRO L55)!Earth Observation!LEO!Non-Polar Inclined!0.0!1014.0!1099.0!0.00572274961287!63.4!107.4!6500!nan!
+SB-WASS 3-7 (Space Based Wide Area Surveillance System) NOSS 3-7, USA 264, NRO L55)!Earth Observation!LEO!Non-Polar Inclined!0.0!1014.0!1099.0!0.00572274961287!63.4!107.4!6500!nan!
+SCD-1 (Satélite de Coleta de Dados)!Earth Observation!LEO!Non-Polar Inclined!0.0!716.0!776.0!0.00421585160202!25.0!99.7!110!70!
+SCD-2 (Satélite de Coleta de Dados)!Earth Observation!LEO!Non-Polar Inclined!nan!735.0!760.0!0.00175623463295!25.0!99.8!110!70!
+Scisat-1 (Atmospheric Chemistry Experiment)!Space Science!LEO!Polar!0.0!638.0!649.0!0.000784201896343!73.9!97.6!150!80!
+S-Cube (S3, Shootingstar Sensing Satellite)!Technology Development!LEO!Non-Polar Inclined!nan!397.0!408.0!0.000812107788852!51.64!92.61!4!nan!
+SDO (Solar Dynamics Observatory)!Space Science!GEO!nan!-102.0!35779.0!35791.0!0.000142331870478!28.0!1436.03!3100!1500!
+SDS III-4 (Satellite Data System) (NRO L-1, Nemesis, USA 179) !Communications!Elliptical!Molniya!0.0!500.0!39850.0!0.741194198531!63.4!717.7!nan!nan!
+SDS III-5 (Satellite Data System) (NRO L-24, Scorpius, USA 198) !Communications!Elliptical!Molniya!0.0!400.0!39966.0!0.745038225436!60.0!718!nan!nan!
+SDS III-6 (Satellite Data System) NRO L-27, Gryphon, USA 227)!Communications!GEO!nan!-30.4!35770.0!35803.0!0.000391398716687!4.92!14.36!nan!nan!
+SDS III-7 (Satellite Data System) NRO L-38, Drake, USA 236)!Communications!GEO!nan!nan!35771.0!35805.0!0.000403244935718!4.91!23.94!nan!nan!
+SDS III-8 (Satellite Data System) NRO L-33, USA 252)!Communications!GEO!nan!0.0!35500.0!35500.0!0.0!4.0!23!nan!nan!
+SDS-4 (Small Demonstration Satellite-4)!Technology Development!LEO!Sun-Synchronous!0.0!661.0!673.0!0.000852636066506!98.2!98.1!50!120!
+SEEDS 2!Technology Development!LEO!Sun-Synchronous!0.0!607.0!627.0!0.00143122942608!97.8!97!3!nan!
+Sentinel 1A!Earth Observation!LEO!Sun-Synchronous!0.0!691.0!693.0!0.000141602945341!98.16!98.61!2300!nan!
+Sentinel 1B!Earth Observation!LEO!Sun-Synchronous!0.0!695.0!697.0!0.000141522785168!98.1!98.7!2300!nan!
+Sentinel 2A!Earth Observation!LEO!Sun-Synchronous!0.0!787.0!788.0!6.98567935732e-05!98.5!100.62!2300!nan!
+Sentinel 3A!Earth Observation!LEO!Sun-Synchronous!0.0!802.0!804.0!0.000139411682699!98.6!100.9!2300!nan!
+SES-1 (AMC-4R)!Communications!GEO!nan!-101.0!35781.0!35793.0!0.000142325118011!0.05!1436.1!nan!5000!
+SES-2!Communications!GEO!nan!-87.0!35778.0!35798.0!0.000237202903364!0.01!1436.19!3200!5000!
+SES-3!Communications!GEO!nan!-103.0!35850.0!35852.0!2.36848961417e-05!0.05!1439.41!3112!nan!
+SES-4!Communications!GEO!nan!-22.0!35781.0!35792.0!0.000130466238896!0.05!1436.1!nan!20000!
+SES-5 (Sirius 5, Astra 4B)!Communications!GEO!nan!5.0!35783.0!35791.0!9.48834120075e-05!0.13!1436.12!6007!nan!
+SES-6!Communications!GEO!nan!-40.5!35757.0!35816.0!0.000699773463167!0.13!1436.09!6140!nan!
+SES-7 (Protostar 2, Indostar 2)!Communications!GEO!nan!108.02!35783.0!35790.0!8.30239702063e-05!0.03!1436.1!4007!nan!
+SES-8!Communications!GEO!nan!95.0!35777.0!35795.0!0.000213492741247!0.02!1436.07!3138!nan!
+SES-9!Communications!GEO!nan!108.02!35787.0!35791.0!4.74394553951e-05!0.05!1436.2!5271!12700!
+Shijian 11-01 (SJ-11-01)!Space Science!LEO!Sun-Synchronous!0.0!686.0!703.0!0.00120319909406!98.1!98.7!nan!nan!
+Shijian 11-02 (SJ-11-02)!Technology Development!LEO!Sun-Synchronous!0.0!686.0!704.0!0.00127388535032!98.2!98.7!nan!nan!
+Shijian 11-03 (SJ-11-03)!Technology Development!LEO!Sun-Synchronous!0.0!688.0!703.0!0.0010614960017!98.2!98.7!nan!nan!
+Shijian 11-05 (SJ-11-05)!Technology Development!LEO!Sun-Synchronous!0.0!689.0!704.0!0.00106134578646!98.1!98.7!nan!nan!
+Shijian 11-06 (SJ-11-06)!Technology Development!LEO!Sun-Synchronous!0.0!688.0!704.0!0.00113218228135!98.26!98.69!nan!nan!
+Shijian 11-07 (SJ-11-07)!Technology Development!LEO!Sun-Synchronous!0.0!687.0!705.0!0.00127370506652!98.12!98.69!nan!nan!
+Shijian 11-08 (SJ-11-08)!Technology Development!LEO!Sun-Synchronous!0.0!690.0!705.0!0.00106119561372!98.2!98.6!nan!nan!
+Shijian 12 (SJ-12)!Technology Development!LEO!Sun-Synchronous!0.0!583.0!601.0!0.00129273197357!97.7!96.5!nan!nan!
+Shijian 15 (SJ-15)!Technology Development!LEO!Sun-Synchronous!0.0!661.0!673.0!0.000852636066506!98.06!98.08!nan!nan!
+Shijian 16 01 (SJ-16)!Technology Development!LEO!Polar!0.0!599.0!616.0!0.00121820136152!74.98!96.85!nan!nan!
+Shijian 16 02!Technology Development!LEO!Polar!0.0!338.0!594.0!0.0187244002341!75.0!96.81!nan!nan!
+Shijian 6A (SJ-6A, Dong Fang Hong 60)!Space Science!LEO!Sun-Synchronous!0.0!579.0!606.0!0.00193895870736!97.8!96.5!nan!nan!
+Shijian 6B (SJ-6B)!Space Science!LEO!Sun-Synchronous!0.0!587.0!598.0!0.000789946140036!97.8!96.5!nan!nan!
+Shijian 6C (SJ-6-02A)!Space Science!LEO!Sun-Synchronous!0.0!591.0!594.0!0.000215439856373!97.7!96.5!nan!nan!
+Shijian 6D (SJ-6-02B)!Space Science!LEO!Sun-Synchronous!0.0!594.0!595.0!7.17926627899e-05!97.7!96.6!nan!nan!
+Shijian 6E (SJ6-03A, SJ-6E)!Space Science!LEO!Sun-Synchronous!0.0!581.0!607.0!0.00186674325101!97.6!96.6!nan!nan!
+Shijian 6F (SJ6-03B, SJ-6F)!Space Science!LEO!Sun-Synchronous!0.0!578.0!603.0!0.00179584799943!97.6!96.5!nan!nan!
+Shijian 6G (SJ6-04A)!Earth Observation!LEO!Sun-Synchronous!0.0!584.0!603.0!0.00136425648022!97.7!96.6!nan!nan!
+Shijian 6H (SJ6_04B)!Earth Observation!LEO!Sun-Synchronous!0.0!586.0!602.0!0.00114876507754!97.7!96.6!nan!nan!
+Shijian 7 (SJ7, Dong Fang Hong 65)!Space Science!LEO!Sun-Synchronous!0.0!534.0!591.0!0.00411107104219!97.7!95.9!nan!nan!
+Shijian 9A (SJ 9A)!Technology Development!LEO!Sun-Synchronous!0.0!623.0!650.0!0.0019267822736!97.99!97.44!nan!nan!
+Shijian 9B (SJ 9B)!Technology Development!LEO!Sun-Synchronous!0.0!624.0!651.0!0.00192650731359!97.99!97.46!nan!nan!
+Shiyan 1 (SY 1, Tansuo 1, Experimental Satellite 1)!Earth Observation!LEO!Sun-Synchronous!0.0!586.0!601.0!0.00107704458965!97.5!96.6!204!nan!
+Shiyan 3 (SY3, Experimental Satellite 3)!Earth Observation!LEO!Sun-Synchronous!0.0!785.0!803.0!0.00125628140704!98.5!100.8!300!nan!
+Shiyan 4 (SY4, Experimental Satellite 4)!Earth Observation!LEO!Sun-Synchronous!0.0!784.0!802.0!0.00125645679185!98.4!100.7!300!nan!
+Shiyan 5 (SY5, Experimental Satellite 5)!Earth Observation!LEO!Sun-Synchronous!0.0!739.0!755.0!0.00112406913025!97.9!99.7!204!nan!
+Shiyan 7 (SY7, Experimental Satellite 7)!Technology Development!LEO!Sun-Synchronous!0.0!668.0!672.0!0.000284090909091!98.06!98.15!nan!nan!
+Sicral 1A !Communications!GEO!nan!16.25!35769.0!35802.0!0.000391408001328!1.01!1436.06!2596!3300!
+Sicral 1B!Communications!GEO!nan!11.8!35788.0!35802.0!0.000166014466975!0.04!1436.52!3038!nan!
+Sicral 2/Syracuse 3C!Communications!GEO!nan!37.0!35770.0!35800.0!0.000355829676195!0.0!1436!4400!7700!
+Sinah-1 (Sina 1, ZS1)!Communications!LEO!Sun-Synchronous!0.0!681.0!703.0!0.00155763239875!97.9!98.6!170!nan!
+SINOD D-1!Technology Demonstration!LEO!Non-Polar Inclined!0.0!494.0!800.0!0.0218041898247!64.78!97.67!2!nan!
+SINOD D-3!Technology Demonstration!LEO!Non-Polar Inclined!0.0!494.0!800.0!0.0218041898247!64.78!97.66!2!nan!
+Sinosat-6 (Chinasat-6A, XN-6)!Communications!GEO!nan!0.0!35794.0!35796.0!2.3716352425e-05!0.3!1436.1!5000!nan!
+Sirius 1 (SD Radio 1)!Communications!Elliptical!Molniya!0.0!23783.0!47100.0!0.278834770338!63.3!1418.5!3727!nan!
+Sirius 2 (SD Radio 2)!Communications!Elliptical!Molniya!0.0!12849.0!47048.0!0.470820656139!63.3!1148.43!3792!nan!
+Sirius 3 (SD Radio 3)!Communications!Elliptical!Molniya!0.0!6179.0!47086.0!0.619756079085!63.4!994.83!3727!nan!
+Sirius 4 (Astra 4A)!Communications!GEO!nan!4.85!35776.0!35795.0!0.000225356121977!0.04!1436.1!4400!nan!
+Sirius FM-5!Communications!GEO!nan!-96.0!35774.0!35798.0!0.000284656988329!0.0!1436!5800!20000!
+Sirius FM-6!Communications!GEO!nan!-115.2!35785.0!35791.0!7.11608710091e-05!0.08!1436.16!6020!20000!
+Sirius XM-5!Communications!GEO!nan!-85.2!35779.0!35795.0!0.000189766824015!0.03!1436.12!5983!18000!
+Sky Mexico-1!Communications!GEO!nan!-79.0!35788.0!35800.0!0.000142301489422!0.0!1436!3180!nan!
+Skynet 4C !Communications!GEO!nan!-1.3!35775.0!35797.0!0.000260935572635!13.6!1436.07!1474!1200!
+Skynet 4E !Communications!GEO!nan!35.58!35774.0!35797.0!0.000272799516077!4.99!1436.06!1510!1200!
+Skynet 4F !Communications!GEO!nan!-34.04!35773.0!35801.0!0.000332091942026!3.23!1436.15!1510!1200!
+Skynet 5A!Communications!GEO!nan!-1.12!35771.0!35802.0!0.000367677582342!0.07!1436.1!4700!6000!
+Skynet 5B!Communications!GEO!nan!52.8!35700.0!35803.0!0.00122265351424!0.07!1436.1!4635!6000!
+Skynet 5C!Communications!GEO!nan!-17.83!35770.0!35803.0!0.000391398716687!0.53!1436.1!4600!nan!
+Skynet 5D!Communications!GEO!nan!25.0!35786.0!35793.0!8.30180623584e-05!0.07!1436.24!4638!nan!
+SkySat-1!Earth Observation!LEO!Sun-Synchronous!0.0!567.0!599.0!0.00230116496476!97.81!96.34!nan!nan!
+SkySat-2!Earth Observation!LEO!Sun-Synchronous!0.0!626.0!634.0!0.000571428571429!98.4!97.31!90!nan!
+SkySat-3 (SkySat Gen 2-1)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!515.0!0.00109051254089!97.5!94.78!110!nan!
+SkyTerra 1!Communications!GEO!nan!-101.3!35782.0!35791.0!0.000106745104551!6.06!1436.09!5360!nan!
+SLDCOM-3 (Satellite Launch Dispenser Communications System) (USA 119)!Communications!Elliptical!Molniya!0.0!1200.0!11600.0!0.407204385278!63.4!240!nan!nan!
+SMAP (Soil Moisture Active Passive Satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!660.0!686.0!0.00184580434474!98.13!98.21!nan!nan!
+SMDC-ONE 1.1 (Techsat)!Technology Development!LEO!Non-Polar Inclined!0.0!495.0!791.0!0.0211036646228!64.6!97.5!4.5!nan!
+SMDC-ONE 1.2 (ORSES [Operationally Responsive Space Enabler Satellite])!Technology Development!LEO!Non-Polar Inclined!0.0!483.0!789.0!0.0218384242078!64.6!97.4!3!nan!
+SMDC-ONE 2.3!Technology Development!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!5!nan!
+SMDC-ONE 2.4!Technology Development!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!5!nan!
+SMOS (Soil Moisture and Ocean Salinity satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!759.0!760.0!7.01311452416e-05!98.4!100!658!1065!
+SNaP-3 Alice!Technology Development!LEO!Non-Polar Inclined!0.0!495.0!801.0!0.0218010829296!64.78!97.68!4.5!nan!
+SNaP-3 Eddie!Technology Development!LEO!Non-Polar Inclined!0.0!496.0!801.0!0.0217282895206!64.78!97.69!5!nan!
+SNaP-3 Jimi!Technology Development!LEO!Non-Polar Inclined!0.0!495.0!801.0!0.0218010829296!64.78!97.67!5!nan!
+SNaP-3-1  (Space and Missile Defense Command NanoSat Program)!Communications!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!nan!nan!
+SOCRATES  (Space Optical Communications Research Advanced TEchnology Satellite)!Technology Development!LEO!Sun-Synchronous!0.0!618.0!629.0!0.000786444555659!97.87!97.17!48!100!
+SOHLA 1 (Space Oriented Higashiosaka Leading Association, Maido 1)!Technology Development!LEO!Sun-Synchronous!0.0!657.0!665.0!0.000568909116769!98.1!98!50!nan!
+SORCE (SOlar Radiation and Climate Experiment)!Space Science!LEO!Non-Polar Inclined!0.0!600.0!633.0!0.00236169755958!40.0!97!315!348!
+Spaceway 3!Communications!GEO!nan!-94.93!35785.0!35787.0!2.37214156941e-05!0.06!1436.1!6100!nan!
+Spaceway F1!Communications!GEO!nan!-102.87!35785.0!35787.0!2.37214156941e-05!0.05!1436.1!5993!12300!
+Spaceway F2!Communications!GEO!nan!-99.08!35785.0!35787.0!2.37214156941e-05!0.04!1436.1!5993!12300!
+Spainsat!Communications!GEO!nan!13.06!35745.0!35826.0!0.000960728730533!0.06!1436.1!3680!nan!
+Spektr-R/RadioAstron!Space Science!LEO!Cislunar!0.0!1000.0!330000.0!0.957118752546!51.46!8 days!3660!nan!
+SpinSat (Special Purpose Inexpensive Satellite)!Technology Development!LEO!Non-Polar Inclined!0.0!406.0!419.0!0.000958348691485!51.65!92.81!50!nan!
+SPIRALE-A (Système Préparatoire Infra-Rouge pour l'Alerte)!Technology Development!Elliptical!nan!0.0!240.0!31342.0!0.70172826136!2.0!547!117!nan!
+SPIRALE-B (Système Préparatoire Infra-Rouge pour l'Alerte)!Technology Development!Elliptical!nan!0.0!389.0!17480.0!0.55836518671!2.1!314!117!nan!
+Spot 6 (Système Probatoire d’Observation de la Terre)!Earth Observation!LEO!Sun-Synchronous!0.0!696.0!699.0!0.000212239122745!98.2!98.73!720!nan!
+Spot 7 (Système Probatoire d’Observation de la Terre)!Earth Observation!LEO!Sun-Synchronous!0.0!643.0!660.0!0.00121056754255!98.2!97.77!714!nan!
+SPROUT  (SPace Research On Unique Technology)!Technology Development!LEO!Sun-Synchronous!0.0!614.0!629.0!0.00107273117357!97.87!97.13!7.1!nan!
+SRMSat (Sri Ramaswamy Memorial Satellite)!Technology Development!LEO!Non-Polar Inclined!0.0!850.0!868.0!0.00124498547517!20.0!102.1!10.9!nan!
+SSOT (Sistema Satelital para la Observación de la Tierra)!Earth Observation!LEO!Sun-Synchronous!0.0!622.0!624.0!0.000143000143!98.0!97.2!117!nan!
+ST-2 (Singapore-Taiwan 2)!Communications!GEO!nan!87.99!35783.0!35791.0!9.48834120075e-05!0.02!1436.12!5090!nan!
+Star One C1!Communications!GEO!nan!-64.98!35703.0!35778.0!0.000890514242291!0.03!1436!4100!10500!
+Star One C2!Communications!GEO!nan!-69.93!35776.0!35796.0!0.000237214156941!0.06!1436.1!4100!nan!
+Star One C3!Communications!GEO!nan!-75.0!35791.0!35848.0!0.000675523530736!0.02!1437.78!3225!nan!
+Star One C4!Communications!GEO!nan!-70.0!35786.0!35801.0!0.000177878971148!0.0!1436.1!5634!15600!
+STARE-B (Horus [Space-Based Telescopes for Actionable Refinement of Ephemeris])!Space Science!LEO!Non-Polar Inclined!0.0!500.0!506.0!0.000436490615452!40.5!94.6!3!nan!
+STPSat-2 (USA 217)!Technology Development!LEO!Polar!0.0!650.0!650.0!0.0!72.0!97.73!180!nan!
+STPSat-3 (Space Test Program Satellite-3) !Technology Development!LEO!Non-Polar Inclined!0.0!497.0!507.0!0.000727590221187!40.51!94.66!137!nan!
+STRaND-1 (Surrey Training, Research and Nanosatellite Demonstrator 1)!Technology Development!LEO!Sun-Synchronous!0.0!772.0!783.0!0.000769499825114!98.6!100.4!4.3!nan!
+Strela 3 (Cosmos 2385)!Communications!LEO!Polar!0.0!1417.0!1425.0!0.000513412912335!82.5!114.2!225!nan!
+Strela 3 (Cosmos 2386)!Communications!LEO!Polar!0.0!1415.0!1419.0!0.000256838320277!82.5!114.2!225!nan!
+Strela 3 (Cosmos 2390)!Communications!LEO!Equatorial!0.0!1468.0!1506.0!0.00241822578592!8.5!115.7!225!nan!
+Strela 3 (Cosmos 2391)!Communications!LEO!Polar!0.0!1466.0!1506.0!0.00254582484725!82.5!115.7!225!nan!
+Strela 3 (Cosmos 2400)!Communications!LEO!Polar!0.0!1467.0!1503.0!0.00229153405474!82.5!115.7!225!nan!
+Strela 3 (Cosmos 2401)!Communications!LEO!Polar!0.0!1465.0!1502.0!0.0023556376138!82.5!115.6!225!nan!
+Strela 3 (Cosmos 2408)!Communications!LEO!Polar!0.0!1471.0!1495.0!0.00152807844136!82.5!115.5!225!nan!
+Strela 3 (Cosmos 2409)!Communications!LEO!Polar!0.0!1474.0!1495.0!0.00133681329174!82.5!115.6!225!nan!
+STSat-2C!Technology Development!LEO!Polar!0.0!298.0!1482.0!0.0815426997245!80.28!102.77!93!160!
+STSat-3!Technology Development!LEO!Sun-Synchronous!0.0!593.0!626.0!0.00236406619385!97.81!96.88!150!275!
+STSS ATRR (Space Tracking and Surveillance System Advanced Technology Risk Reduction Satellite, USA 205)!Technology Development!LEO!Sun-Synchronous!0.0!867.0!879.0!0.000828386027889!98.93!102.41!nan!nan!
+STSS Demo-1 (Space Tracking and Surveillance System Demonstrator)!Technology Development!LEO!Non-Polar Inclined!0.0!1347.0!1352.0!0.000323855171967!58.0!112.68!2240!nan!
+STSS Demo-2 (Space Tracking and Surveillance System Demonstrator)!Technology Development!LEO!Non-Polar Inclined!0.0!1339.0!1351.0!0.000777705767984!58.0!112.58!2240!nan!
+Superbird 7 (Superbird C2)!Communications!GEO!nan!143.77!35778.0!35794.0!0.000189771325553!0.12!1436.1!5000!nan!
+Superbird-B2 (Superbird 4)!Communications!GEO!nan!162.03!35779.0!35793.0!0.000166049909859!0.01!1436.09!4051!5,400 (EOL)!
+Suzaku (Astro E2)!Space Science!LEO!Non-Polar Inclined!0.0!548.0!558.0!0.000722230247003!31.4!95.7!1600!500!
+Swayam!Technology Development!LEO!Sun-Synchronous!0.0!500.0!518.0!0.00130832969908!97.5!94.7!1!nan!
+SWARM-A!Earth Observation!LEO!Polar!0.0!473.0!476.0!0.000219154065308!87.3!93.9!468!608!
+SWARM-B!Earth Observation!LEO!Polar!0.0!473.0!476.0!0.000219154065308!87.3!93.9!468!608!
+SWARM-C!Earth Observation!LEO!Polar!0.0!486.0!496.0!0.000728756741!87.5!94!468!608!
+Swift !Space Science!LEO!Non-Polar Inclined!0.0!571.0!590.0!0.0013668081433!20.6!96.3!1463!1040!
+SwissCube!Technology Development!LEO!Sun-Synchronous!0.0!710.0!720.0!0.000705716302047!98.3!99.1!1!nan!
+Syracuse 3A (Systeme de Radio Communications Utilisant un Satellite)!Communications!GEO!nan!47.05!35778.0!35792.0!0.000166053848891!0.0!1436.06!3725!5640!
+Syracuse 3B (Systeme de Radio Communications Utilisant un Satellite)!Communications!GEO!nan!-5.17!35772.0!35801.0!0.000343956447997!0.03!1436.09!3750!nan!
+TacSat 4!Technology Development!Elliptical!Molniya!0.0!658.0!11836.0!0.442973765554!63.64!235.16!450!1000!
+TacSat 6!Technology Development!LEO!Polar!0.0!443.0!886.0!0.0314876679224!120.3!98!nan!nan!
+TanDEM-X (TerraSAR-X add-on for Digital Elevation Measurement)!Earth Observation!LEO!Sun-Synchronous!0.0!507.0!510.0!0.00021807080032!97.4!94.8!1350!nan!
+Tango (part of Cluster quartet, Cluster 2 FM8)!Space Science!Elliptical!Deep Highly Eccentric!0.0!17313.0!120961.0!0.686346961209!90.7!3442!1200!220!
+TDRS-10 (Tracking and Data Relay Satellite, TDRS-J)!Communications!GEO!nan!-40.75!35768.0!35802.0!0.000403273633021!1.64!1436.04!3180!2,300 (EOL)!
+TDRS-11 (Tracking and Data Relay Satellite, TDRS K)!Communications!GEO!nan!-171.0!35732.0!35844.0!0.00132833625884!7.0!1436.18!3454!2,300 (EOL)!
+TDRS-12 (Tracking and Data Relay Satellite, TDRS L)!Communications!GEO!nan!nan!35780.0!35785.0!5.93084633177e-05!6.99!1435.88!3454!3,500 (EOL)!
+TDRS-3 (Tracking and Data Relay Satellite, TDRS-C) !Communications!GEO!nan!84.41!35693.0!35878.0!0.00219425697714!11.53!1436.06!3180!1800!
+TDRS-5 (Tracking and Data Relay Satellite, TDRS-E)!Communications!GEO!nan!-167.14!35773.0!35796.0!0.000272805987498!9.4!1436.99!3180!1800!
+TDRS-6 (Tracking and Data Relay Satellite, TDRS-F)!Communications!GEO!nan!-171.35!35773.0!35787.0!0.000166073546856!8.74!1435.7!3180!1800!
+TDRS-7 (Tracking and Data Relay Satellite, TDRS-G)!Communications!GEO!nan!-150.53!35767.0!35803.0!0.000426995611434!10.6!1436.04!3180!1800!
+TDRS-8 (Tracking and Data Relay Satellite, TDRS-H)!Communications!GEO!nan!88.76!35768.0!35808.0!0.000474405806727!0.9!1436.2!3180!2,300 (EOL)!
+TDRS-9 (Tracking and Data Relay Satellite, TDRS-I)!Communications!GEO!nan!-62.43!35768.0!35809.0!0.000486260184779!0.02!1436.11!3180!2,300 (EOL)!
+TechDemoSat-1!Technology Development!LEO!Sun-Synchronous!0.0!625.0!631.0!0.000428693912546!98.4!97.27!150!nan!
+TecSAR (Ofeq 8, Polaris)!Earth Observation!LEO!Non-Polar Inclined!0.0!405.0!580.0!0.0127504553734!41.03!94.5!300!nan!
+TeLEOS 1!Earth Observation!LEO!Equatorial!0.0!535.0!550.0!0.00108499095841!15.0!95.5!400!nan!
+Telkom 1 !Communications!GEO!nan!108.01!35778.0!35796.0!0.000213487677017!0.02!1436.13!2763!4000!
+Telkom 2!Communications!GEO!nan!118.02!35781.0!35793.0!0.000142325118011!0.04!1436.1!1930!nan!
+Telstar 11N!Communications!GEO!nan!-37.05!35774.0!35801.0!0.000320227717488!0.04!1436.13!4010!nan!
+Telstar 12 (Orion 2)!Communications!GEO!nan!-14.99!35773.0!35799.0!0.000308378404023!0.05!1436.09!3878!10600!
+Telstar 12V (Telstar 12 Vantage)!Communications!GEO!nan!-15.0!35645.0!35727.0!0.000974890622028!0.1!1436.1!4900!nan!
+Telstar 14R (Estrela do Sul 2)!Communications!GEO!nan!-63.0!35783.0!35791.0!9.48834120075e-05!0.02!1436.1!4970!12000!
+Telstar 18 (Apstar 5)!Communications!GEO!nan!138.04!35778.0!35795.0!0.000201629641929!0.01!1436.1!4640!16,000 (EOL)!
+TerraSAR-X 1 (Terra Synthetic Aperture Radar X-Band)!Earth Observation!LEO!Sun-Synchronous!0.0!507.0!509.0!0.000145391102065!97.5!94.8!1230!nan!
+TerraStar 1!Communications!GEO!nan!-111.0!35783.0!35791.0!9.48834120075e-05!5.94!1436.11!6910!nan!
+TET-1 (Technologieerprobungsträger 1, Technology Experiment Carrier)!Technology Development!LEO!Sun-Synchronous!0.0!501.0!505.0!0.000290993743635!97.5!94.7!120!20!
+Thaicom-4 (Ipstar 1, Measat 5)!Communications!GEO!nan!119.5!35775.0!35798.0!0.000272793044963!0.0!1436.1!6505!14000!
+Thaicom-5!Communications!GEO!nan!78.54!35777.0!35796.0!0.000225350776274!0.04!1436.1!2800!5000!
+Thaicom-6!Communications!GEO!nan!78.5!35786.0!35796.0!0.0001185930125!0.05!1436.3!3325!nan!
+Thaicom-8!Communications!GEO!nan!78.5!35843.0!35890.0!0.000556390799427!0.03!1440.09!3025!nan!
+THEMIS A (Time History of Events and Macroscale Interactions during Substorms) !Space Science!Elliptical!nan!0.0!461.0!87304.0!0.864066464355!15.7!1868.98!126!40!
+THEMIS D (Time History of Events and Macroscale Interactions during Substorms) !Space Science!Elliptical!nan!0.0!467.0!87260.0!0.863895607513!15.7!1867.91!126!40!
+THEMIS E (Time History of Events and Macroscale Interactions during Substorms) !Space Science!Elliptical!nan!0.0!474.0!87526.0!0.864125471511!15.7!1875.53!126!40!
+THEOS (Thailand Earth Observation System)!Earth Observation!LEO!Sun-Synchronous!0.0!824.0!826.0!0.000138985406532!98.7!101.4!750!840!
+Thor-3 !Communications!GEO!nan!-4.0!35777.0!35795.0!0.000213492741247!0.07!1436.07!1400!1400!
+Thor-5 (Thor 2R)!Communications!GEO!nan!-0.72!35773.0!35798.0!0.000296521213128!0.01!1436.1!2024!nan!
+Thor-6!Communications!GEO!nan!-1.0!35779.0!35794.0!0.000177908507585!0.02!1436.1!3050!5900!
+Thor-7!Communications!GEO!nan!-1.0!35727.0!35741.0!0.00016625498765!0.0!1433.4!4600!nan!
+Thuraya 2 !Communications!GEO!nan!44.13!35764.0!35807.0!0.000510016486579!2.99!1436.07!5250!11000!
+Thuraya 3!Communications!GEO!nan!98.6!35766.0!35807.0!0.000486283254065!5.84!1436.1!5180!nan!
+Tiangong-1 (TG-1)!Technology Development!LEO!Non-Polar Inclined!0.0!360.0!361.0!7.42886858331e-05!42.8!91.8!8506!nan!
+Tianhui 1-01!Earth Observation!LEO!Sun-Synchronous!0.0!488.0!504.0!0.00116516166618!97.4!94.5!2500!nan!
+Tianhui 1-02!Earth Observation!LEO!Sun-Synchronous!0.0!485.0!505.0!0.00145666423889!97.4!94.5!2500!nan!
+Tianhui 1-03!Earth Observation!LEO!Sun-Synchronous!0.0!489.0!500.0!0.000801223687086!97.36!94.5!2500!nan!
+TianLian 1 (TL-1-01, CTDRS)!Communications!GEO!nan!77.08!35769.0!35813.0!0.000521809254999!0.06!1436.08!3750!nan!
+TianLian 2 (TL-1-02, CTDRS)!Communications!GEO!nan!176.72!37778.0!37794.0!0.000181175831144!1.0!1436.1!2250!nan!
+TianLian 3 (TL-1-03, CTDRS)!Communications!GEO!nan!16.86!35768.0!35802.0!0.000403273633021!2.04!1436!2200!nan!
+Tiantuo-2!Earth Observation/Communications!LEO!Sun-Synchronous!0.0!477.0!493.0!0.00116703136397!97.42!94.31!67!nan!
+Tiantuo-3 (Luliang 1)!Technology Development!LEO!Sun-Synchronous!0.0!392.0!522.0!0.00952101948147!97.42!93.73!20!nan!
+Tianwang 1A (TW-1A, SECM-1, Shangkeda-2)!Technology Development!LEO!Sun-Synchronous!0.0!466.0!484.0!0.00131482834186!97.31!94.1!3!nan!
+Tianwang 1B (TW-1B; NJUST-2)!Technology Development!LEO!Sun-Synchronous!0.0!466.0!485.0!0.00138777298956!97.32!94.1!3!nan!
+Tianwang 1C (TW-1C; NJFA-1)!Technology Development!LEO!Sun-Synchronous!0.0!466.0!486.0!0.00146070698218!97.31!94.12!5!nan!
+TIGRISat!Earth Observation!LEO!Sun-Synchronous!0.0!611.0!698.0!0.00619261157378!97.98!97.82!1!nan!
+TIMED (Thermosphere • Ionosphere • Mesosphere • Energetics and Dynamics)!Space Science!LEO!Polar!0.0!612.0!613.0!7.16075904046e-05!74.1!97!587!406!
+TISat-1 (Ticano Satellite)!Technology Development!LEO!Sun-Synchronous!0.0!611.0!631.0!0.00143041052782!98.0!97.1!1!nan!
+TJS-1 (Tongxin Jishu Shiyan 1)!Technology Development!GEO!nan!155.07!35776.0!35795.0!0.000225356121977!0.0!1436.03!nan!nan!
+TKSat-1 (Túpac Katari Satellite 1)!Communications!GEO!nan!-87.2!35773.0!35799.0!0.000308378404023!0.27!1436.07!5000!nan!
+Trumpet 3 (NROL-4, National Reconnaissance Office Launch-4, USA 136)!Earth Observation!Elliptical!nan!0.0!1210.0!38740.0!0.712279369899!64.7!709.61!8000!nan!
+Tselina-2 (Cosmos 2428)!Earth Observation!LEO!Polar!0.0!844.0!858.0!0.000969394820662!71.0!102!3200!nan!
+TSUBAME!Earth Observation!LEO!Sun-Synchronous!0.0!505.0!569.0!0.00463298103373!97.47!95.38!49!nan!
+TUGSat-1  (Technische Universität Graz Satellit, CanX-3b, BRITE-Austria)!Technology Development!LEO!Sun-Synchronous!0.0!770.0!784.0!0.000979431929481!98.6!100.3!14!5.4!
+Turkmen Alem 52E/MonacoSAT!Communications!GEO!nan!52.0!35655.0!35784.0!0.00153244871049!0.0!1432.69!4700!nan!
+Turksat 3A!Communications!GEO!nan!42.04!35778.0!35793.0!0.000177912727877!0.01!1436.06!3100!8100!
+Turksat 4A!Communications!GEO!nan!50.0!35776.0!35797.0!0.000249071910619!0.01!1436.08!4869!nan!
+Turksat 4B!Communications!GEO!nan!50.0!35787.0!35805.0!0.000213442109757!0.03!1436.57!5000!nan!
+UFO-10 (USA 146, UHF F/O F10) "UHF Follow-On"!Communications!GEO!nan!72.67!35738.0!35834.0!0.00113862795332!1.97!1436.1!3200!3,800 (EOL)!
+UFO-11  (USA 174) "UHF Follow-On"!Communications!GEO!nan!71.44!35786.0!35787.0!1.18605671723e-05!2.16!1436.1!3200!2,800 (EOL)!
+UFO-2 (USA 95) "UHF Follow-On"!Communications!GEO!nan!28.79!35766.0!35807.0!0.000486283254065!8.27!1436.12!3200!2,800 (EOL)!
+UFO-4 (USA 108, UFO F4 EHF) "UHF Follow-On"!Communications!GEO!nan!-177.12!35763.0!35775.0!0.000142385913287!3.34!1435.22!3200!2,800 (EOL)!
+UFO-6 (USA 114, UFO F6 EHF) "UHF Follow-On"!Communications!GEO!nan!-105.5!35744.0!35829.0!0.00100814820965!4.11!1436.12!3200!2,800 (EOL)!
+UFO-7 (USA 127, F7 EHF) "UHF Follow-On"!Communications!GEO!nan!-21.91!35738.0!35835.0!0.00115047501572!3.79!1436.11!3200!2,800 (EOL)!
+UFO-8 (USA 138, UHF F/O F8) "UHF Follow-On"!Communications!GEO!nan!172.28!35772.0!35794.0!0.00026095414324!5.24!1435.94!3206!3,800 (EOL)!
+UK-DMC-2 (BNSCSat-2, British National Science Center Satellite 2)!Earth Observation!LEO!Sun-Synchronous!0.0!660.0!662.0!0.000142227279192!98.0!98!96.5!nan!
+UKube-1 (UK Cubesat 1)!Technology Development!LEO!Sun-Synchronous!0.0!626.0!631.0!0.000357219404158!98.4!97.27!3!nan!
+UNIFORM 1  (UNiversity International FORmation Mission 1)!Earth Observation!LEO!Sun-Synchronous!0.0!622.0!629.0!0.000500321635337!97.87!97.2!50!140!
+UWE-3 (University of Würzburg Experimental Satellite 3)!Communications!LEO!Sun-Synchronous!0.0!593.0!700.0!0.00762488420152!97.8!97.6!1!nan!
+Van Allen Probe A (RBSP-A, Radiation Belt Storm Probes)!Earth Observation!Elliptical!nan!0.0!591.0!30534.0!0.682617120711!10.03!539.06!647.6!nan!
+Van Allen Probe B (RBSP-B, Radiation Belt Storm Probes)!Earth Observation!Elliptical!nan!0.0!595.0!30657.0!0.683351518458!10.04!541.4!666!nan!
+Velox 1!Technology Development!LEO!Sun-Synchronous!0.0!642.0!655.0!0.00092612381563!98.25!97.7!4!nan!
+Velox 2!Technology Development!LEO!Equatorial!0.0!537.0!550.0!0.000940189484342!14.98!95.48!13!nan!
+Velox C1!Technology Development!LEO!Equatorial!0.0!533.0!550.0!0.00122983433408!14.98!95.48!123!nan!
+VeneSat 1 (Simon Bolivar)!Communications!GEO!nan!-65.0!35777.0!35796.0!0.000225350776274!0.21!1436.1!5100!nan!
+Vesselsat-1!Communications!LEO!Non-Polar Inclined!0.0!847.0!867.0!0.00138370001384!20.0!102.1!28.7!nan!
+Vesselsat-2!Communications!LEO!Sun-Synchronous!0.0!479.0!490.0!0.00080239258881!97.5!94.3!29!nan!
+ViaSat-1!Communications!GEO!nan!-115.0!35775.0!35796.0!0.000249077819027!0.04!1436.09!6740!nan!
+Vinasat 1!Communications!GEO!nan!131.97!35782.0!35791.0!0.000106745104551!0.02!1436.1!2600!nan!
+Vinasat 2!Communications!GEO!nan!131.8!35742.0!35776.0!0.000403522514183!0.08!1434.69!2970!nan!
+VNREDSat 1A  (Vietnam Natural Resources Environment and Disaster monitoring small Satellite)!Earth Observation!LEO!Sun-Synchronous!0.0!682.0!685.0!0.000212660381371!98.13!98.43!115!nan!
+VRSS-1 (Venezuelan Remote Sensing Satellite, Francisco Miranda)!Earth Observation!LEO !Sun-Synchronous!0.0!622.0!654.0!0.00228310502283!98.03!97.48!880!nan!
+Wideband Global Satcom 1 (WGS-1, USA 195)!Communications!GEO!nan!0.0!35783.0!35790.0!8.30239702063e-05!0.0!1436.1!5900!13000!
+Wideband Global Satcom 2 (WGS-2, USA 204)!Communications!GEO!nan!60.0!35786.0!35787.0!1.18605671723e-05!0.03!1436.12!5987!13000!
+Wideband Global Satcom 3 (WGS-3, USA 211)!Communications!GEO!nan!-12.0!35785.0!35786.0!1.18608485251e-05!0.0!1436.1!5990!13000!
+Wideband Global Satcom 4 (WGS-4, USA 233)!Communications!GEO!nan!-124.5!35785.0!35786.0!1.18608485251e-05!0.01!1436.1!5990!13000!
+Wideband Global Satcom 5 (WGS-5, USA 243)!Communications!GEO!nan!-52.5!35785.0!35786.0!1.18608485251e-05!0.0!1436.1!5990!13000!
+Wideband Global Satcom 6 (WGS-6, USA 244)!Communications!GEO!nan!0.0!35785.0!35786.0!1.18608485251e-05!0.0!1436.1!5990!13000!
+Wideband Global Satcom 7 (WGS-7, USA 263)!Communications!GEO!nan!0.0!36000.0!36000.0!0.0!0.0!1436!5990!13000!
+WildBlue 1!Communications!GEO!nan!-111.09!35776.0!35796.0!0.000237214156941!0.01!1436.1!4735!10000!
+WNISat-1 Weather News Inc. Satellite 1)!Earth Observation!LEO!Sun-Synchronous!0.0!594.0!849.0!0.0179792709582!97.8!99.2!10!nan!
+Worldview 1!Earth Observation!LEO!Sun-Synchronous!0.0!491.0!494.0!0.000218579234973!97.3!94.5!4500!3200!
+Worldview 2!Earth Observation!LEO!Sun-Synchronous!0.0!765.0!767.0!0.000140134529148!98.5!100.2!2800!nan!
+Worldview 3!Earth Observation!LEO!Sun-Synchronous!0.0!612.0!614.0!0.000143204926249!97.99!96.96!2800!3100!
+Wren!Technology Development!LEO!Sun-Synchronous!0.0!593.0!640.0!0.00336362985758!97.8!97.3!2.5!nan!
+X37-B OTV-4 (USA 261)!Technology Development!LEO!Non-Polar Inclined!0.0!309.0!322.0!0.00119047619048!38.0!90.83!4990!nan!
+XC-1 (Xingchen 1)!Technology Development!LEO!Sun-Synchronous!0.0!520.0!540.0!0.00119047619048!97.46!95.23!1!nan!
+XC-2 (Xingchen 2)!Technology Development!LEO!Sun-Synchronous!0.0!520.0!540.0!0.00119047619048!97.46!95.23!1!nan!
+XC-3 (Xingchen 3)!Technology Development!LEO!Sun-Synchronous!0.0!520.0!540.0!0.00119047619048!97.46!95.23!1!nan!
+XC-4 (Xingchen 4)!Technology Development!LEO!Sun-Synchronous!0.0!520.0!540.0!0.00119047619048!97.46!95.23!1!nan!
+Xinyan 1 (XY-1)!Technology Development!LEO!Sun-Synchronous!0.0!489.0!501.0!0.000873998543336!97.35!94.51!nan!nan!
+XM Radio 3 (Rhythm)!Communications!GEO!nan!-85.04!35782.0!35790.0!9.48856627764e-05!0.01!1436.1!4703!18000!
+XM Radio 4 (Blues)!Communications!GEO!nan!-114.96!35784.0!35787.0!3.55825455753e-05!0.01!1436.09!5193!18000!
+XMM Newton (High Throughput X-ray Spectroscopy Mission)!Space Science!Elliptical!Deep Highly Eccentric!0.0!7079.0!114027.0!0.799037700043!38.4!2872.15!3764!nan!
+X-Sat!Earth Observation!LEO!Sun-Synchronous!0.0!801.0!823.0!0.00153160679476!98.7!101.1!91!175!
+XTAR-EUR!Communications!GEO!nan!29.03!35778.0!35792.0!0.000166053848891!0.1!1436.06!3631!nan!
+XW-1 (Hope Oscar 68, HO-68, Xi Wang 1, Hope-1, CAS-1)!Communications!LEO!Sun-Synchronous!0.0!1193.0!1205.0!0.000792707094728!100.3!109.4!60!nan!
+XW-2A (CAS-3A)!Communications!LEO!Sun-Synchronous!0.0!518.0!535.0!0.00123250924382!97.46!95.17!25!nan!
+XW-2B (CAS-3B)!Communications!LEO!Sun-Synchronous!0.0!520.0!539.0!0.00137691137039!97.46!95.22!10!nan!
+XW-2C (CAS-3C)!Communications!LEO!Sun-Synchronous!0.0!519.0!538.0!0.00137711096615!97.46!95.21!10!nan!
+XW-2D (CAS-3D)!Communications!LEO!Sun-Synchronous!0.0!520.0!539.0!0.00137691137039!97.46!95.22!10!nan!
+XW-2E (CAS-3E)!Communications!LEO!Sun-Synchronous!0.0!519.0!538.0!0.00137711096615!97.46!95.2!2!nan!
+XW-2F (CAS-3F)!Communications!LEO!Sun-Synchronous!0.0!520.0!540.0!0.00144927536232!97.46!95.23!2!nan!
+Yahsat-1A (Y1A)!Communications!GEO!nan!52.5!35743.0!35823.0!0.000948924157237!0.04!1435.92!5953!nan!
+Yahsat-1B (Y1B)!Communications!GEO!nan!47.6!35780.0!35791.0!0.000130469333776!0.0!1436.07!6000!nan!
+Yamal-202 !Communications!GEO!nan!49.03!35774.0!35796.0!0.000260941762543!0.04!1436.06!1320!2000!
+Yamal-300K!Communications!GEO!nan!90.0!35694.0!35866.0!0.00204033214709!0.14!1435.76!1640!nan!
+Yamal-401!Communications!GEO!nan!90.0!35761.0!35822.0!0.000723408797125!0.03!1436.33!2976!nan!
+Yamal-402!Communications!GEO!nan!55.0!35784.0!35789.0!5.93028358616e-05!0.06!1436.11!4463!nan!
+Yaogan 10 (Remote Sensing Satellite 10)!Earth Observation!LEO!Sun-Synchronous!0.0!625.0!628.0!0.000214392910741!97.8!97.2!nan!nan!
+Yaogan 11 (Remote Sensing Satellite 11)!Earth Observation!LEO!Sun-Synchronous!0.0!626.0!668.0!0.00299273193673!97.9!97.7!nan!nan!
+Yaogan 12 (Remote Sensing Satellite 12)!Earth Observation!LEO!Sun-Synchronous!0.0!487.0!496.0!0.000655833272608!97.4!94.4!nan!nan!
+Yaogan 13 (Remote Sensing Satellite 13)!Earth Observation!LEO!Sun-Synchronous!0.0!506.0!507.0!7.27e-05!97.4!94.8!nan!nan!
+Yaogan 14 (Remote Sensing Satellite 14)!Earth Observation!LEO!Sun-Synchronous!0.0!469.0!481.0!0.000876552227904!97.3!94.1!nan!nan!
+Yaogan 15 (Remote Sensing Satellite 15)!Earth Observation!LEO!Polar!0.0!1201.0!1207.0!0.000396091893319!100.2!109.5!1040!nan!
+Yaogan 16A (Remote Sensing Satellite 16A, Yaogan Weixing 16)!Earth Observation!LEO!Non-Polar Inclined!0.0!1080.0!1089.0!0.000603662217453!63.38!106.93!nan!nan!
+Yaogan 16B (Remote Sensing Satellite 16B)!Earth Observation!LEO!Non-Polar Inclined!0.0!1079.0!1090.0!0.000737809376886!63.38!106.93!nan!nan!
+Yaogan 16C (Remote Sensing Satlelite 16C)!Earth Observation!LEO!Non-Polar Inclined!0.0!1032.0!1081.0!0.00329899683566!63.38!106.33!nan!nan!
+Yaogan 17A (Remote Sensing Satellite 17A, Yaogan Weixing 17)!Earth Observation!LEO!Non-Polar Inclined!0.0!1076.0!1111.0!0.00234474442286!63.41!107.12!nan!nan!
+Yaogan 17B (Remote Sensing Satellite 17B)!Earth Observation!LEO!Non-Polar Inclined!0.0!1080.0!1111.0!0.00207621726609!63.42!107.13!nan!nan!
+Yaogan 17C (Remote Sensing Satellite 17C)!Earth Observation!LEO!Non-Polar Inclined!0.0!890.0!1112.0!0.015059015059!63.47!105.14!nan!nan!
+Yaogan 18 (Remote Sensing Satellite 18)!Earth Observation!LEO!Sun-Synchronous!0.0!509.0!513.0!0.00029065542799!97.54!94.84!nan!nan!
+Yaogan 19 (Remote Sensing Satellite 19)!Earth Observation!LEO!Sun-Synchronous!0.0!1201.0!1207.0!0.000396091893319!100.48!109.51!nan!nan!
+Yaogan 20A (Remote Sensing Satellite 20A)!Earth Observation!LEO!Non-Polar Inclined!0.0!1085.0!1095.0!0.000670241286863!63.4!107.05!nan!nan!
+Yaogan 20B (Remote Sensing Satellite 20B)!Earth Observation!LEO!Non-Polar Inclined!0.0!1087.0!1093.0!0.000402144772118!63.4!107.05!nan!nan!
+Yaogan 20C (Remote Sensing Satellite 20C)!Earth Observation!LEO!Non-Polar Inclined!0.0!1087.0!1094.0!0.000469137457275!63.4!107.05!nan!nan!
+Yaogan 21 (Remote Sensing Satellite 21)!Earth Observation!LEO!Sun-Synchronous!0.0!480.0!494.0!0.00102085460114!97.42!94.35!nan!nan!
+Yaogan 22 (Remote Sensing Satellite 22)!Earth Observation!LEO!Sun-Synchronous!0.0!1196.0!1209.0!0.000858369098712!100.32!109.48!nan!nan!
+Yaogan 23 (Remote Sensing Satellite 23)!Earth Observation!LEO!Sun-Synchronous!0.0!492.0!513.0!0.0015278283012!97.33!94.67!nan!nan!
+Yaogan 24 (Remote Sensing Satellite 24)!Earth Observation!LEO!Sun-Synchronous!0.0!630.0!653.0!0.00164016259003!97.91!97.55!nan!nan!
+Yaogan 25A (Remote Sensing Satellite 25A)!Earth Observation!LEO!Non-Polar Inclined!0.0!1089.0!1097.0!0.000535977488945!63.41!107.12!nan!nan!
+Yaogan 25B (Remote Sensing Satellite 25B)!Earth Observation!LEO!Non-Polar Inclined!0.0!1083.0!1093.0!0.000670421024403!63.42!107.01!nan!nan!
+Yaogan 25C (Remote Sensing Satellite 25C)!Earth Observation!LEO!Non-Polar Inclined!0.0!1092.0!1113.0!0.00140515222482!63.4!107.31!nan!nan!
+Yaogan 26 (Remote Sensing Satellite 26)!Earth Observation!LEO!Sun-Synchronous!0.0!487.0!491.0!0.000291587694999!97.44!94.39!nan!nan!
+Yaogan 27 (Remote Sensing Satellite 27)!Earth Observation!LEO!Sun-Synchronous!0.0!1201.0!1213.0!0.000791870133298!100.5!109.4!nan!nan!
+Yaogan 28 (Remote Sensing Satellite 28)!Earth Observation!LEO!Sun-Synchronous!0.0!460.0!482.0!0.00160795205379!97.24!94.02!1040!nan!
+Yaogan 29 (Remote Sensing Satellite 29)!Earth Observation!LEO!Sun-Synchronous!0.0!628.0!629.0!7.14438808316e-05!97.85!97.28!1040!nan!
+Yaogan 30 (Remote Sensing Satellite 30)!Earth Observation!LEO!Sun-Synchronous!0.0!628.0!656.0!0.00199657729606!98.07!97.57!2700!nan!
+Yaogan 4 (Remote Sensing Satellite 4)!Earth Observation!LEO!Sun-Synchronous!0.0!635.0!658.0!0.00163899380033!97.8!97.7!2700!nan!
+Yaogan 6 (Remote Sensing Satellite 6, Jian Bing 7-A)!Earth Observation!LEO!Sun-Synchronous!0.0!511.0!512.0!7.26585773451e-05!97.3!94.9!1800!nan!
+Yaogan 7 (Remote Sensing Satellite 7)!Earth Observation!LEO!Sun-Synchronous!0.0!628.0!665.0!0.00263664220053!98.0!97.7!2700!nan!
+Yaogan 8 (Remote Sensing Satellite 8)!Earth Observation!LEO!Sun-Synchronous!0.0!1192.0!1205.0!0.000858822752197!100.3!109.4!nan!nan!
+Yaogan 9A (Remote Sensing Satellite 9A)!Earth Observation!LEO!Non-Polar Inclined!0.0!1017.0!1164.0!0.00985188660277!63.4!107.1!nan!nan!
+Yaogan 9B (Remote Sensing Satellite 9B)!Earth Observation!LEO!Non-Polar Inclined!0.0!1017.0!1164.0!0.00985188660277!63.4!107.1!nan!nan!
+Yaogan 9C (Remote Sensing Satellite 9C)!Earth Observation!LEO!Non-Polar Inclined!0.0!1017.0!1164.0!0.00985188660277!63.4!107.1!nan!nan!
+Youthsat!Space Science!LEO!Sun-Synchronous!0.0!802.0!824.0!0.00153139356815!98.7!101.2!92!nan!
+Yubileiny (Jubilejnyj, Radio Sputnik 30 (RS-30))!Technology Development!LEO!Polar!0.0!1479.0!1508.0!0.00184396261207!82.5!115.8!45!nan!
+ZACube-1 (TshepisoSat)!Technology Development!LEO!Sun-Synchronous!0.0!594.0!683.0!0.00634943283156!97.8!94.4!1!nan!
+Zhangguo Ziyuan 2C (ZY-2C, JB-3C)!Earth Observation!LEO!Sun-Synchronous!0.0!555.0!606.0!0.0036688008057!97.2!96.3!nan!nan!
+Zheda Pixing 1B (ZP-1B, Zhejiang University-1B)!Space Science!LEO!Sun-Synchronous!0.0!619.0!653.0!0.00242649157865!97.9!97.4!3.5!nan!
+Zheda Pixing 1C (ZP-1C, Zhejiang University-1B!Space Science!LEO!Sun-Synchronous!0.0!620.0!653.0!0.00235495611218!97.9!97.5!3.5!nan!
+Zheda Pixing 2A (ZP-2A, ZDP-2A)!Technology Development!LEO!Sun-Synchronous!0.0!517.0!534.0!0.00123268798492!97.46!95.15!12!nan!
+Zheda Pixing 2B (ZP-2B, ZDP-2B)!Technology Development!LEO!Sun-Synchronous!0.0!517.0!535.0!0.00130510440835!97.45!95.16!12!nan!
+Zhongxing 10 (XZ-10, Chinasat 10)!Communications!GEO!nan!110.5!35775.0!35797.0!0.000260935572635!0.17!1436.05!5000!nan!
+Zhongxing 12 (Chinasat 12, SupremeSat-1, Apstar 7B, ZX-12)!Communications!GEO!nan!87.5!35759.0!35807.0!0.000569354494342!0.04!1435.92!5500!nan!
+Zhongxing 1A (Chinasat 1A, Fenghuo 2)!Communications!GEO!nan!129.84!35778.0!35796.0!0.000213487677017!0.3!1436.13!5200!nan!
+Zhongxing 20A !Communications!GEO!nan!130.0!35773.0!35799.0!0.000308378404023!0.55!1436.05!2300!nan!
+Zhongxing 22A (Chinastar 22A)!Communications!GEO!nan!103.28!35767.0!35807.0!0.000474417060037!0.07!1436.1!2300!nan!
+Zhongxing 2A (Chinasat 2A)!Communications!GEO!nan!98.0!35781.0!35792.0!0.000130466238896!0.19!1436.09!5200!nan!
+Zhongxing 9 (Chinasat 9, Chinastar 9)!Communications!GEO!nan!92.22!35759.0!35812.0!0.00062862497183!0.03!1436.1!nan!nan!
+Zijing 1!Technology Development!LEO!Sun-Synchronous!0.0!520.0!540.0!0.00144927536232!97.46!95.23!1!nan!
+Ziyuan 1-02C!Earth Observation!LEO!Sun-Synchronous!0.0!763.0!773.0!0.0007004763239!98.56!100.2!1500!nan!
+Ziyuan 3 (ZY-3)!Earth Observation!LEO!Sun-Synchronous!0.0!500.0!504.0!0.000291036088475!97.5!94.7!2650!nan!
+Ziyuan 3-2!Earth Observation!LEO!Sun-Synchronous!0.0!487.0!500.0!0.000947038682888!97.5!94.49!2630!nan!
