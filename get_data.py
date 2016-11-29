@@ -1,3 +1,17 @@
+"""
+Code to sort nicely the data from the Satelite database excel file,
+from concerned scientist.
+
+Author: Marian Daogaru, md2g12@soton.ac.uk
+Created on: 27/11/2016
+Last update: 29/11/2016
+
+used for FEEG6023 - Individual Research Project module,
+part of First Taught year for NGCM iPhD.
+"""
+
+
+
 from math import isnan
 import numpy
 import matplotlib.pyplot as plt
@@ -43,12 +57,15 @@ def sort_data():
     read_file = get_excel()
     cols = get_columns()
 
-    data = {"LEO" : '',
-            "GEO" : '',
-            "MEO" : '',
-            "Elliptical" : ''}
+    data = {"LEO" : {},
+            "GEO" : {},
+            "MEO" : {},
+            "Elliptical" : {}
+            }
+    mission_types_all = []
 
     for i in range(len(read_file[cols[0]])):
+        # make the message
         msg = ""
         for j in range(len(cols)):
             # getting rid of , in apogee and perigee height
@@ -57,15 +74,31 @@ def sort_data():
             else:
                 # split the initial string where the comma is,and then join it
                 msg += str(''.join(read_file[cols[j]][i].split(',')))
-        if str(read_file[cols[2]][i]) != 'nan':
-            data[(read_file[cols[2]][i].split())[0]] += msg + "\n"
+
+        # construct the message by getting the correct orbit & mission type
+        orbit = (str(read_file[cols[2]][i]).split())[0]
+        if orbit != 'nan':
+            mission_type = str(read_file[cols[1]][i]).split('/')
+            for mission in mission_type:
+                if mission not in data[orbit].keys():
+                    data[orbit][mission] = ''
+                data[orbit][mission] += msg + "\n"
+
+                # get all different types of mission types
+                if mission not in mission_types_all:
+                    mission_types_all.append(mission)
 
     with open("sorted.txt", 'w') as dat:
         for key in data.keys():
             dat.write("?{}:{}?\n\n\n".format(key, str(data[key])))
+    del (dat)
+
+    with open("mission_types.txt", "w") as mt:
+        for mis in mission_types_all:
+            mt.write("{}\n".format(str(mis)))
 
     return None
-#sort_data()
+sort_data()
 
 def retreive_data(orb):
     with open("sorted.txt", "r") as dat:
